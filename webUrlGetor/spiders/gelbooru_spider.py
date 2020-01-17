@@ -15,7 +15,7 @@ urllib3.disable_warnings()
 class ScrapyOschinaSpider(scrapy.Spider):
     name = "g"
     pid_list = []
-    allowed_domains = ["https://img2.gelbooru.com", "gelbooru.com"]
+    allowed_domains = ["gelbooru.com"]
     start_urls = ['https://gelbooru.com/index.php?page=post&s=list&tags=' + str(tags)]
     SQLTools = SQLTools()
     dirs = os.path.join(IMAGES_STORE, tags)
@@ -35,11 +35,10 @@ class ScrapyOschinaSpider(scrapy.Spider):
         for deep_link in deep_links:
             pattern = re.compile(r'id="p[0-9]+"')
             result1 = pattern.findall(deep_link)
-            print "result1-->", result1
             id_of = result1[0].split("=")[1][2:-1]
 
             new_http = "https://gelbooru.com/index.php?page=post&s=view&id=" + str(id_of) + "&tags=" + tags
-            yield scrapy.Request(new_http, callback=self.parse2, dont_filter=True)
+            yield scrapy.Request(new_http, callback=self.parse2, dont_filter=False)
 
             next_page_pre = scrapy.Selector(text=response.body)
             next_pages = next_page_pre.xpath("//a[contains(@href,'?page=post&s=list&tags=')]").extract()
@@ -57,7 +56,7 @@ class ScrapyOschinaSpider(scrapy.Spider):
                     print "next_page_url-->", next_page_url
                     self.pid_list.append(next_page_url)
                     print self.pid_list
-                    yield scrapy.Request(next_page_url, callback=self.parse, dont_filter=True)
+                    yield scrapy.Request(next_page_url, callback=self.parse, dont_filter=False)
 
 
 

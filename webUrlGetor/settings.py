@@ -221,24 +221,13 @@ z23_(azur_lane) yayoichi_(yoruyoru108) xue_lu miwabe_sakura jakoujika john_zerow
 ibuki_notsu  matsukawa_(pale_scarlet) yoruciel koukoku masaoka_misaki lambda_(kusowarota) u4284g nironiro kuroduki_(pieat)
 blackblades donedone lexis_yayoi ryoumoto_ken ozaki_mirai 1136002526 regumaki tia_(4017342)  fujimori_shiki azto_dio fay_(fay_axl)
 nitro_(mugityaoisii) yuuzaki sawada_yuusuke kase_daiki hisenkaede sukisukiharami obiwan kana616 michou akchu aogi_(pixiv9459043)
-youqiniang ken_ill miyakure tef matokechi fujieda_uzuki  swiftsure_(azur_lane) theleopardcat
-dyolf jjkl9195 gijang chaou amasora_taichi mauve kanadetsuki_shion taya taya_5323203
+youqiniang ken_ill miyakure tef matokechi fujieda_uzuki  swiftsure_(azur_lane) theleopardcat denchu_(kazudentyu)
+dyolf jjkl9195 gijang chaou amasora_taichi mauve kanadetsuki_shion taya taya_5323203 fukai_ryousuke hajikaji kleune foka_(beginner)
+shiino_sera hisasi hisashi_(nekoman) kaisu pupupu_(1053378452) hitaki_yuu
 """
-tags = "fukai_ryousuke"
+tags = "sakura_ani"
 
 """
-denchu_(kazudentyu)
-hajikaji
-kleune
-foka_(beginner)
-hisasi d g
-hisashi_(nekoman) k
-kaisu g
-twinbox 
-pupupu_(1053378452)
-hitaki_yuu
- d g y k
-sakura_ani 
 kinty
 natsuki_marina
 rimo
