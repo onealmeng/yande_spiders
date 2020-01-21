@@ -227,21 +227,12 @@ shiino_sera hisasi hisashi_(nekoman) kaisu pupupu_(1053378452) hitaki_yuu hitsuk
 sakura_ani kinty natsuki_marina aye game_cg minato_(ojitan_gozaru)  ame. rimo akashio_(loli_ace)
 nagu kuria_(clear_trip_second) chinomaron himiya_ramune sasai_saji agnam_ore necomi ggatip matatabi_maru 
 suisen nonono naoto_(tulip) chao_wu_xing_xian squchan naoto_(tulip) macaron_taitei sino_(sionori) sakura_neko
-rei_(rei's_room) mayogii gochou_(atemonai_heya) cai_geng yuririn_poi sama
+rei_(rei's_room) mayogii gochou_(atemonai_heya) cai_geng yuririn_poi sama akieda lerome
 """
-tags = "akieda"
+tags = "akatsuki_ikki"
 
 """
 
-
-
-lerome
-
-
-
-
-
-akatsuki_ikki
 kaetzchen
 tsukudani_norio
 tarachine

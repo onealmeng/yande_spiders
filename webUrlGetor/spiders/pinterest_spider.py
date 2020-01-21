@@ -34,7 +34,7 @@ class ScrapyOschinaSpider(scrapy.Spider):
         print result1
 
         for item in result1:
-            if "preview" in item or "logo" in item or "pixiv" in item or "pximg" in item or "sample" in item:
+            if "preview" in item or "logo" in item or "pixiv" in item or "pximg" in item or "sample" in item or "crop" in item:
                 pass
             elif not (item.endswith(".png") or item.endswith(".jpg")):
                 pass
