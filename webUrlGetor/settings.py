@@ -224,29 +224,21 @@ nitro_(mugityaoisii) yuuzaki sawada_yuusuke kase_daiki hisenkaede sukisukiharami
 youqiniang ken_ill miyakure tef matokechi fujieda_uzuki  swiftsure_(azur_lane) theleopardcat denchu_(kazudentyu)
 dyolf jjkl9195 gijang chaou amasora_taichi mauve kanadetsuki_shion taya taya_5323203 fukai_ryousuke hajikaji kleune foka_(beginner)
 shiino_sera hisasi hisashi_(nekoman) kaisu pupupu_(1053378452) hitaki_yuu hitsukuya nekonabe_ao keiran_(ryo170)
-sakura_ani kinty natsuki_marina aye game_cg minato_(ojitan_gozaru)  ame. rimo akashio_(loli_ace)
-nagu kuria_(clear_trip_second) chinomaron himiya_ramune sasai_saji agnam_ore necomi ggatip matatabi_maru 
-suisen nonono naoto_(tulip) chao_wu_xing_xian squchan naoto_(tulip) macaron_taitei sino_(sionori) sakura_neko
-rei_(rei's_room) mayogii gochou_(atemonai_heya) cai_geng yuririn_poi sama akieda lerome
+sakura_ani kinty natsuki_marina aye game_cg minato_(ojitan_gozaru)  ame. rimo akashio_(loli_ace) angel_no_shousou sencha
+nagu kuria_(clear_trip_second) chinomaron himiya_ramune sasai_saji agnam_ore necomi ggatip matatabi_maru  tarachine
+suisen nonono naoto_(tulip) chao_wu_xing_xian squchan naoto_(tulip) macaron_taitei sino_(sionori) sakura_neko kaetzchen
+rei_(rei's_room) mayogii gochou_(atemonai_heya) cai_geng yuririn_poi sama akieda lerome akatsuki_ikki tsukudani_norio
+kouyafu  leria_v sahara386 pochi_(pochigoya) kouzuki_fukurou fuji_dorokai kaede_(003591163) hanbenp
 """
-tags = "akatsuki_ikki"
+tags = "torano"
 
 """
 
-kaetzchen
-tsukudani_norio
-tarachine
-angel_no_shousou
-sencha
-kouyafu
-leria_v
-sahara386
-pochi_(pochigoya)
-kouzuki_fukurou
-fuji_dorokai
-kaede_(003591163)
-hanbenp
-torano
+
+
+
+
+
 """
 '''
 '''
