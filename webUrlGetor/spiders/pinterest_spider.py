@@ -23,7 +23,7 @@ class ScrapyOschinaSpider(scrapy.Spider):
             os.makedirs(dirs)
         except Exception as e:
             print e
-    print "图片存储位置-->", dirs
+    print "Pic Save Path-->", dirs
 
     def parse(self, response):
         time.sleep(5)
@@ -44,10 +44,10 @@ class ScrapyOschinaSpider(scrapy.Spider):
 
                 if os.path.exists(path):
                     print tags
-                    print "文件已经存在"
+                    print "file exit!"
                 elif len(self.SQLTools.query_from_UserNew_more_info(file_name)) > 0:
                     print tags
-                    print "文件已存在，数据库中有记录"
+                    print "file exit in db! "
                 else:
                     try:
                         time.sleep(1)
@@ -58,7 +58,7 @@ class ScrapyOschinaSpider(scrapy.Spider):
                         with open(path, 'wb') as f:
                             f.write(img)
                         f.close()
-                        print "保存成功！文件名为%s" % file_name
+                        print "Save Success!Save Path-->%s" % file_name
                         self.SQLTools.insert_into_new_db(file_name, tags)
                     except:
                         pass
@@ -76,10 +76,10 @@ class ScrapyOschinaSpider(scrapy.Spider):
 
                         if os.path.exists(path):
                             print tags
-                            print "文件已经存在"
+                            print "file exit!"
                         elif len(self.SQLTools.query_from_UserNew_more_info(file_name)) > 0:
                             print tags
-                            print "文件已存在，数据库中有记录"
+                            print "file exit in db!"
                         else:
                             try:
                                 time.sleep(1)
