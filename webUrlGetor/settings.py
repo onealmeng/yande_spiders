@@ -217,7 +217,7 @@ fujima_takuya sakipsakip maosame takeg05 tokinohimitsu yang_guifei_(fate/grand_o
  kurumi_moka shichimiyagin love_makira tenzeru paaru yuuko_(030_yuko) terry_(pixiv3274443) solru piyodera_mucha
 kurikara  riv marmoset0 marmoset_(marmoset0) haru_(re_ilust) tail sakura_(mtmr4354) hinaki_(hinaki_0102) motohara_moka sirius_(azur_lane)
 bison_cangshu  miyase_mahiro tyot swimsuits rouka_(akatyann) gzsd natsumii_chan mizunashi_kenichi  tail akin_(asada0825p) kousaki_rui
-z23_(azur_lane) yayoichi_(yoruyoru108) xue_lu miwabe_sakura jakoujika john_zerowb  aki99  nekoko_(windcat429)
+z23_(azur_lane) yayoichi_(yoruyoru108) xue_lu  jakoujika john_zerowb  aki99  nekoko_(windcat429)
 ibuki_notsu  matsukawa_(pale_scarlet) yoruciel koukoku masaoka_misaki lambda_(kusowarota) u4284g nironiro kuroduki_(pieat)
 blackblades donedone lexis_yayoi ryoumoto_ken ozaki_mirai 1136002526 regumaki tia_(4017342)  fujimori_shiki azto_dio fay_(fay_axl)
 nitro_(mugityaoisii) yuuzaki sawada_yuusuke kase_daiki hisenkaede sukisukiharami obiwan kana616 michou akchu aogi_(pixiv9459043)
@@ -230,20 +230,36 @@ suisen nonono naoto_(tulip) chao_wu_xing_xian squchan naoto_(tulip) macaron_tait
 rei_(rei's_room) mayogii gochou_(atemonai_heya) cai_geng yuririn_poi sama akieda lerome akatsuki_ikki tsukudani_norio
 kouyafu  leria_v sahara386 pochi_(pochigoya) kouzuki_fukurou fuji_dorokai kaede_(003591163) hanbenp  torano
 shanghmely  anmi tagme_(artist) komeshiro_kasu fukahire_(ruinon) saru mishima_kurone hokori_sakuni
-tming matsui_hiroaki gei_daipf nagu  azuuru analog_kenshi_(moto) roslyria konomi
+tming matsui_hiroaki gei_daipf nagu  azuuru analog_kenshi_(moto) roslyria konomi urata_asao
 t6_ti minato_aqua fast-runner-2024 kamishiro_(rsg10679) tamano_kedama criin chikuwa. kinokorec dreamcatcher
 hasune aimee_(emi) siino emily_(pure_dream)  ohara_tometa fuumi_(radial_engine) yuxian_youka nanotaro konomi hoshi
 u35 tokenbox jaga_yamatarawo k-doku clouble onineko hirotan_insitao tomo_(user_hes4085) fallen_heaven
-amedamacon oryou sakuragi_ren yunamaro misumi_(macaroni) toridamono jyt ju_(a793391187)
-hidaka0503 seon_(seonon_) anparu cait shuugetsu_karasu umibouzu_(niito) momoko_(momopoco)
+amedamacon oryou sakuragi_ren yunamaro misumi_(macaroni) toridamono jyt ju_(a793391187) maritaki yano_momoko user_yzzn3747
+hidaka0503 seon_(seonon_) anparu cait shuugetsu_karasu umibouzu_(niito) momoko_(momopoco) hiraga_matsuri wasabi_(sekai)
+yashiro_seika wowoguni ke-ta miwabe_sakura
+sawa_(sawasaku)  to_naive miruto_netsuki
+youmu_(tomgoku2) nari_(narikashi)
 """
-tags = "maritaki"
+tags = "okota_mikan"
 
 """
-
+tatapopo   osa_(osaosa)  kyouya_(mukuro238)
+note55885  takeashiro
+burenbo
+fuyuki030
+kanzaki_hiro
+racchi.
+roriwanko
+fukunoki_tokuwa
+hakuishi_aoi
+child_(isoliya)
+kachiyori
+nedia_(nedia_region)
+kinugasa_yuuichi
+soushou_nin
+ochiai_miyabi
 """
-'''
-'''
+
 
 IMAGES_URLS_FIELD = "pic_url"
 # 设置图片下载后的存储路径，放到工程目录下images文件夹
