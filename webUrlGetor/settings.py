@@ -246,15 +246,15 @@ k.syo.e%2B hatsuki_kaname bsue tonari_no_kai_keruberosu ama_mitsuki apple_ringo 
 rorinya dyolf purin_jiisan komori_kuzuyu muq ntk_(7t5) chamio77 kinona dangmyo omega.ep p.i.t.d momoko_(momopoco) daye_bie_qia_lian
 doroshi gomzi akira_(been0328) soyubee kanola_u kuroshiro_(ms-2420) ginhaha wuming 100% komone_ushio sogawa66 dangmill
 hiiragi_souren tanbonota46 pro-p hano_haruka tsubasa_tsubasa kentaurosu nanakagura plumw lebring twinameless ouka_(ra-raradan)
-nekometaru yoo_(tabi_no_shiori) nise6 amane_kurumi satosi sakura_koharu yumesaki gejigejier aliter sayori
+nekometaru yoo_(tabi_no_shiori) nise6 amane_kurumi satosi sakura_koharu yumesaki gejigejier aliter sayori ko_katakuchiiwashi
 ancotaku kouda_suzu sorai_shin'ya ex_idol riichu kanora sawayaka_samehada morikura_en hajin shimokirin karumayu
 """
-tags = "ko_katakuchiiwashi"
+tags = "pasdar"
 
 """
 
 
-pasdar  keepout
+  keepout
  bashen_chenyue
 shuutou_haruka
 yuzuka  mafuyu_(chibi21)
