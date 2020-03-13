@@ -249,23 +249,17 @@ hiiragi_souren tanbonota46 pro-p hano_haruka tsubasa_tsubasa kentaurosu nanakagu
 nekometaru yoo_(tabi_no_shiori) nise6 amane_kurumi satosi sakura_koharu yumesaki gejigejier aliter sayori ko_katakuchiiwashi
 ancotaku kouda_suzu sorai_shin'ya ex_idol riichu kanora sawayaka_samehada morikura_en hajin shimokirin karumayu pasdar keepout
 bashen_chenyue shuutou_haruka yuzuka  hmw_(pixiv7054584) gedou_(shigure_seishin) kokose
-bachibachi_(tisen) mishuo_(misuo69421) nasii
-kuroi_asahi cow-ring maruki_nobuaki
-"""
-tags = "mofu_namako"
+bachibachi_(tisen) mishuo_(misuo69421) nasii eihi weri rosuuri ranju_aira
+kuroi_asahi cow-ring maruki_nobuaki mofu_namako lava_(25486006) izumo_(user_cmcy2878)
+ttosom hirai_yuzuki kh_(kh_1128)
 
 """
 
 
+tags = "amacha"
 
+"""
 
-
-
-eihi  lava_(25486006) weri
-   rosuuri  ranju_aira
-izumo_(user_cmcy2878)
-hirai_yuzuki
-kh_(kh_1128)
 izumo_neru
 tokunou_shoutarou
 hachita_(odangoya)
