@@ -144,16 +144,17 @@ ITEM_PIPELINES = {
 
 
 """
-miyasaka_miyu nenosame  maruchan. shiokazunoko ponika
-
+miyasaka_miyu nenosame  maruchan. shiokazunoko ponika arudehido masuishi_kinoto houkou_yuuka
+paint_musume kagematsuri miwano_ragu wagashi928
 """
 
 
-tags = "arudehido"
+tags = "weeniedesu"
 
 """
-    kagematsuri miwano_ragu
-wagashi928 weeniedesu miporinrpg
+   
+     
+  miporinrpg
 rariemonn  misaki_kurehito  hato_haru  denchu_(kazudentyu)
 darjeeling_(reley)  kazuha_(saku_kn)
 ounijang  allenes  sune_(mugendai)  shipii_(jigglypuff)
@@ -191,7 +192,7 @@ matsui_hiroaki torino_akua
 bada_jksh5056
 efe  SM兽耳娘
 filings_(ailuo_c)  山城
-fuji_noyume 
+fuji_noyume     ririko_(zhuoyandesailaer)黑丝大长腿
 fujieda_uzuki 碧蓝18r
 gyouzanuko 龙王的工作  师姐
 haneru  R18捆绑极品  tokkyu 
@@ -268,7 +269,7 @@ tags = "bandaid" done  natsukawa_masuzu  yijian_ma  saya_(mychristian2)  abandon
 tags = "suomi_kp31_(girls_frontline)"   nazu-na  mvv  chunrijun_(springer)  superpig  sakai_kyuuta  kuang_(kzhw7588)
 tags =   satsuki_neko  mizuhara_yuu  girl_cafe_gun  rin_yuu  haribote_(tarao)  jimmy  chiachun0621
 tags = "ryuuou_no_oshigoto!" done   silver_(chenwen)  k_mugura  umibouz  hasekura_chiaki   
-tags = "shera_l._greenwood" done  junpaku_karen    pdxen  ringozaka_mariko  mirea  kanju  chita_(ketchup)
+tags = "shera_l._greenwood" done  junpaku_karen    pdxen  ringozaka_mariko  mirea  kanju  chita_(ketchup)狐妖
 tags = "belfast_(azur_lane)"done      maid    niliu_chahui  saya_(mychristian2)
 tags = "gyouzanuko" done  ichiyou_moka  yuudachi_(azur_lane)  parfaitlate mirei  masayo_(gin_no_ame)  infinote
 tags = "minakami_rinka" done    maeda_shiori   araragikoyomis  bikini  motomiya_mitsuki  akishino_himeka  kim_eb  necomi ibara_riato
@@ -287,7 +288,7 @@ gurande_(g-size) nagayama_yuunon kabako baseness  mokew  oyu_(sijimisizimi)    m
 77gl pikuharu dre  yuna_(deadawon)  lisu soya_(torga)  ppyono apple_caramel  haru_(hiyori-kohal)  bison_cangshu  silltare  hanekoto  blush
 kanadetsuki_shion sen_(astronomy) kurou_(quadruple_zero) kusano_houki uosaasou  yoshida_iyo  siloteddy  uncensored# y站爬到39 takehana_note
 ikeuchi_tanuma kazuharu_kina kazutake_hazano yukishiro_arute nagishiro_mito kinokomushi h2o_(dfo) hyuuga_azuri yukimaru217 uncensored ryoutan
-manda_(eyelashes)  kanadetsuki_shion  yatomi ririko_(zhuoyandesailaer) tsunako peko u2_(5798239) rurikoma tsuedzu  pinb piromizu yuran
+manda_(eyelashes)  kanadetsuki_shion  yatomi tsunako peko u2_(5798239) rurikoma tsuedzu  pinb piromizu yuran
 fufumi   jigatei_(omijin) denfunsan mayag nuko_miruku sukireto mechuragi rurikoma efe pan_(mimi)   hazuki_(sutasuta)
 
 ==============以下为特级画师   P站关注的画师已经看完第6页
