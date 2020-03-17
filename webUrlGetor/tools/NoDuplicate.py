@@ -212,8 +212,11 @@ if __name__ == '__main__':
     x = SavePic()
     parser = argparse.ArgumentParser()
     parser.add_argument('floderName', help='floderName')
+    parser.add_argument('-z', '--zip', action='store', dest='env_value', default='1',
+                        help='need zpied')
     args = parser.parse_args()
     print args.floderName
+    print args.env_value
     # now_dir = os.path.dirname(os.path.abspath(__file__))
     # project_dir = os.path.split(now_dir)[0]
     # img_path = os.path.join(project_dir, "images")
@@ -234,12 +237,12 @@ if __name__ == '__main__':
     need_delete_list_file_name = x.main(file_patha)
     floderName_new = floderName + "_ndStart_ndDone"
     print floderName_new
-    os.system('cd ' + str(img_path))
-    os.system('ls')
-    os.system('pwd')
-    zip_cmd = 'zip -r %s.zip %s/' % (floderName_new, floderName_new)
-    print zip_cmd
-    os.system(zip_cmd)
-    # os.system('mv %s.zip /Users/dingtone/Downloads/pic_need_to/%s.zip' % (floderName_new, floderName))
+    if args.env_value =='1':
+        cd_cmd = 'cd ' + str(img_path)
+        zipcmd = 'zip -r %s.zip %s/' % (floderName_new, floderName_new)
+        mv_cmd = 'mv %s.zip /Users/dingtone/Downloads/pic_need_to/%s.zip' % (floderName_new, floderName)
+        delete_cmd = 'rm -rf %s' % floderName_new
+        all_cmd = cd_cmd + "&&" + zipcmd + "&&" + mv_cmd + "&&" + delete_cmd
+        os.system(all_cmd)
 
     os.system('say "去重完成！"')
