@@ -145,16 +145,16 @@ ITEM_PIPELINES = {
 
 """
 miyasaka_miyu nenosame  maruchan. shiokazunoko ponika arudehido masuishi_kinoto houkou_yuuka
-paint_musume kagematsuri miwano_ragu wagashi928
+paint_musume kagematsuri miwano_ragu wagashi928 weeniedesu
 """
 
 
-tags = "weeniedesu"
+tags = "miporinrpg"
 
 """
    
      
-  miporinrpg
+  
 rariemonn  misaki_kurehito  hato_haru  denchu_(kazudentyu)
 darjeeling_(reley)  kazuha_(saku_kn)
 ounijang  allenes  sune_(mugendai)  shipii_(jigglypuff)
