@@ -144,21 +144,16 @@ ITEM_PIPELINES = {
 
 
 """
-miyasaka_miyu nenosame  maruchan. shiokazunoko ponika arudehido masuishi_kinoto houkou_yuuka
-paint_musume kagematsuri miwano_ragu wagashi928 weeniedesu misaki_kurehito hato_haru
+miyasaka_miyu nenosame  maruchan. shiokazunoko ponika arudehido masuishi_kinoto houkou_yuuka darjeeling_(reley) allenes sune_(mugendai)
+paint_musume kagematsuri miwano_ragu wagashi928 weeniedesu misaki_kurehito hato_haru denchu_(kazudentyu) kazuha_(saku_kn) ounijang
+shipii_(jigglypuff)  sutorora inushi nabi_(uz02) mirai_(happy-floral)
 """
 
 
-tags = "denchu_(kazudentyu)"
+tags = "shimo_(shimo332215)"
 
 """
-      
-darjeeling_(reley)  kazuha_(saku_kn)
-ounijang  allenes  sune_(mugendai)  shipii_(jigglypuff)
-sutorora  inushi
-nabi_(uz02)
-mirai_(happy-floral)
-shimo_(shimo332215)
+
 sango_30
 amaroku_neko
 beni_kurage
