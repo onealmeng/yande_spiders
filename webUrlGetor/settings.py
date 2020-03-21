@@ -153,7 +153,8 @@ shipii_(jigglypuff)  sutorora inushi nabi_(uz02) mirai_(happy-floral)
 tags = "shimo_(shimo332215)"
 
 """
-
+obiwan
+bara0717  paburisiyasu  reinama  nasuno_(nasuno42)  tksand  higandgk  okina_ika  
 sango_30
 amaroku_neko
 beni_kurage
