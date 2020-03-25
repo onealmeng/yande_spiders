@@ -114,5 +114,4 @@ class ScrapyOschinaSpider(scrapy.Spider):
             #     next_page_url = url_pre[0] + "page=" + str(result1[0])
             yield scrapy.Request(next_page_url, callback=self.parse, dont_filter=True)
         else:
-            os.system('say "Y 站爬取完成！"')
             sys.exit(str(tags) + "Y站爬取完成！")

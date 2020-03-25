@@ -146,37 +146,36 @@ ITEM_PIPELINES = {
 """
 miyasaka_miyu nenosame  maruchan. shiokazunoko ponika arudehido masuishi_kinoto houkou_yuuka darjeeling_(reley) allenes sune_(mugendai)
 paint_musume kagematsuri miwano_ragu wagashi928 weeniedesu misaki_kurehito hato_haru denchu_(kazudentyu) kazuha_(saku_kn) ounijang
-shipii_(jigglypuff)  sutorora inushi nabi_(uz02) mirai_(happy-floral)
+shipii_(jigglypuff)  sutorora inushi nabi_(uz02) mirai_(happy-floral) shimo_(shimo332215) obiwan bara0717 paburisiyasu nasuno_(nasuno42) ghostfin
+tksand higandgk okina_ika sango_30 amaroku_neko beni_kurage atha_(leejuiping) nijihashi_sora orn gukha toyosaki_shu higandgk tanaka_takayuki
+r_o_ha refile  kedama_milk wari_(nirodo26) eumi_114 tsukiyo_(skymint) kohakope k_jie hebitsukai-san ichiki_1 hyonee touhourh ansauce gatari
+ss851251
+
 """
 
 
-tags = "shimo_(shimo332215)"
+tags = "tobimura"
 
 """
-obiwan
-bara0717  paburisiyasu  reinama  nasuno_(nasuno42)  tksand  higandgk  okina_ika  
-sango_30
-amaroku_neko
-beni_kurage
-atha_(leejuiping)
-nijihashi_sora
-orn  gukha toyosaki_shu
-higandgk
-tanaka_takayuki  ghostfin
-mashiro_aa
+
+               shiwasu_horio fallen-leaves
+ryuki_(ryukisukune) harimoji peach_punch tsunekichi chikuwa_savi nanahara_fuyuki nakyo matarou_(genkai_toppa)
+  n2_(yf33)  tr-6  gin00
+mashiro_aa gendo0032 
 """
 
 
 """
 特级画师
-akashio
+akashio  lava_(25486006)
 akyorapenyo
 amashiro_natsuki--->mafuyu_(chibi21)--》Mafuyu
 anmi
 ayamy
 kobuichi tokunou_shoutarou yukari_(rihenara_doll)
+reinama
 -----------------------------------------------------
-   atdan fuji_choko  jyt
+   atdan fuji_choko  jyt hatsuki_kaname
 haishiki kisaragi_yuri
 hoshi_(snacherubi)
 usagihime
@@ -320,7 +319,7 @@ sawa_(sawasaku)  to_naive miruto_netsuki tatapopo osa_(osaosa) fuyuki030 kanzaki
 youmu_(tomgoku2) nari_(narikashi) okota_mikan note55885 burenbo racchi. roriwanko child_(isoliya) kachiyori soushou_nin
 gomano_rio tokki yuya_(night_lily) noeru_(gt17854) miyukiyo itakurakou1993 natsuki_(ukiwakudasai) sasaame gyozanuko ruda_(ruda_e)
 ichizon-->{iljon_(ichizen) Y } kakao_rantan massala amagai_tarou achiki ramchi catxuan tetsujin_momoko ominaeshi_(takenoko)
-k.syo.e%2B hatsuki_kaname bsue tonari_no_kai_keruberosu ama_mitsuki apple_ringo oekakizuki  iljon_(ichizen)
+k.syo.e%2B  bsue tonari_no_kai_keruberosu ama_mitsuki apple_ringo oekakizuki  iljon_(ichizen)
 rorinya dyolf purin_jiisan komori_kuzuyu muq  chamio77 kinona dangmyo omega.ep p.i.t.d momoko_(momopoco) daye_bie_qia_lian
 doroshi gomzi akira_(been0328) soyubee kanola_u kuroshiro_(ms-2420) ginhaha wuming 100% komone_ushio sogawa66 dangmill
 hiiragi_souren tanbonota46 pro-p hano_haruka tsubasa_tsubasa kentaurosu nanakagura plumw lebring twinameless ouka_(ra-raradan)
@@ -328,7 +327,7 @@ nekometaru yoo_(tabi_no_shiori) nise6 amane_kurumi satosi sakura_koharu yumesaki
 ancotaku kouda_suzu sorai_shin'ya ex_idol riichu kanora sawayaka_samehada  hajin shimokirin karumayu pasdar keepout
 bashen_chenyue shuutou_haruka yuzuka  hmw_(pixiv7054584) gedou_(shigure_seishin) kokose
 bachibachi_(tisen) mishuo_(misuo69421) nasii eihi weri rosuuri ranju_aira
-kuroi_asahi cow-ring maruki_nobuaki mofu_namako lava_(25486006) izumo_(user_cmcy2878)
+kuroi_asahi cow-ring maruki_nobuaki mofu_namako  izumo_(user_cmcy2878)
 ttosom hirai_yuzuki kh_(kh_1128) amacha  nanananana yuuki_rika ateoyh akitsuki_tsukasa
 qigas  hachita_(odangoya) vashaps2 kurot izumo_neru kanon_(kanon_kanon0770) kiyosato0928
 katsushika_hokusai_(fate/grand_order) nekomicha shiino_sera
