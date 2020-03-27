@@ -1,13 +1,13 @@
 #!/bin/bash
-echo "开始爬取！"
-name=$1
-if [ "${name}" == "all" ]
-then
-   echo "三站爬取"
-   scrapy crawl "y"
-   scrapy crawl "k"
-   scrapy crawl "d"
-   scrapy crawl "g"
-else
-  scrapy crawl "${name}"
-fi
+beginTime=date+'%s'
+echo "k开始爬取！" &
+scrapy crawl "k" &
+echo "d开始爬取！" &
+scrapy crawl "d" &
+echo "g开始爬取！" &
+scrapy crawl "g" &
+echo "y开始爬取！" &
+scrapy crawl "y" &
+wait
+endTime=date+'%s'
+echo "总共耗时:" "${endTime}"-"${beginTime}" "秒"
