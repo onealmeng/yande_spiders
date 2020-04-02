@@ -53,9 +53,7 @@ class ScrapyOschinaSpider(scrapy.Spider):
                     pattern = re.compile(r'pid=\d+')  # 查找数字
                     result1 = pattern.findall(next_page_new)
                     next_page_url = self.start_urls[0] + "&" + str(result1[0])
-                    print "next_page_url-->", next_page_url
                     self.pid_list.append(next_page_url)
-                    print self.pid_list
                     yield scrapy.Request(next_page_url, callback=self.parse, dont_filter=False)
 
 
