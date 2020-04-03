@@ -4,21 +4,24 @@ import sys
 
 sys.path.append(os.path.dirname(os.path.abspath(__file__)) + '/../../')
 """
-yukisame  tamakaga jh aldehyde yukishiro_arute aruka_(alka_p1) mizuka_nayuki
-"""
-tags = "mairo"
+yukisame  tamakaga jh aldehyde yukishiro_arute aruka_(alka_p1) mizuka_nayuki mairo asa0504 ss851251 nagisa_(cxcx5235) ragho_no_erika
+iren_lovel lunacle gilse yushima melings_(aot2846) mafuyu kazenokaze fakegeo tiguruvurumudo_vuorun takunomi ookuma_(qq) nanotsuki tantan_men_(dragon)
+rednian topia fal_maro zoff_(daria) kizibato123go kamioka_shun'ya ashima fuzichoko amano_kouki paya_(aejx234) minami_saki boku_koyuki_mx
+ramunezake  223_(pixiv332210012) shinoba kurigura_(sketch_san)
+cuna_(qunya) yaman konata_(knt_banri) shiro_kuma_shake dosu_(yodosu)
+
 
 """
+tags = "sanshoku_amido"
 
-nagisa_(cxcx5235)
-ragho_no_erika    gilse yushima  melings_(aot2846) mafuyu kazenokaze
-fakegeo tiguruvurumudo_vuorun takunomi
-ookuma_(qq) nanotsuki
-rednian tantan_men_(dragon)
-topia fal_maro
-zoff_(daria)
-kizibato123go
-kamioka_shun'ya
+"""
+cut_(bu-kunn)  kobayashi_chisato ezoshika
+nazuna_shizuku ameyame mugi_(banban53)
+oli  tuchinokoeffect  
+araki495 niji_(rudduf232)
+   rafael-m puracotte
+ yinqi norukinoko_(reee52) monoto naryoung
+seneto  nishizawa gou_lianlian_dogface taiyaking
 """
 
 BOT_NAME = 'webUrlGetor'
@@ -163,16 +166,17 @@ ITEM_PIPELINES = {
 
 """
 特级画师 
+nephthys2356 tsukiyo_(skymint)
 byulzzimon 碧蓝画师   knoy3356
-taku_michi pjrmhm_coa
-kedama_milk nanam_(nanam_sk) pei_er_xia nephthys2356 mellozzo   hokori_sakuni凑阿库娅
+taku_michi pjrmhm_coa unacchi_(nyusankin)
+kedama_milk nanam_(nanam_sk) pei_er_xia  mellozzo   hokori_sakuni凑阿库娅
 akashio  lava_(25486006)  kisaragi_yuri reinama deecha
 akyorapenyo atdan bada_jksh5056     fujieda_uzuki碧蓝18r
 amashiro_natsuki--->mafuyu_(chibi21)--》Mafuyu karutamo
 anmi fuji_choko usagihime 
 muririn 魔女的夜宴
-ayamy超级蕾姆 r_o_ha
-ramchi hayataku1234 jiiwara
+ayamy超级蕾姆 r_o_ha ramchi
+ hayataku1234 jiiwara
 komeshiro_kasu 超级美 twinbox_(circle)
 kouda_suzu 超级智乃
 jyt lebring hoshi_(snacherubi)
@@ -186,13 +190,16 @@ ikomochi 山城  irohasu karutamo  sunhyun
 ririko_(zhuoyandesailaer) 黑丝大长腿 kaetzchen
 kimishima_ao 恋彼女画师  koyama_sao maccha morikura_en
 misomiso_154 mkichi shiratama_akane
-shiino_sera
+shiino_sera gomano_rio
 matsui_hiroaki 凑阿库娅 超级
 sousouman--->twinbox_school 超级
 hiten_(hitenkei)  超级
+
 -----------------------------------------------------
+rurudo 超级
+burenbo  weri
 amane_kurumi  keiran_(ryo170)
-gyouzanuko 龙王的工作  师姐
+gyouzanuko 龙王的工作  师姐  r_o_ha
 k.syo.e%2B 初音超级  
 kantoku rin_yuu
 mullpull murasaki_murasakiiro_no_yoru
@@ -240,7 +247,7 @@ IMAGES_MIN_WIDTH = 100
 
 """
 tags = "rouka" done
-tags = "rurudo" done
+tags = "" done
 
 tags = "unicorn_%28azur_lane%29" # 独角兽（碧蓝航线）done
 tags = "takao_%28azur_lane%29"  # 高雄 done
@@ -257,7 +264,7 @@ tags = "ibuki_%28azur_lane%29"  # 伊吹
 tags = "rem_(re_zero)"  # re0 done tyone
 tags = "rem_galleu" done 蕾姆 异界少女召唤术  rimuu yamashiro_(azur_lane)  schreibe_shura
 tags = "myuseru_foaran" done    compile_heart  shiratama    momoko    nanahachi
-tags = "bandaid" done  natsukawa_masuzu  yijian_ma  saya_(mychristian2)  abandon_ranka  heartsix
+tags = "bandaid" done  natsukawa_masuzu  yijian_ma  abandon_ranka  heartsix
 tags = "suomi_kp31_(girls_frontline)"   nazu-na  mvv  chunrijun_(springer)  superpig  sakai_kyuuta  kuang_(kzhw7588)
 tags =   satsuki_neko  mizuhara_yuu  girl_cafe_gun    haribote_(tarao)  jimmy  chiachun0621
 tags = "ryuuou_no_oshigoto!" done   silver_(chenwen)  k_mugura  umibouz  hasekura_chiaki   
@@ -271,11 +278,12 @@ prinz_eugen_(azur_lane) yukikaze_(azur_lane) done  tokkzyu   wsman  takimoto_hif
 """
 
 """ 
+racchi.
 miyasaka_miyu nenosame  maruchan. shiokazunoko ponika arudehido masuishi_kinoto houkou_yuuka darjeeling_(reley) allenes sune_(mugendai)
 paint_musume kagematsuri miwano_ragu wagashi928 weeniedesu misaki_kurehito hato_haru denchu_(kazudentyu) kazuha_(saku_kn) ounijang
 shipii_(jigglypuff)  sutorora inushi nabi_(uz02) mirai_(happy-floral) shimo_(shimo332215) obiwan bara0717 paburisiyasu nasuno_(nasuno42) ghostfin
 tksand higandgk okina_ika sango_30 amaroku_neko beni_kurage atha_(leejuiping) nijihashi_sora  gukha toyosaki_shu higandgk tanaka_takayuki
-r_o_ha refile   wari_(nirodo26) eumi_114 tsukiyo_(skymint) kohakope k_jie hebitsukai-san ichiki_1 hyonee touhourh ansauce gatari
+ refile   wari_(nirodo26) eumi_114  kohakope k_jie hebitsukai-san ichiki_1 hyonee touhourh ansauce gatari
 ss851251 tobimura shiwasu_horio fallen-leaves ryuki_(ryukisukune) peach_punch tr-6 gin00 cp00 dango_(dangowalolicon) marigold12
 harimoji  tsunekichi chikuwa_savi nanahara_fuyuki nakyo matarou_(genkai_toppa) n2_(yf33) mashiro_aa gendo0032 haruka_natsuki wu_ganlan_cai
 zukan_(db_tyoutyo) tandohark hecha_(swy1996228) kuria_(clear_trip_second) kurisu-kun gintarou gintarou_(kurousagi108) 
@@ -283,7 +291,7 @@ kachayori greatmosu hyury natsu97 rk_(rktorinegi) takubon yuki_arare yutsuki_war
 jun_(540000000000000) ziko saitou_masatsugu qbase00 ayuma_sayu monyu_(monyupop) neko_ni_mieru  ran'ou_(tamago_no_kimi)
 misumi_(macaroni) kano_(mgnnew12) inhoya2000 bison_cangshu shirai_tanuki motokonut nc731 inhoya2000 na!?_(naxtuyasai)
 al_mican  baram doma_umaru komaru nekoronbusu hatsunatsu cheli_(kso1564) shunichi piyopoyo dango_remi chieri06
-dk.senie  norazura unacchi_(nyusankin) kyaroru suzuharu_toufu sak_(lemondisk) wataame27 zhongwu_chahui enumiyan little_egg
+dk.senie  norazura  kyaroru suzuharu_toufu sak_(lemondisk) wataame27 zhongwu_chahui enumiyan little_egg
 kaniya_shiku zhongwu_chahui taisho_(gumiyuki) usashiro_mani morerin heripiro kuran_(yourcatissick) cygnet_(azur_lane)
 pantie_painting aozora_nan furukawa_itsuse shimmer sencha_(senta_10) fleur seventeen_(st17215) t6_ti untsue okazu_(eightstudio)
 yu_ni_t joker_(tomakin524) hoppege marisasu_(marisa0904) star741 arrichee nullken  silly_(marinkomoe) siooooono
@@ -305,7 +313,7 @@ gurande_(g-size) nagayama_yuunon kabako baseness    oyu_(sijimisizimi)    mignon
 kanadetsuki_shion sen_(astronomy) kurou_(quadruple_zero) kusano_houki uosaasou  yoshida_iyo  siloteddy  uncensored# y站爬到39 takehana_note
 ikeuchi_tanuma kazuharu_kina kazutake_hazano  nagishiro_mito kinokomushi h2o_(dfo) hyuuga_azuri yukimaru217 uncensored ryoutan
 manda_(eyelashes)  kanadetsuki_shion  yatomi tsunako peko u2_(5798239) rurikoma tsuedzu  pinb piromizu yuran
-fufumi   jigatei_(omijin) denfunsan mayag nuko_miruku sukireto mechuragi rurikoma efe pan_(mimi)   hazuki_(sutasuta)
+fufumi   jigatei_(omijin) denfunsan mayag nuko_miruku sukireto mechuragi  efe pan_(mimi)   hazuki_(sutasuta)
 
 ==============以下为特级画师   P站关注的画师已经看完第6页
 
@@ -340,8 +348,8 @@ amedamacon oryou sakuragi_ren yunamaro  toridamono  ju_(a793391187) maritaki yan
 hidaka0503 seon_(seonon_) anparu cait shuugetsu_karasu umibouzu_(niito)  hiraga_matsuri 
 yashiro_seika wowoguni ke-ta  kyouya_(mukuro238)  takeashiro fukunoki_tokuwa kinugasa_yuuichi ochiai_miyabi
 sawa_(sawasaku)  to_naive miruto_netsuki  osa_(osaosa) fuyuki030 kanzaki_hiro hakuishi_aoi nedia_(nedia_region)
-youmu_(tomgoku2) nari_(narikashi) okota_mikan note55885 burenbo racchi. roriwanko child_(isoliya) kachiyori soushou_nin
-gomano_rio tokki yuya_(night_lily) noeru_(gt17854) miyukiyo itakurakou1993 natsuki_(ukiwakudasai) sasaame  ruda_(ruda_e)
+youmu_(tomgoku2) nari_(narikashi) okota_mikan note55885  roriwanko child_(isoliya) kachiyori soushou_nin
+ tokki yuya_(night_lily) noeru_(gt17854) miyukiyo itakurakou1993 natsuki_(ukiwakudasai) sasaame  ruda_(ruda_e)
 ichizon-->{iljon_(ichizen) Y } kakao_rantan massala amagai_tarou achiki  catxuan tetsujin_momoko ominaeshi_(takenoko)
   bsue tonari_no_kai_keruberosu ama_mitsuki apple_ringo oekakizuki  iljon_(ichizen)
 rorinya dyolf purin_jiisan komori_kuzuyu muq  chamio77  dangmyo omega.ep p.i.t.d  daye_bie_qia_lian
@@ -350,7 +358,7 @@ hiiragi_souren tanbonota46 pro-p hano_haruka tsubasa_tsubasa kentaurosu nanakagu
 nekometaru yoo_(tabi_no_shiori) nise6  satosi sakura_koharu yumesaki gejigejier aliter sayori ko_katakuchiiwashi
 ancotaku  sorai_shin'ya ex_idol riichu kanora sawayaka_samehada  hajin shimokirin karumayu pasdar keepout
 bashen_chenyue shuutou_haruka yuzuka  hmw_(pixiv7054584) gedou_(shigure_seishin) kokose
-bachibachi_(tisen) mishuo_(misuo69421) nasii eihi weri rosuuri ranju_aira
+bachibachi_(tisen) mishuo_(misuo69421) nasii eihi  rosuuri ranju_aira
 kuroi_asahi cow-ring maruki_nobuaki mofu_namako  izumo_(user_cmcy2878)
 ttosom hirai_yuzuki kh_(kh_1128) amacha  nanananana yuuki_rika ateoyh akitsuki_tsukasa
 qigas  hachita_(odangoya) vashaps2 kurot izumo_neru kanon_(kanon_kanon0770) kiyosato0928
