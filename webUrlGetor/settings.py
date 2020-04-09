@@ -7,17 +7,17 @@ sys.path.append(os.path.dirname(os.path.abspath(__file__)) + '/../../')
 yukisame  tamakaga jh aldehyde yukishiro_arute aruka_(alka_p1) mizuka_nayuki mairo asa0504 ss851251 nagisa_(cxcx5235) ragho_no_erika
 iren_lovel lunacle gilse yushima melings_(aot2846) mafuyu kazenokaze fakegeo tiguruvurumudo_vuorun takunomi ookuma_(qq) nanotsuki tantan_men_(dragon)
 rednian topia fal_maro zoff_(daria) kizibato123go kamioka_shun'ya ashima fuzichoko amano_kouki paya_(aejx234) minami_saki boku_koyuki_mx
-ramunezake  223_(pixiv332210012) shinoba kurigura_(sketch_san)
+ramunezake  223_(pixiv332210012) shinoba kurigura_(sketch_san)  sanshoku_amido
 cuna_(qunya) yaman konata_(knt_banri) shiro_kuma_shake dosu_(yodosu)
-
+chengcheng2b cut_(bu-kunn) kobayashi_chisato ezoshika nazuna_shizuku
+ameyame
+"""
+tags = "mugi_(banban53)"
 
 """
-tags = "sanshoku_amido"
-
-"""
-cut_(bu-kunn)  kobayashi_chisato ezoshika
-nazuna_shizuku ameyame mugi_(banban53)
-oli  tuchinokoeffect  
+   
+  
+oli  tuchinokoeffect   
 araki495 niji_(rudduf232)
    rafael-m puracotte
  yinqi norukinoko_(reee52) monoto naryoung
