@@ -5,7 +5,7 @@ import time
 from webUrlGetor.settings import *
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy import create_engine
-from sp import *
+from webUrlGetor.tools.model.sp import *
 
 
 class SQLTools(object):
@@ -15,7 +15,7 @@ class SQLTools(object):
 
     def stringtomd5(self, originstr):
         signaturemd5 = hashlib.md5()
-        signaturemd5.update(originstr)
+        signaturemd5.update(originstr.encode('utf-8'))
         return signaturemd5.hexdigest()
 
     def insert_into_new_db(self, fileName, tags_name=None):
@@ -39,7 +39,7 @@ class SQLTools(object):
             session.add(new_user)
             session.commit()
         except Exception as e:
-            print "db error", e
+            print("db error", e)
             session.rollback()
         finally:
             session.close()
@@ -61,7 +61,7 @@ class SQLTools(object):
             has_got = session.query(SP).filter(SP.fineNameHash == fineNameHash).all()
             return has_got
         except Exception as e:
-            print "db error", e
+            print("db error", e)
         finally:
             session.close()
 
@@ -72,4 +72,4 @@ if __name__ == '__main__':
         "yande.re%20580199%20bigrbear%20fate_grand_order%20mash_kyrielight%20naked%20nipples%20penis%20pussy%20uncensored.jpg")
 
     b = x.insert_into_new_db("sss", "aa")
-    print a
+    print(a)

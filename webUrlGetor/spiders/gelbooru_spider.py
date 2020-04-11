@@ -23,8 +23,8 @@ class ScrapyOschinaSpider(scrapy.Spider):
         try:
             os.makedirs(dirs)
         except Exception as e:
-            print e
-    print "图片存储位置-->", dirs
+            print(e)
+    print("图片存储位置-->", dirs)
 
     def parse(self, response):
         time.sleep(5)
@@ -42,7 +42,7 @@ class ScrapyOschinaSpider(scrapy.Spider):
 
             next_page_pre = scrapy.Selector(text=response.body)
             next_pages = next_page_pre.xpath("//a[contains(@href,'?page=post&s=list&tags=')]").extract()
-            print "next_page-->", next_pages
+            print("next_page-->", next_pages)
             next_pages_new = []
             for next_page in next_pages:
                 if "pid" in next_page:
@@ -55,8 +55,6 @@ class ScrapyOschinaSpider(scrapy.Spider):
                     next_page_url = self.start_urls[0] + "&" + str(result1[0])
                     self.pid_list.append(next_page_url)
                     yield scrapy.Request(next_page_url, callback=self.parse, dont_filter=False)
-
-
 
     def parse2(self, response):
         time.sleep(5)
@@ -76,22 +74,22 @@ class ScrapyOschinaSpider(scrapy.Spider):
                 path = os.path.join(self.dirs, file_name)
 
                 if os.path.exists(path):
-                    print tags
-                    print "文件已经存在"
+                    print(tags)
+                    print("文件已经存在")
                 elif len(self.SQLTools.query_from_UserNew_more_info(file_name)) > 0:
-                    print tags
-                    print "文件已存在，数据库中有记录"
+                    print(tags)
+                    print("文件已存在，数据库中有记录")
                 else:
                     try:
                         time.sleep(1)
                         res = requests.get(item, timeout=180, verify=False)
                         img = res.content
-                        print tags
-                        print "pic_link_png-->", item
+                        print(tags)
+                        print("pic_link_png-->", item)
                         with open(path, 'wb') as f:
                             f.write(img)
                         f.close()
-                        print "保存成功！文件名为%s" % file_name
+                        print("保存成功！文件名为%s" % file_name)
                         self.SQLTools.insert_into_new_db(file_name, tags)
                     except:
                         pass

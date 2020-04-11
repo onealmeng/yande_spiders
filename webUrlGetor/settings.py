@@ -10,14 +10,14 @@ rednian topia fal_maro zoff_(daria) kizibato123go kamioka_shun'ya ashima fuzicho
 ramunezake  223_(pixiv332210012) shinoba kurigura_(sketch_san)  sanshoku_amido
 cuna_(qunya) yaman konata_(knt_banri) shiro_kuma_shake dosu_(yodosu)
 chengcheng2b cut_(bu-kunn) kobayashi_chisato ezoshika nazuna_shizuku
-ameyame
+ameyame mugi_(banban53)
 """
-tags = "mugi_(banban53)"
+tags = "euryale"
 
 """
    
   
-oli  tuchinokoeffect   
+  tuchinokoeffect   
 araki495 niji_(rudduf232)
    rafael-m puracotte
  yinqi norukinoko_(reee52) monoto naryoung
