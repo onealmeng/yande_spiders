@@ -4,13 +4,13 @@ import sys
 
 sys.path.append(os.path.dirname(os.path.abspath(__file__)) + '/../../')
 """
-reel37891 zen kase_daiki
+reel37891 zen kase_daiki hjhhzb
 """
-tags = "hjhhzb"
+tags = "yohaku"
 
 """
-yohaku
-
+saya_(mychristian2)
+fufumi
 
 
 
@@ -127,7 +127,7 @@ tags = "suomi_kp31_(girls_frontline)"   nazu-na  mvv  chunrijun_(springer)  supe
 tags =   satsuki_neko  mizuhara_yuu  girl_cafe_gun    haribote_(tarao)  jimmy  chiachun0621
 tags = "ryuuou_no_oshigoto!" done   silver_(chenwen)  k_mugura  umibouz  hasekura_chiaki   
 tags = "shera_l._greenwood" done  junpaku_karen    pdxen  ringozaka_mariko  mirea  kanju  chita_(ketchup)狐妖
-tags = "belfast_(azur_lane)"done      maid      saya_(mychristian2)
+tags = "belfast_(azur_lane)"done      maid      
 tags = "gyouzanuko" done  ichiyou_moka  yuudachi_(azur_lane)  parfaitlate mirei  masayo_(gin_no_ame)  infinote
 tags = "minakami_rinka" done    maeda_shiori   araragikoyomis  bikini  motomiya_mitsuki  akishino_himeka  kim_eb  necomi 
 ibara_riato
@@ -173,7 +173,7 @@ gurande_(g-size) nagayama_yuunon kabako baseness    oyu_(sijimisizimi)    mignon
  sen_(astronomy) kurou_(quadruple_zero) kusano_houki uosaasou    siloteddy  uncensored# y站爬到39 takehana_note
 ikeuchi_tanuma kazuharu_kina kazutake_hazano  nagishiro_mito  h2o_(dfo)  yukimaru217 uncensored ryoutan
 manda_(eyelashes)  kanadetsuki_shion  yatomi tsunako peko u2_(5798239) rurikoma tsuedzu  pinb piromizu yuran
-fufumi   jigatei_(omijin) denfunsan mayag nuko_miruku sukireto mechuragi  efe pan_(mimi)   hazuki_(sutasuta)
+   jigatei_(omijin) denfunsan mayag nuko_miruku sukireto mechuragi  efe pan_(mimi)   hazuki_(sutasuta)
 
 ==============以下为特级画师   P站关注的画师已经看完第6页
 
