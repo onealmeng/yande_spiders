@@ -65,7 +65,7 @@ class ScrapyOschinaSpider(scrapy.Spider):
             if not item.startswith("https://img2.gelbooru.com/images") or item.startswith(
                     "https://files.yande.re/image/"):
                 pass
-            elif not (item.endswith(".png") or item.endswith(".jpg") or item.endswith(".gif")):
+            elif not (item.endswith(".png") or item.endswith(".jpg")):
                 pass
             elif "samples" in item:
                 pass

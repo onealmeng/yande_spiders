@@ -8,10 +8,10 @@ reel37891 zen kase_daiki hjhhzb yohaku saya_(mychristian2) fufumi yuzuki_kihiro 
 tapioka_(oekakitapioka) kunoki_toki akabane_(zebrasmise) fukurou_(hvgd5584) y3010607 olive_(laai)
 teffish hyurasan numpopo damao_yu rika_(mikunopantsu) suimya pentagon_(railgun_ky1206) kijibato_123-gou
 cenangam masuyama_ryou kikurage_tom. narynn ale_nqki karla_(kimidori3) mono_lith abandon_ranka
-canarinu kurasawa_moko konomi kawami_nami
+canarinu kurasawa_moko konomi kawami_nami ria_(riarea0)
 minase_nagi kona_(canaria) ria_(riarea00) noven
 """
-tags = "ria_(riarea0)"
+tags = "hazuki_natsu"
 
 """
 
@@ -195,8 +195,8 @@ blackblades  lexis_yayoi ryoumoto_ken ozaki_mirai 1136002526 regumaki tia_(40173
 nitro_(mugityaoisii) yuuzaki sawada_yuusuke  hisenkaede sukisukiharami obiwan kana616 michou akchu aogi_(pixiv9459043)
 youqiniang ken_ill miyakure tef matokechi fujieda_uzuki  swiftsure_(azur_lane) theleopardcat 
  jjkl9195 gijang chaou amasora_taichi mauve  taya taya_5323203  hajikaji kleune foka_(beginner)
- hisasi hisashi_(nekoman) kaisu  hitaki_yuu  nekonabe_ao  kino
-  natsuki_marina aye game_cg minato_(ojitan_gozaru)  ame. rimo akashio_(loli_ace) angel_no_shousou 
+ hisasi hisashi_(nekoman) kaisu  hitaki_yuu  nekonabe_ao  kino rimo
+  natsuki_marina aye game_cg minato_(ojitan_gozaru)  ame.  akashio_(loli_ace) angel_no_shousou 
    himiya_ramune sasai_saji agnam_ore necomi ggatip matatabi_maru  tarachine
 suisen nonono naoto_(tulip) chao_wu_xing_xian squchan naoto_(tulip) macaron_taitei sino_(sionori) sakura_neko 
 rei_(rei's_room) mayogii gochou_(atemonai_heya) cai_geng yuririn_poi sama akieda lerome akatsuki_ikki tsukudani_norio

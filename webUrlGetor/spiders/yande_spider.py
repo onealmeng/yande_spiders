@@ -38,7 +38,7 @@ class ScrapyOschinaSpider(scrapy.Spider):
             if "preview" in item or "logo" in item or "pixiv" in item or "pximg" in item or "sample" in item \
                     or "screen" in item:
                 pass
-            elif not (item.endswith(".png") or item.endswith(".jpg") or item.endswith(".gif")):
+            elif not (item.endswith(".png") or item.endswith(".jpg")):
                 pass
             # elif "uncensored" not in item:
             #     pass
@@ -72,7 +72,7 @@ class ScrapyOschinaSpider(scrapy.Spider):
             for i in range(0, len(aa)):
                 link = str(aa[i])  # 每一个url
                 if link.startswith("https://files.yande.re") and "screen" not in link and (
-                        link.endswith(".png") or link.endswith(".jpg") or link.endswith(".gif")):
+                        link.endswith(".png") or link.endswith(".jpg")):
                     file_name = str(link.split("/")[-1:][0])
                     path = os.path.join(self.dirs, file_name)
 
