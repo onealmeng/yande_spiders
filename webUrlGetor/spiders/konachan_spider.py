@@ -36,7 +36,7 @@ class ScrapyOschinaSpider(scrapy.Spider):
         for item in result1:
             if "preview" in item or "logo" in item or "pixiv" in item or "pximg" in item or "sample" in item:
                 pass
-            elif not (item.endswith(".png") or item.endswith(".jpg")):
+            elif not (item.endswith(".png") or item.endswith(".jpg") or item.endswith(".gif")):
                 pass
             # elif "uncensored" not in item:
             #     pass
@@ -45,11 +45,9 @@ class ScrapyOschinaSpider(scrapy.Spider):
                 path = os.path.join(self.dirs, file_name)
 
                 if os.path.exists(path):
-                    print(tags)
-                    print("文件已经存在")
+                    pass
                 elif len(self.SQLTools.query_from_UserNew_more_info(file_name)) > 0:
-                    print(tags)
-                    print("文件已存在，数据库中有记录")
+                    pass
                 else:
                     try:
                         time.sleep(1)
@@ -71,17 +69,16 @@ class ScrapyOschinaSpider(scrapy.Spider):
             aa = link_sel.re('href="(.*?)"')
             for i in range(0, len(aa)):
                 link = str(aa[i])  # 每一个url
-                if link.startswith("https://danbooru.donmai.us") and (link.endswith(".png") or link.endswith(".jpg")):
+                if link.startswith("https://danbooru.donmai.us") and (
+                        link.endswith(".png") or link.endswith(".jpg") or link.endswith(".gif")):
                     if "File/" not in link and "preview" not in link:
                         file_name = str(link.split("/")[-1:][0])
                         path = os.path.join(self.dirs, file_name)
 
                         if os.path.exists(path):
-                            print(tags)
-                            print("文件已经存在")
+                            pass
                         elif len(self.SQLTools.query_from_UserNew_more_info(file_name)) > 0:
-                            print(tags)
-                            print("文件已存在，数据库中有记录")
+                            pass
                         # elif "uncensored" not in link:
                         #     pass
                         else:

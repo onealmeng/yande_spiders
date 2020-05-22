@@ -65,7 +65,7 @@ class ScrapyOschinaSpider(scrapy.Spider):
             if not item.startswith("https://img2.gelbooru.com/images") or item.startswith(
                     "https://files.yande.re/image/"):
                 pass
-            elif not (item.endswith(".png") or item.endswith(".jpg")):
+            elif not (item.endswith(".png") or item.endswith(".jpg") or item.endswith(".gif")):
                 pass
             elif "samples" in item:
                 pass
@@ -74,11 +74,9 @@ class ScrapyOschinaSpider(scrapy.Spider):
                 path = os.path.join(self.dirs, file_name)
 
                 if os.path.exists(path):
-                    print(tags)
-                    print("文件已经存在")
+                    pass
                 elif len(self.SQLTools.query_from_UserNew_more_info(file_name)) > 0:
-                    print(tags)
-                    print("文件已存在，数据库中有记录")
+                    pass
                 else:
                     try:
                         time.sleep(1)
