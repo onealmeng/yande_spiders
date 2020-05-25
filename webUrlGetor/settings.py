@@ -5,15 +5,25 @@ import sys
 sys.path.append(os.path.dirname(os.path.abspath(__file__)) + '/../../')
 """
 reel37891 zen kase_daiki hjhhzb yohaku saya_(mychristian2) fufumi yuzuki_kihiro kon_(k0n16) nanase_nao
-tapioka_(oekakitapioka) kunoki_toki akabane_(zebrasmise) fukurou_(hvgd5584) y3010607 olive_(laai)
+tapioka_(oekakitapioka) kunoki_toki akabane_(zebrasmise) fukurou_(hvgd5584) y3010607 olive_(laai) shimamura_uzuki
 teffish hyurasan numpopo damao_yu rika_(mikunopantsu) suimya pentagon_(railgun_ky1206) kijibato_123-gou
-cenangam masuyama_ryou kikurage_tom. narynn ale_nqki karla_(kimidori3) mono_lith abandon_ranka
-canarinu kurasawa_moko konomi kawami_nami ria_(riarea0)
-minase_nagi kona_(canaria) ria_(riarea00) noven
+cenangam masuyama_ryou kikurage_tom. narynn ale_nqki karla_(kimidori3) mono_lith abandon_ranka namamo_nanase
+canarinu kurasawa_moko konomi kawami_nami ria_(riarea0) cotton_kanzaki seek_girl suki_to_suki_to_de_sankaku_ren'ai
+minase_nagi kona_(canaria) ria_(riarea00) noven hazuki_natsu  pomu tony_guisado brave_girl_ravens
+megumin kikuragetom kawakami_rokkaku doyachii karu_(qqqtyann) mawaru33 mashuu_(neko_no_oyashiro) ecien
+n.g. asa_project classy_cranberry's meltryllis himekawa_fuuka azuria_newfield f-cla happoubi_jin lokyin_house
+zain_(jiha3905) sakura_mochiko abec morokoshi_(tekku)
+saeki_sora meliyannn himura_kiseki necomi
 """
-tags = "hazuki_natsu"
+tags = "ibara_riato"
 
 """
+
+
+
+
+
+
 
 
 
@@ -25,9 +35,9 @@ tags = "hazuki_natsu"
 tsuchikure 银发淑女  maeha tougetsu tukise_33  5555_96  tomoo>>tomoo_(tomo)  tomoo_(tomo)
 u35 ru_zhai rouka hakuya_(white_night) ichi_makoto  nayuta_hilo  sasachin
 kinokomushi  shiokazunoko kokusan_moyashi aro_1801 sasachin_%28k%2Bw%29 hatafuta
-ominaeshi_(takenoko) ruda_(ruda_e)   ogata_tei  konishi_(565112307) nahaki cocoasabure
+ ruda_(ruda_e)   ogata_tei  konishi_(565112307) nahaki cocoasabure
 amashiro_natsuki 超级小萝莉 
-
+ohshit kazenoko  ominaeshi_(takenoko)
 qianjing baffu  pot-palm moemoe3345 zuima toba_hiyoko
 shiwasu_horio tsuuhan kaede suihi unasaka_ryou bada_(jksh5056) mika_pikazo
 maritaki rk_(rktorinegi) sakura_ani  fujikura_ryuune  cocona hane_yuki sinsihukunokonaka
@@ -43,7 +53,7 @@ murasaki_(murasakiiro_no_yoru)  bxr  shiny_shinx  mery_(apfl0515)
 rurudo  tsuchikure_(3105mitoko) pirorikin lpip  mashiro_monaka
 ryuuou_no_oshigoto izumo_neru  umakuchi_shouyu peulopi deadnooodles
 nekomugiharu sencha ne-on  agekichi_(heart_shape) rouka_(akatyann)
-ohshit tomotake_yoshino  sunege_(hp0715) zjsstc neki_(wakiko)
+ tomotake_yoshino  sunege_(hp0715) zjsstc neki_(wakiko)
 senji yuuki_hagure namaru nitchi  hanato_(seonoaiko)
 mitsuba_choco ame_usari sibyl  toosaka_asagi
 maccha cgny7477  takei_ooki cha_chya  miko_92 shinooji
@@ -100,7 +110,7 @@ shiino_sera gomano_rio  donedone
 matsui_hiroaki 凑阿库娅 超级
 sousouman--->twinbox_school 超级
 hiten_(hitenkei)  超级 chinomaron
-nephthys2356 saeki_sora
+nephthys2356 
 hyuuga_azuri fuumi_(radial_engine)
 tsuruse
 """
@@ -131,8 +141,8 @@ tags = "ryuuou_no_oshigoto!" done   silver_(chenwen)  k_mugura  umibouz  hasekur
 tags = "shera_l._greenwood" done  junpaku_karen    pdxen  ringozaka_mariko  mirea  kanju  chita_(ketchup)狐妖
 tags = "belfast_(azur_lane)"done      maid      
 tags = "gyouzanuko" done  ichiyou_moka  yuudachi_(azur_lane)  parfaitlate mirei  masayo_(gin_no_ame)  infinote
-tags = "minakami_rinka" done    maeda_shiori   araragikoyomis  bikini  motomiya_mitsuki  akishino_himeka  kim_eb  necomi 
-ibara_riato
+tags = "minakami_rinka" done    maeda_shiori   araragikoyomis  bikini  motomiya_mitsuki  akishino_himeka  kim_eb   
+
 tags = "pantsu"  censored  "kyaru" done    koinu-chan nekomugiharu     suomi_kp31_(girls_frontline)
 tags = "akashi_%28azur_lane%29" hammann_(azur_lane) illustrious_(azur_lane) formidable_(azur_lane)     fuyuumi_ai 
  lethe-shion
@@ -197,7 +207,7 @@ youqiniang ken_ill miyakure tef matokechi fujieda_uzuki  swiftsure_(azur_lane) t
  jjkl9195 gijang chaou amasora_taichi mauve  taya taya_5323203  hajikaji kleune foka_(beginner)
  hisasi hisashi_(nekoman) kaisu  hitaki_yuu  nekonabe_ao  kino rimo
   natsuki_marina aye game_cg minato_(ojitan_gozaru)  ame.  akashio_(loli_ace) angel_no_shousou 
-   himiya_ramune sasai_saji agnam_ore necomi ggatip matatabi_maru  tarachine
+   himiya_ramune sasai_saji agnam_ore  ggatip matatabi_maru  tarachine
 suisen nonono naoto_(tulip) chao_wu_xing_xian squchan naoto_(tulip) macaron_taitei sino_(sionori) sakura_neko 
 rei_(rei's_room) mayogii gochou_(atemonai_heya) cai_geng yuririn_poi sama akieda lerome akatsuki_ikki tsukudani_norio
 kouyafu  leria_v sahara386 pochi_(pochigoya) kouzuki_fukurou fuji_dorokai kaede_(003591163) hanbenp  torano

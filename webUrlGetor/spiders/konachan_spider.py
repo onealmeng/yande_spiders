@@ -51,7 +51,7 @@ class ScrapyOschinaSpider(scrapy.Spider):
                 else:
                     try:
                         time.sleep(1)
-                        res = requests.get(item, timeout=180, verify=False)
+                        res = requests.get(item, timeout=360, verify=False)
                         img = res.content
                         print(tags)
                         print("pic_link_png-->", item)
@@ -83,7 +83,7 @@ class ScrapyOschinaSpider(scrapy.Spider):
                         else:
                             try:
                                 time.sleep(1)
-                                res = requests.get(link, timeout=180, verify=False)
+                                res = requests.get(link, timeout=360, verify=False)
                                 img = res.content
                                 print(tags)
                                 print("link-->", link)
