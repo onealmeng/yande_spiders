@@ -70,7 +70,7 @@ class ScrapyOschinaSpider(scrapy.Spider):
             for i in range(0, len(aa)):
                 link = str(aa[i])  # 每一个url
                 if link.startswith("https://danbooru.donmai.us") and (link.endswith(".png") or link.endswith(".jpg")):
-                    if "File/" not in link and "preview" not in link:
+                    if "File/" not in link and "preview" not in link and "Fichier:" not in link:
                         file_name = str(link.split("/")[-1:][0])
                         path = os.path.join(self.dirs, file_name)
 

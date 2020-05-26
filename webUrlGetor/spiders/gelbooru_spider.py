@@ -69,6 +69,8 @@ class ScrapyOschinaSpider(scrapy.Spider):
                 pass
             elif "samples" in item:
                 pass
+            elif "Fichier:" in item:
+                pass
             else:
                 file_name = str(item.split("/")[-1:][0])
                 path = os.path.join(self.dirs, file_name)
