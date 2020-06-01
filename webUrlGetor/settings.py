@@ -8,17 +8,25 @@ reel37891 zen kase_daiki hjhhzb yohaku saya_(mychristian2) fufumi yuzuki_kihiro 
 tapioka_(oekakitapioka) kunoki_toki akabane_(zebrasmise) fukurou_(hvgd5584) y3010607 olive_(laai) shimamura_uzuki
 teffish hyurasan numpopo damao_yu rika_(mikunopantsu) suimya pentagon_(railgun_ky1206) kijibato_123-gou
 cenangam masuyama_ryou kikurage_tom. narynn ale_nqki karla_(kimidori3) mono_lith abandon_ranka namamo_nanase
-canarinu kurasawa_moko konomi  ria_(riarea0) cotton_kanzaki seek_girl suki_to_suki_to_de_sankaku_ren'ai
+canarinu kurasawa_moko   ria_(riarea0) cotton_kanzaki seek_girl suki_to_suki_to_de_sankaku_ren'ai
 minase_nagi kona_(canaria) ria_(riarea00) noven hazuki_natsu  pomu tony_guisado brave_girl_ravens
 megumin kikuragetom kawakami_rokkaku doyachii karu_(qqqtyann) mawaru33 mashuu_(neko_no_oyashiro) ecien
 n.g. asa_project classy_cranberry's meltryllis himekawa_fuuka azuria_newfield f-cla happoubi_jin lokyin_house
-zain_(jiha3905) sakura_mochiko abec morokoshi_(tekku) shiori_(xxxsi)
-saeki_sora meliyannn himura_kiseki necomi  utsumi_sae mashu_(003)
+zain_(jiha3905) sakura_mochiko abec morokoshi_(tekku) shiori_(xxxsi) lloule mizutan64  goroo_(eneosu)
+saeki_sora meliyannn himura_kiseki necomi  utsumi_sae mashu_(003) kanpa_(campagne_9) monjja tr
+pentagon_(railgun_ky1206) shikitani_asuka icefurs azure0608  sirono-ra0929 oohhya silver_(chenwen) f_(milfaaaaa)
+mikawa_sansen naginagiwaffle trap_(drthumt) azit_(down) xiao_ren meth_(emethmeth) niii_(memstapak) miko_92
+kure~pu  azit_(down) aies mizu_(lzzrwi603)  shinigami_(tukiyomiikuto) kawami_nami  maoii koko_ne_(user_fpm6842)
+alpha_(ypalpha79) yamato_(muchuu_paradigm)  junpaku_karen fu_hua kase_daiki shinoba liu_lan  yoshihiro_(yoshihiro12190)
+shigure_(kancolle) yuanchuang akanagi_youto ogs_(orgasm888) kikistark darnell mobu_(wddtfy61) ashisi reia
+dana_(hapong07) chien_zero masayo_(gin_no_ame)  mi_taro333 hum_(ten_ten)
 """
-tags = "kanpa_(campagne_9)"
+tags = ""
 
 """
-
+kesoshirou
+kinom_(sculpturesky)
+issindotai
 
 
 
@@ -33,19 +41,23 @@ tags = "kanpa_(campagne_9)"
 """
 特级画师 
 ============================================
+ayamy 超级蕾姆   torino_akua  kahlua
+topia  satoimo_chika  ranf  konomi kanipanda
 tsuchikure 银发淑女  maeha tougetsu tukise_33  5555_96  tomoo>>tomoo_(tomo)  tomoo_(tomo)
 u35 ru_zhai rouka hakuya_(white_night) ichi_makoto  nayuta_hilo  sasachin
 kinokomushi  shiokazunoko kokusan_moyashi aro_1801 sasachin_%28k%2Bw%29 hatafuta
  ruda_(ruda_e)   ogata_tei  konishi_(565112307) nahaki cocoasabure
-amashiro_natsuki 超级小萝莉  ibara_riato
+amashiro_natsuki 超级小萝莉  ibara_riato  
 ohshit kazenoko  ominaeshi_(takenoko)
-kawami_nami fujii_tomoyuki swordsouls
+kawami_nami   yano_mitsuki unacchi miko_92
+fujii_tomoyuki swordsouls  unacchi
 hecha_(swy1996228) 小天鹅 官方画师 oshishio
 qianjing baffu  pot-palm moemoe3345 zuima toba_hiyoko
 shiwasu_horio tsuuhan kaede suihi unasaka_ryou bada_(jksh5056) mika_pikazo
-maritaki rk_(rktorinegi) sakura_ani  fujikura_ryuune  cocona hane_yuki sinsihukunokonaka
+maritaki rk_(rktorinegi) sakura_ani  fujikura_ryuune  cocona hane_yuki 
+sinsihukunokonaka 好看的美少女
 cait burenbo weri amane_kurumi monety purinpu curcumin suzuki_moeko kotetu_han
-r_o_ha  suya2mori2  uiri-na  ririko_(zhuoyandesailaer) irohasu agnam_ore azit_(down)
+  suya2mori2  uiri-na  ririko_(zhuoyandesailaer) irohasu agnam_ore azit_(down)
 gyouzanuko 龙王的工作  师姐   pnatsu  tsuchikure_(3105mitoko) aaeru shen_hong
 kantoku rin_yuu yamasan katsushika_pachi pre_(17194196) gabiran pingo
 mullpull koyama_sao  otokuyou nagiha_kuten kisaragi_miyu tid suisen-21
@@ -80,10 +92,10 @@ misumi_(macaroni) 超级
 racchi. kokose kirisawa_saki
 kaetzchen kimishima_ao
 mamizu nari_(narikashi)
-  soyubee reinama
+  soyubee reinama  amagai_tarou
 ttosom yuurei_yashiki  shiratama_(shiratamaco)
 neku_(neku_draw)  ran9u
-shiratama_akane 超级
+shiratama_akane 超级  purin_jiisan
  tsukiyo_(skymint)
 byulzzimon 碧蓝画师   knoy3356
 taku_michi pjrmhm_coa unacchi_(nyusankin)
@@ -94,14 +106,15 @@ akashio  lava_(25486006)  kisaragi_yuri  deecha
 amashiro_natsuki--->mafuyu_(chibi21)--》Mafuyu karutamo
 anmi fuji_choko usagihime 
 muririn 魔女的夜宴   hatafuta
-ayamy超级蕾姆 r_o_ha ramchi
+ r_o_ha ramchi
+ kanzaki_hiro 俺妹
  hayataku1234 jiiwara suzumori_uina
 komeshiro_kasu 超级美 twinbox_(circle)
  kouda_suzu 超级智乃
 jyt lebring hoshi_(snacherubi)
 kobuichi tokunou_shoutarou yukari_(rihenara_doll)
  hatsuki_kaname haishiki  shibainu_niki
-torino_akua gu_luco haneruR18捆绑极品 kamioka_chiroru
+ gu_luco haneruR18捆绑极品 kamioka_chiroru
 efe SM兽耳娘 wsman   ntk_(7t5) hiten
  filings_(ailuo_c) 山城 fuji_noyume tokkyu mitsuba_choco
 manda_manda9n小天鹅 miyase_mahiro宫濑  mochizuki_shiina望月
@@ -109,12 +122,14 @@ manda_manda9n小天鹅 miyase_mahiro宫濑  mochizuki_shiina望月
 ririko_(zhuoyandesailaer) 黑丝大长腿 kaetzchen
 kimishima_ao 恋彼女画师  koyama_sao maccha morikura_en
 misomiso_154 mkichi  bison_cangshu
-shiino_sera gomano_rio  donedone
+shiino_sera  kanadetsuki_shion 超级
+gomano_rio  donedone
 matsui_hiroaki 凑阿库娅 超级
 sousouman--->twinbox_school 超级
 hiten_(hitenkei)  超级 chinomaron
 nephthys2356 
-hyuuga_azuri fuumi_(radial_engine)
+hyuuga_azuri 超级
+fuumi_(radial_engine)
 tsuruse
 """
 
@@ -140,10 +155,10 @@ tags = "myuseru_foaran" done    compile_heart  shiratama    momoko    nanahachi
 tags = "bandaid" done  natsukawa_masuzu  yijian_ma    heartsix
 tags = "suomi_kp31_(girls_frontline)"   nazu-na  mvv  chunrijun_(springer)  superpig  sakai_kyuuta  kuang_(kzhw7588)
 tags =   satsuki_neko  mizuhara_yuu  girl_cafe_gun    haribote_(tarao)  jimmy  chiachun0621
-tags = "ryuuou_no_oshigoto!" done   silver_(chenwen)  k_mugura  umibouz  hasekura_chiaki   
-tags = "shera_l._greenwood" done  junpaku_karen    pdxen  ringozaka_mariko  mirea  kanju  chita_(ketchup)狐妖
+tags = "ryuuou_no_oshigoto!" done     k_mugura  umibouz  hasekura_chiaki   
+tags = "shera_l._greenwood" done      pdxen  ringozaka_mariko  mirea  kanju  chita_(ketchup)狐妖
 tags = "belfast_(azur_lane)"done      maid      
-tags = "gyouzanuko" done  ichiyou_moka  yuudachi_(azur_lane)  parfaitlate mirei  masayo_(gin_no_ame)  infinote
+tags = "gyouzanuko" done  ichiyou_moka  yuudachi_(azur_lane)  parfaitlate mirei    infinote
 tags = "minakami_rinka" done    maeda_shiori   araragikoyomis  bikini  motomiya_mitsuki  akishino_himeka  kim_eb   
 
 tags = "pantsu"  censored  "kyaru" done    koinu-chan nekomugiharu     suomi_kp31_(girls_frontline)
@@ -174,20 +189,20 @@ t6 wasabi_(sekai) natsume_eri mimikaki_(men_bow) sch nenobi_(nenorium) sunsun281
 noshiro_(azur_lane) tashkent_(azur_lane) chapayev_(azur_lane)  kurohikage minato_aqua rerrere pupupu_(1053378452)
 papa_(wfd) yusano shirabi  emanon123 kon_hoshiro yumaomi momoshiki_tsubaki lzl_j ky_(ky990533) liangfen232
 pentagon_(railgun_ky1206) tenma-gav   yamanokami_eaka crystalherb sakura_honoka_(srhk0623)
-saruchitan  umihotaru_harumare hews_hack yukichi_(eikichi)  takahan tomura2maru ranf nakkar xiho_(suna) necoring862
+saruchitan  umihotaru_harumare hews_hack yukichi_(eikichi)  takahan tomura2maru  nakkar xiho_(suna) necoring862
 rin_falcon  konotuki izuru nekobaka shimada_fumikane liduke  pensuke devil-dantake ei_(tndusdldu)
 annindoufu_(oicon)  kinty
 ogipote gyozanuko   
  youzixiaoming sukja a20_(atsumaru)[Y站是a20]
 chikotam yuuhagi_(amaretto-no-natsu) chikotam rikatan aa_(sin2324) mofuaki hisaka_hazara kiyo_(chaoschyan)
-tsubaki_(yi) tsumiki_akeno  tokisaki_kurumi yoshino_(date_a_live) toketou yano_mitsuki yusan kujou_danbo urabi_(tomatohouse) 
+tsubaki_(yi) tsumiki_akeno  tokisaki_kurumi yoshino_(date_a_live) toketou  yusan kujou_danbo urabi_(tomatohouse) 
 snozaki    homura_subaru   takenoko_no_you habu.  yamcha_(cocololi)  ajigo tsubaki_(yi)  p19 natasha_(pommier)
 shiratama_(shiratamaco)  cozyquilt    sex  kyubi  peco piukute062   peco hawah127    gio_(artist)
 gurande_(g-size) nagayama_yuunon kabako baseness    oyu_(sijimisizimi)    mignon noboru_(kamine204136)  nyum  mignon
 77gl pikuharu dre  yuna_(deadawon)  lisu soya_(torga)  ppyono   haru_(hiyori-kohal)    silltare    blush
  sen_(astronomy) kurou_(quadruple_zero) kusano_houki uosaasou    siloteddy  uncensored# y站爬到39 takehana_note
 ikeuchi_tanuma kazuharu_kina kazutake_hazano  nagishiro_mito  h2o_(dfo)  yukimaru217 uncensored ryoutan
-manda_(eyelashes)  kanadetsuki_shion  yatomi tsunako peko u2_(5798239) rurikoma tsuedzu  pinb piromizu yuran
+manda_(eyelashes)    yatomi tsunako peko u2_(5798239) rurikoma tsuedzu  pinb piromizu yuran
    jigatei_(omijin) denfunsan mayag nuko_miruku sukireto mechuragi  efe pan_(mimi)   hazuki_(sutasuta)
 
 ==============以下为特级画师   P站关注的画师已经看完第6页
@@ -222,12 +237,12 @@ hasune aimee_(emi) siino emily_(pure_dream)  ohara_tometa  yuxian_youka nanotaro
 amedamacon oryou sakuragi_ren yunamaro  toridamono  ju_(a793391187)  yano_momoko user_yzzn3747
 hidaka0503 seon_(seonon_) anparu  shuugetsu_karasu umibouzu_(niito)  hiraga_matsuri 
 yashiro_seika wowoguni ke-ta  kyouya_(mukuro238)  takeashiro fukunoki_tokuwa kinugasa_yuuichi ochiai_miyabi
-  to_naive miruto_netsuki  osa_(osaosa)  kanzaki_hiro hakuishi_aoi nedia_(nedia_region)
+  to_naive miruto_netsuki  osa_(osaosa)   hakuishi_aoi nedia_(nedia_region)
 youmu_(tomgoku2)  okota_mikan note55885  roriwanko child_(isoliya) kachiyori soushou_nin
  tokki yuya_(night_lily) noeru_(gt17854) miyukiyo itakurakou1993 natsuki_(ukiwakudasai) sasaame  
-ichizon-->{iljon_(ichizen) Y } kakao_rantan massala amagai_tarou achiki  catxuan tetsujin_momoko 
+ichizon-->{iljon_(ichizen) Y } kakao_rantan massala  achiki  catxuan tetsujin_momoko 
   bsue tonari_no_kai_keruberosu ama_mitsuki apple_ringo oekakizuki  iljon_(ichizen)
-rorinya  purin_jiisan komori_kuzuyu muq  chamio77  dangmyo omega.ep p.i.t.d  daye_bie_qia_lian
+rorinya   komori_kuzuyu muq  chamio77  dangmyo omega.ep p.i.t.d  daye_bie_qia_lian
 doroshi gomzi akira_(been0328)  kanola_u kuroshiro_(ms-2420) ginhaha wuming 100% komone_ushio sogawa66 dangmill
 hiiragi_souren tanbonota46 pro-p hano_haruka tsubasa_tsubasa kentaurosu nanakagura plumw  twinameless ouka_(ra-raradan)
 nekometaru yoo_(tabi_no_shiori) nise6  satosi sakura_koharu yumesaki gejigejier aliter sayori ko_katakuchiiwashi
@@ -242,8 +257,8 @@ katsushika_hokusai_(fate/grand_order) nekomicha
  
  yukisame  tamakaga jh aldehyde yukishiro_arute aruka_(alka_p1) mizuka_nayuki mairo asa0504 ss851251 nagisa_(cxcx5235) ragho_no_erika
 iren_lovel lunacle gilse yushima melings_(aot2846) mafuyu kazenokaze fakegeo tiguruvurumudo_vuorun takunomi ookuma_(qq) nanotsuki tantan_men_(dragon)
-rednian topia fal_maro zoff_(daria) kizibato123go kamioka_shun'ya ashima fuzichoko amano_kouki paya_(aejx234) minami_saki boku_koyuki_mx
-ramunezake  223_(pixiv332210012) shinoba kurigura_(sketch_san)  sanshoku_amido monoto naryoung nishizawa kian sunameri_(pixiv3564245)
+rednian  fal_maro zoff_(daria) kizibato123go kamioka_shun'ya ashima fuzichoko amano_kouki paya_(aejx234) minami_saki boku_koyuki_mx
+ramunezake  223_(pixiv332210012)  kurigura_(sketch_san)  sanshoku_amido monoto naryoung nishizawa kian sunameri_(pixiv3564245)
 cuna_(qunya) yaman konata_(knt_banri) shiro_kuma_shake dosu_(yodosu) evenicle mayo_(miyusa) paya_(aejx2345) neku_(neku_draw)
 chengcheng2b cut_(bu-kunn) kobayashi_chisato ezoshika nazuna_shizuku nekonorin asanagi_kurumi_(panda-doufu) taiyaking chon_(chon33v)
 ameyame mugi_(banban53) euryale tuchishiratama_akanenokoeffect araki495 hiromaster_sinta_jh greatmosu akizora_momiji gou_lianlian_dogface
@@ -272,133 +287,63 @@ BOT_NAME = 'webUrlGetor'
 SPIDER_MODULES = ['webUrlGetor.spiders']
 NEWSPIDER_MODULE = 'webUrlGetor.spiders'
 USER_AGENT_LIST = ["Mozilla/5.0 (Android; Linux armv7l; rv:10.0.1) Gecko/20100101 Firefox/10.0.1 Fennec/10.0.1",
-                   "Mozilla/5.0 (Android; Linux armv7l; rv:2.0.1) Gecko/20100101 Firefox/4.0.1 Fennec/2.0.1",
-                   "Mozilla/5.0 (WindowsCE 6.0; rv:2.0.1) Gecko/20100101 Firefox/4.0.1",
-                   "Mozilla/5.0 (Windows NT 5.1; rv:5.0) Gecko/20100101 Firefox/5.0",
-                   "Mozilla/5.0 (Windows NT 5.2; rv:10.0.1) Gecko/20100101 Firefox/10.0.1 SeaMonkey/2.7.1",
-                   "Mozilla/5.0 (Windows NT 6.0) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.120 Safari/535.2",
-                   "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/18.6.872.0 Safari/535.2 UNTRUSTED/1.0 3gpp-gba UNTRUSTED/1.0",
-                   "Mozilla/5.0 (Windows NT 6.1; rv:12.0) Gecko/20120403211507 Firefox/12.0",
-                   "Mozilla/5.0 (Windows NT 6.1; rv:2.0.1) Gecko/20100101 Firefox/4.0.1",
-                   "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1",
-                   "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.27 (KHTML, like Gecko) Chrome/12.0.712.0 Safari/534.27",
-                   "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.24 Safari/535.1",
-                   "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.36 Safari/535.7",
-                   "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.6 (KHTML, like Gecko) Chrome/20.0.1092.0 Safari/536.6",
-                   "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1",
-                   "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:15.0) Gecko/20120427 Firefox/15.0a1",
-                   "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:2.0b4pre) Gecko/20100815 Minefield/4.0b4pre",
-                   "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:6.0a2) Gecko/20110622 Firefox/6.0a2",
-                   "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1",
-                   "Mozilla/5.0 (Windows NT 6.2) AppleWebKit/536.3 (KHTML, like Gecko) Chrome/19.0.1061.1 Safari/536.3",
-                   "Mozilla/5.0 (Windows; U; ; en-NZ) AppleWebKit/527  (KHTML, like Gecko, Safari/419.3) Arora/0.8.0",
-                   "Mozilla/5.0 (Windows; U; Win98; en-US; rv:1.4) Gecko Netscape/7.1 (ax)",
-                   "Mozilla/5.0 (Windows; U; Windows CE 5.1; rv:1.8.1a3) Gecko/20060610 Minimo/0.016",
-                   "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/531.21.8 (KHTML, like Gecko) Version/4.0.4 Safari/531.21.10",
-                   "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.7 (KHTML, like Gecko) Chrome/7.0.514.0 Safari/534.7",
-                   "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.23) Gecko/20090825 SeaMonkey/1.1.18",
-                   "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.9.0.10) Gecko/2009042316 Firefox/3.0.10",
-                   "Mozilla/5.0 (Windows; U; Windows NT 5.1; tr; rv:1.9.2.8) Gecko/20100722 Firefox/3.6.8 ( .NET CLR 3.5.30729; .NET4.0E)",
-                   "Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US) AppleWebKit/532.9 (KHTML, like Gecko) Chrome/5.0.310.0 Safari/532.9",
-                   "Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US) AppleWebKit/533.17.8 (KHTML, like Gecko) Version/5.0.1 Safari/533.17.8",
-                   "Mozilla/5.0 (Windows; U; Windows NT 6.0; en-GB; rv:1.9.0.11) Gecko/2009060215 Firefox/3.0.11 (.NET CLR 3.5.30729)",
-                   "Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/527  (KHTML, like Gecko, Safari/419.3) Arora/0.6 (Change: )",
-                   "Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/533.1 (KHTML, like Gecko) Maxthon/3.0.8.2 Safari/533.1",
-                   "Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/534.14 (KHTML, like Gecko) Chrome/9.0.601.0 Safari/534.14",
-                   "Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.9.1.6) Gecko/20091201 Firefox/3.5.6 GTB5",
-                   "Mozilla/5.0 (Windows; U; Windows NT 6.0 x64; en-US; rv:1.9pre) Gecko/2008072421 Minefield/3.0.2pre",
-                   "Mozilla/5.0 (Windows; U; Windows NT 6.1; en-GB; rv:1.9.1.17) Gecko/20110123 (like Firefox/3.x) SeaMonkey/2.0.12",
-                   "Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/532.5 (KHTML, like Gecko) Chrome/4.0.249.0 Safari/532.5",
-                   "Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/533.19.4 (KHTML, like Gecko) Version/5.0.2 Safari/533.18.5",
-                   "Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.14 (KHTML, like Gecko) Chrome/10.0.601.0 Safari/534.14",
-                   "Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.20 (KHTML, like Gecko) Chrome/11.0.672.2 Safari/534.20",
-                   "Mozilla/5.0 (Windows; U; Windows XP) Gecko MultiZilla/1.6.1.0a",
-                   "Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.2b) Gecko/20021001 Phoenix/0.2",
-                   "Mozilla/5.0 (X11; FreeBSD amd64; rv:5.0) Gecko/20100101 Firefox/5.0",
-                   "Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.34 (KHTML, like Gecko) QupZilla/1.2.0 Safari/534.34",
-                   "Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.1 (KHTML, like Gecko) Ubuntu/11.04 Chromium/14.0.825.0 Chrome/14.0.825.0 Safari/535.1",
-                   "Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.2 (KHTML, like Gecko) Ubuntu/11.10 Chromium/15.0.874.120 Chrome/15.0.874.120 Safari/535.2",
-                   "Mozilla/5.0 (X11; Linux i686 on x86_64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1",
-                   "Mozilla/5.0 (X11; Linux i686 on x86_64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1 Fennec/2.0.1",
-                   "Mozilla/5.0 (X11; Linux i686; rv:10.0.1) Gecko/20100101 Firefox/10.0.1 SeaMonkey/2.7.1",
-                   "Mozilla/5.0 (X11; Linux i686; rv:12.0) Gecko/20100101 Firefox/12.0 ",
-                   "Mozilla/5.0 (X11; Linux i686; rv:2.0.1) Gecko/20100101 Firefox/4.0.1",
-                   "Mozilla/5.0 (X11; Linux i686; rv:2.0b6pre) Gecko/20100907 Firefox/4.0b6pre",
-                   "Mozilla/5.0 (X11; Linux i686; rv:5.0) Gecko/20100101 Firefox/5.0",
-                   "Mozilla/5.0 (X11; Linux i686; rv:6.0a2) Gecko/20110615 Firefox/6.0a2 Iceweasel/6.0a2",
-                   "Mozilla/5.0 (X11; Linux i686; rv:6.0) Gecko/20100101 Firefox/6.0",
-                   "Mozilla/5.0 (X11; Linux i686; rv:8.0) Gecko/20100101 Firefox/8.0",
-                   "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/534.24 (KHTML, like Gecko) Ubuntu/10.10 Chromium/12.0.703.0 Chrome/12.0.703.0 Safari/534.24",
-                   "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.20 Safari/535.1",
-                   "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/536.5 (KHTML, like Gecko) Chrome/19.0.1084.9 Safari/536.5",
-                   "Mozilla/5.0 (X11; Linux x86_64; en-US; rv:2.0b2pre) Gecko/20100712 Minefield/4.0b2pre",
-                   "Mozilla/5.0 (X11; Linux x86_64; rv:10.0.1) Gecko/20100101 Firefox/10.0.1",
-                   "Mozilla/5.0 (X11; Linux x86_64; rv:11.0a2) Gecko/20111230 Firefox/11.0a2 Iceweasel/11.0a2",
-                   "Mozilla/5.0 (X11; Linux x86_64; rv:2.0.1) Gecko/20100101 Firefox/4.0.1",
-                   "Mozilla/5.0 (X11; Linux x86_64; rv:2.2a1pre) Gecko/20100101 Firefox/4.2a1pre",
-                   "Mozilla/5.0 (X11; Linux x86_64; rv:5.0) Gecko/20100101 Firefox/5.0 Iceweasel/5.0",
-                   "Mozilla/5.0 (X11; Linux x86_64; rv:7.0a1) Gecko/20110623 Firefox/7.0a1",
-                   "Mozilla/5.0 (X11; U; FreeBSD amd64; en-us) AppleWebKit/531.2  (KHTML, like Gecko) Safari/531.2  Epiphany/2.30.0",
-                   "Mozilla/5.0 (X11; U; FreeBSD i386; de-CH; rv:1.9.2.8) Gecko/20100729 Firefox/3.6.8",
-                   "Mozilla/5.0 (X11; U; FreeBSD i386; en-US) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/4.0.207.0 Safari/532.0",
-                   "Mozilla/5.0 (X11; U; FreeBSD i386; en-US; rv:1.6) Gecko/20040406 Galeon/1.3.15",
-                   "Mozilla/5.0 (X11; U; FreeBSD; i386; en-US; rv:1.7) Gecko",
-                   "Mozilla/5.0 (X11; U; FreeBSD x86_64; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.204 Safari/534.16",
-                   "Mozilla/5.0 (X11; U; Linux arm7tdmi; rv:1.8.1.11) Gecko/20071130 Minimo/0.025",
-                   "Mozilla/5.0 (X11; U; Linux armv61; en-US; rv:1.9.1b2pre) Gecko/20081015 Fennec/1.0a1",
-                   "Mozilla/5.0 (X11; U; Linux armv6l; rv 1.8.1.5pre) Gecko/20070619 Minimo/0.020",
-                   "Mozilla/5.0 (X11; U; Linux; en-US) AppleWebKit/527  (KHTML, like Gecko, Safari/419.3) Arora/0.10.1",
-                   "Mozilla/5.0 (X11; U; Linux i586; en-US; rv:1.7.3) Gecko/20040924 Epiphany/1.4.4 (Ubuntu)",
-                   "Mozilla/5.0 (X11; U; Linux i686; en-us) AppleWebKit/528.5  (KHTML, like Gecko, Safari/528.5 ) lt-GtkLauncher",
-                   "Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/532.4 (KHTML, like Gecko) Chrome/4.0.237.0 Safari/532.4 Debian",
-                   "Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/532.8 (KHTML, like Gecko) Chrome/4.0.277.0 Safari/532.8",
-                   "Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.15 (KHTML, like Gecko) Ubuntu/10.10 Chromium/10.0.613.0 Chrome/10.0.613.0 Safari/534.15",
-                   "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.6) Gecko/20040614 Firefox/0.8",
-                   "Mozilla/5.0 (X11; U; Linux; i686; en-US; rv:1.6) Gecko Debian/1.6-7",
-                   "Mozilla/5.0 (X11; U; Linux; i686; en-US; rv:1.6) Gecko Epiphany/1.2.5",
-                   "Mozilla/5.0 (X11; U; Linux; i686; en-US; rv:1.6) Gecko Galeon/1.3.14",
-                   "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.0.7) Gecko/20060909 Firefox/1.5.0.7 MG(Novarra-Vision/6.9)",
-                   "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1.16) Gecko/20080716 (Gentoo) Galeon/2.0.6",
-                   "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.8.1) Gecko/20061024 Firefox/2.0 (Swiftfox)",
-                   "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.11) Gecko/2009060309 Ubuntu/9.10 (karmic) Firefox/3.0.11",
-                   "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.8) Gecko Galeon/2.0.6 (Ubuntu 2.0.6-2)",
-                   "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.16) Gecko/20120421 Gecko Firefox/11.0",
-                   "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.1.2) Gecko/20090803 Ubuntu/9.04 (jaunty) Shiretoko/3.5.2",
-                   "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9a3pre) Gecko/20070330",
-                   "Mozilla/5.0 (X11; U; Linux i686; it; rv:1.9.2.3) Gecko/20100406 Firefox/3.6.3 (Swiftfox)",
-                   "Mozilla/5.0 (X11; U; Linux ppc; en-US; rv:1.8.1.13) Gecko/20080313 Iceape/1.1.9 (Debian-1.1.9-5)",
-                   "Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/532.9 (KHTML, like Gecko) Chrome/5.0.309.0 Safari/532.9",
-                   "Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/534.15 (KHTML, like Gecko) Chrome/10.0.613.0 Safari/534.15",
-                   "Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/534.7 (KHTML, like Gecko) Chrome/7.0.514.0 Safari/534.7",
-                   "Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/540.0 (KHTML, like Gecko) Ubuntu/10.10 Chrome/9.1.0.0 Safari/540.0",
-                   "Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.0.3) Gecko/2008092814 (Debian-3.0.1-1)",
-                   "Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.1.13) Gecko/20100916 Iceape/2.0.8",
-                   "Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.1.17) Gecko/20110123 SeaMonkey/2.0.12",
-                   "Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.1.3) Gecko/20091020 Linux Mint/8 (Helena) Firefox/3.5.3",
-                   "Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.1.5) Gecko/20091107 Firefox/3.5.5",
-                   "Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.2.9) Gecko/20100915 Gentoo Firefox/3.6.9",
-                   "Mozilla/5.0 (X11; U; Linux x86_64; sv-SE; rv:1.8.1.12) Gecko/20080207 Ubuntu/7.10 (gutsy) Firefox/2.0.0.12",
-                   "Mozilla/5.0 (X11; U; Linux x86_64; us; rv:1.9.1.19) Gecko/20110430 shadowfox/7.0 (like Firefox/7.0",
-                   "Mozilla/5.0 (X11; U; NetBSD amd64; en-US; rv:1.9.2.15) Gecko/20110308 Namoroka/3.6.15",
-                   "Mozilla/5.0 (X11; U; OpenBSD arm; en-us) AppleWebKit/531.2  (KHTML, like Gecko) Safari/531.2  Epiphany/2.30.0",
-                   "Mozilla/5.0 (X11; U; OpenBSD i386; en-US) AppleWebKit/533.3 (KHTML, like Gecko) Chrome/5.0.359.0 Safari/533.3",
-                   "Mozilla/5.0 (X11; U; OpenBSD i386; en-US; rv:1.9.1) Gecko/20090702 Firefox/3.5",
-                   "Mozilla/5.0 (X11; U; SunOS i86pc; en-US; rv:1.8.1.12) Gecko/20080303 SeaMonkey/1.1.8",
-                   "Mozilla/5.0 (X11; U; SunOS i86pc; en-US; rv:1.9.1b3) Gecko/20090429 Firefox/3.1b3",
-                   "Mozilla/5.0 (X11; U; SunOS sun4m; en-US; rv:1.4b) Gecko/20030517 Mozilla Firebird/0.6",
-                   "Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/532.9 (KHTML, like Gecko) Chrome/5.0.309.0 Safari/532.9",
-                   "Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/534.15 (KHTML, like Gecko) Chrome/10.0.613.0 Safari/534.15",
-                   "Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/534.7 (KHTML, like Gecko) Chrome/7.0.514.0 Safari/534.7",
-                   "Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/540.0 (KHTML, like Gecko) Ubuntu/10.10 Chrome/9.1.0.0 Safari/540.0",
-                   "Mozilla/5.0 (Linux; Android 7.1.1; MI 6 Build/NMF26X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/6.2 TBS/043807 Mobile Safari/537.36 MicroMessenger/6.6.1.1220(0x26060135) NetType/WIFI Language/zh_CN",
-                   "Mozilla/5.0 (Linux; Android 7.1.1; OD103 Build/NMF26F; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.49 Mobile MQQBrowser/6.2 TBS/043632 Safari/537.36 MicroMessenger/6.6.1.1220(0x26060135) NetType/4G Language/zh_CN",
-                   "Mozilla/5.0 (Linux; Android 6.0.1; SM919 Build/MXB48T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.49 Mobile MQQBrowser/6.2 TBS/043632 Safari/537.36 MicroMessenger/6.6.1.1220(0x26060135) NetType/WIFI Language/zh_CN",
-                   "Mozilla/5.0 (Linux; Android 5.1.1; vivo X6S A Build/LMY47V; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.49 Mobile MQQBrowser/6.2 TBS/043632 Safari/537.36 MicroMessenger/6.6.1.1220(0x26060135) NetType/WIFI Language/zh_CN",
-                   "Mozilla/5.0 (Linux; Android 5.1; HUAWEI TAG-AL00 Build/HUAWEITAG-AL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.49 Mobile MQQBrowser/6.2 TBS/043622 Safari/537.36 MicroMessenger/6.6.1.1220(0x26060135) NetType/4G Language/zh_CN",
-                   "Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_2 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13F69 MicroMessenger/6.6.1 NetType/4G Language/zh_CN",
-                   "Mozilla/5.0 (iPhone; CPU iPhone OS 11_2_2 like Mac https://m.baidu.com/mip/c/s/zhangzifan.com/wechat-user-agent.htmlOS X) AppleWebKit/604.4.7 (KHTML, like Gecko) Mobile/15C202 MicroMessenger/6.6.1 NetType/4G Language/zh_CN",
-                   "Mozilla/5.0 (iPhone; CPU iPhone OS 11_1_1 like Mac OS X) AppleWebKit/604.3.5 (KHTML, like Gecko) Mobile/15B150 MicroMessenger/6.6.1 NetType/WIFI Language/zh_CN",
-                   "Mozilla/5.0 (iphone x Build/MXB48T; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.49 Mobile MQQBrowser/6.2 TBS/043632 Safari/537.36 MicroMessenger/6.6.1.1220(0x26060135) NetType/WIFI Language/zh_CN", ]
+                   "Mozilla/5.0(compatible;Yahoo!Slurp China;http://misc.yahoo.com.cn/help.html)",
+                   "Mozilla/5.0(compatible;Yahoo!Slurp;http://help.yahoo.com/help/us/ysearch/slurp)",
+                   "Sosoimagespider+(+http://help.soso.com/soso-image-spider.htm)",
+                   "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)",
+                   "Mozilla/5.0(compatible;Baiduspider/2.0;+http://www.baidu.com/search/spider.html)Mozilla/5.0(compatible;Baiduspider-render/2.0;+http://www.baidu.com/search/spider.html)",
+                   "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; AcooBrowser; .NET CLR 1.1.4322; .NET CLR 2.0.50727)",
+                   "Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Acoo Browser; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506)",
+                   "Mozilla/4.0 (compatible; MSIE 7.0; AOL 9.5; AOLBuild 4337.35; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727)",
+                   "Mozilla/5.0 (Windows; U; MSIE 9.0; Windows NT 9.0; en-US)",
+                   "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Win64; x64; Trident/5.0; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET CLR 2.0.50727; Media Center PC 6.0)",
+                   "Mozilla/5.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; .NET CLR 1.0.3705; .NET CLR 1.1.4322)",
+                   "Mozilla/4.0 (compatible; MSIE 7.0b; Windows NT 5.2; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.2; .NET CLR 3.0.04506.30)",
+                   "Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN) AppleWebKit/523.15 (KHTML, like Gecko, Safari/419.3) Arora/0.3 (Change: 287 c9dfb30)",
+                   "Mozilla/5.0 (X11; U; Linux; en-US) AppleWebKit/527+ (KHTML, like Gecko, Safari/419.3) Arora/0.6",
+                   "Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8.1.2pre) Gecko/20070215 K-Ninja/2.1.1",
+                   "Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9) Gecko/20080705 Firefox/3.0 Kapiko/3.0",
+                   "Mozilla/5.0 (X11; Linux i686; U;) Gecko/20070322 Kazehakase/0.4.5",
+                   "Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.8) Gecko Fedora/1.9.0.8-1.fc10 Kazehakase/0.5.6",
+                   "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.56 Safari/535.11",
+                   "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.20 (KHTML, like Gecko) Chrome/19.0.1036.7 Safari/535.20",
+                   "Opera/9.80 (Macintosh; Intel Mac OS X 10.6.8; U; fr) Presto/2.9.168 Version/11.52",
+                   'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36 OPR/26.0.1656.60',
+                   'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.101 Safari/537.36',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; QQDownload 732; .NET4.0C; .NET4.0E; LBBROWSER)',
+                   'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.84 Safari/535.11 SE 2.X MetaSr 1.0',
+                   'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.122 UBrowser/4.0.3214.0 Safari/537.36',
+                   'Mozilla/5.0 (X11; U; Linux x86_64; zh-CN; rv:1.9.2.10) Gecko/20100922 Ubuntu/10.10 (maverick) Firefox/3.6.10',
+                   'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.835.163 Safari/535.1',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; AcooBrowser; .NET CLR 1.1.4322; .NET CLR 2.0.50727)',
+                   'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; Acoo Browser; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506)',
+                   'Mozilla/4.0 (compatible; MSIE 7.0; AOL 9.5; AOLBuild 4337.35; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727)',
+                   'Mozilla/5.0 (X11; Linux i686; U;) Gecko/20070322 Kazehakase/0.4.5',
+                   'Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.8) Gecko Fedora/1.9.0.8-1.fc10 Kazehakase/0.5.6',
+                   'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.56 Safari/535.11',
+                   'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_3) AppleWebKit/535.20 (KHTML, like Gecko) Chrome/19.0.1036.7 Safari/535.20',
+                   'Opera/9.80 (Macintosh; Intel Mac OS X 10.6.8; U; fr) Presto/2.9.168 Version/11.52',
+                   'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_8; en-us) AppleWebKit/534.50 (KHTML, like Gecko) Version/5.1 Safari/534.50',
+                   'Mozilla/5.0 (Windows; U; Windows NT 6.1; en-us) AppleWebKit/534.50 (KHTML, like Gecko) Version/5.1 Safari/534.50',
+                   'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0',
+                   'Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.0; Trident/4.0)',
+                   'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0)',
+                   'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.6; rv:2.0.1) Gecko/20100101 Firefox/4.0.1',
+                   'Mozilla/5.0 (Windows NT 6.1; rv:2.0.1) Gecko/20100101 Firefox/4.0.1',
+                   'Opera/9.80 (Macintosh; Intel Mac OS X 10.6.8; U; en) Presto/2.8.131 Version/11.11',
+                   'Opera/9.80 (Windows NT 6.1; U; en) Presto/2.8.131 Version/11.11',
+                   'Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_3 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5',
+                   'Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3_3 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5',
+                   'Mozilla/5.0 (iPad; U; CPU OS 4_3_3 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5',
+                   'Mozilla/5.0 (Linux; U; Android 2.3.7; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1',
+                   'MQQBrowser/26 Mozilla/5.0 (Linux; U; Android 2.3.7; zh-cn; MB200 Build/GRJ22; CyanogenMod-7) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1',
+                   'Opera/9.80 (Android 2.3.4; Linux; Opera Mobi/build-1107180945; U; en-GB) Presto/2.8.149 Version/11.10',
+                   'Mozilla/5.0 (Linux; U; Android 3.0; en-us; Xoom Build/HRI39) AppleWebKit/534.13 (KHTML, like Gecko) Version/4.0 Safari/534.13',
+                   'Mozilla/5.0 (BlackBerry; U; BlackBerry 9800; en) AppleWebKit/534.1+ (KHTML, like Gecko) Version/6.0.0.337 Mobile Safari/534.1+',
+                   'Mozilla/5.0 (hp-tablet; Linux; hpwOS/3.0.0; U; en-US) AppleWebKit/534.6 (KHTML, like Gecko) wOSBrowser/233.70 Safari/534.6 TouchPad/1.0',
+                   'Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 NokiaN97-1/20.0.019; Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebKit/525 (KHTML, like Gecko) BrowserNG/7.1.18124',
+                   'Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; HTC; Titan)'
+                   ]
 
 ITEM_PIPELINES = {
 

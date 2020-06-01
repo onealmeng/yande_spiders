@@ -59,11 +59,11 @@ class ScrapyOschinaSpider(scrapy.Spider):
                         print("pic_link_png-->", item)
                         with open(path, 'wb') as f:
                             f.write(img)
-                        f.close()
                         print("保存成功！文件名为%s" % file_name)
                         self.SQLTools.insert_into_new_db(file_name, tags)
                     except:
                         pass
+                time.sleep(1)
 
         links_in_a_page = sel.xpath('//a[@href]')  # 页面内的所有链接
         for link_sel in links_in_a_page:
@@ -91,7 +91,6 @@ class ScrapyOschinaSpider(scrapy.Spider):
                             print("link-->", link)
                             with open(path, 'wb') as f:
                                 f.write(img)
-                            f.close()
                             print("保存成功！文件名为%s" % file_name)
                             self.SQLTools.insert_into_new_db(file_name, tags)
                         except:

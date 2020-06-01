@@ -12,6 +12,7 @@ from webUrlGetor.tools.model.sqltools import SQLTools
 urllib3.disable_warnings()
 
 
+
 class ScrapyOschinaSpider(scrapy.Spider):
     name = "k"
     allowed_domains = ["konachan.com/post"]
@@ -57,7 +58,6 @@ class ScrapyOschinaSpider(scrapy.Spider):
                         print("pic_link_png-->", item)
                         with open(path, 'wb') as f:
                             f.write(img)
-                        f.close()
                         print("保存成功！文件名为%s" % file_name)
                         self.SQLTools.insert_into_new_db(file_name, tags)
                     except:
@@ -89,7 +89,6 @@ class ScrapyOschinaSpider(scrapy.Spider):
                                 print("link-->", link)
                                 with open(path, 'wb') as f:
                                     f.write(img)
-                                f.close()
                                 print("保存成功！文件名为%s" % file_name)
                                 self.SQLTools.insert_into_new_db(file_name, tags)
                             except:

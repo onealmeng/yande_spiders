@@ -56,7 +56,6 @@ class ScrapyOschinaSpider(scrapy.Spider):
                         print("pic_link_png-->", item)
                         with open(path, 'wb') as f:
                             f.write(img)
-                        f.close()
                         print("Save Success!Save Path-->%s" % file_name)
                         self.SQLTools.insert_into_new_db(file_name, tags)
                     except:
@@ -86,7 +85,6 @@ class ScrapyOschinaSpider(scrapy.Spider):
                                 print("link-->", link)
                                 with open(path, 'wb') as f:
                                     f.write(img)
-                                f.close()
                                 print("保存成功！文件名为%s" % file_name)
                                 self.SQLTools.insert_into_new_db(file_name, tags)
                             except:
