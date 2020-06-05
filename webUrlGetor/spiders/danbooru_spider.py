@@ -39,6 +39,8 @@ class ScrapyOschinaSpider(scrapy.Spider):
                 pass
             elif not (item.endswith(".png") or item.endswith(".jpg")):
                 pass
+            # elif "uncensored" not in item:
+            #     pass
             else:
                 file_name = str(item.split("/")[-1:][0])
                 path = os.path.join(self.dirs, file_name)
@@ -74,6 +76,8 @@ class ScrapyOschinaSpider(scrapy.Spider):
 
                         if os.path.exists(path):
                             pass
+                        # elif "uncensored" not in item:
+                        #     pass
                         elif len(self.SQLTools.query_from_UserNew_more_info(file_name)) > 0:
                             pass
                         else:

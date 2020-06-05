@@ -71,6 +71,8 @@ class ScrapyOschinaSpider(scrapy.Spider):
                 pass
             elif "Fichier:" in item:
                 pass
+            # elif "uncensored" not in item:
+            #     pass
             else:
                 file_name = str(item.split("/")[-1:][0])
                 path = os.path.join(self.dirs, file_name)
