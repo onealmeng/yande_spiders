@@ -30,30 +30,40 @@ def search(cover_path):
     if res.status_code != 200:
         return "error"
     # print(res.text)
-    pattern = re.compile(r'Creator: </strong>(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+<br')
+    pattern = re.compile(r'Creator: </strong>(?:[a-zA-Z]|[0-9]|\s*|[$-_@.&+]|(?:%[0-9a-fA-F][0-9a-fA-F]))+<br')
     results = pattern.findall(res.text)
     res_lists = []
-    for result in results:
-        creator = result[18:-3]
-        if creator not in res_lists:
-            res_lists.append(creator)
-    if len(res_lists) == 0:
+    if len(results) == 0:
         print("The result is None!")
-        return "None res"
+        return "resultisNone"
     else:
-        for res_list in res_lists:
-            res = SQLTools.query_from_UserNew_more_info_by_tag(res_list)
+        for result in results:
+            creator = result[18:-3]
+
+            res = SQLTools.query_from_UserNew_more_info_by_tag(creator)
             if len(res) > 0:
-                print("The Creator:" + str(res_list) + " Has Got")
+                print("The Creator:" + str(creator) + " HasGot")
+                return "HasGot"
             else:
-                print("new res!--->" + str(res_list))
-                append_to_file(res_list)
+                print("new res!--->" + str(creator))
+                creator = creator.strip()
+                creator = creator.replace(" ", "_")
+                SQLTools.insert_into_new_db(str(time.time()), tags_name=creator)
+                append_to_file(creator)
 
 
 def append_to_file(tag_name):
     res_path = os.path.join("/Users/dingtone/Documents", "res.txt")
+    need = False
+    with open(res_path, "r") as file:  # 只需要将之前的”w"改为“a"即可，代表追加内容
+        text = file.read()
+        if tag_name not in text:
+            need = True
     with open(res_path, "a") as file:  # 只需要将之前的”w"改为“a"即可，代表追加内容
-        file.write(str(tag_name) + " " + "\n")
+        if need:
+            file.write(str(tag_name) + "\n")
+        else:
+            print("刚刚已经检索到这个画师了！")
 
 
 def rename_file(file_path):
@@ -76,8 +86,13 @@ if __name__ == '__main__':
             res = search(file_path)
             if res == "error":
                 sys.exit("Error in Search!")
-            elif res == "None res":
+            elif res == "resultisNone":
                 rename_file(file_path)
+            elif res == "HasGot":
+                try:
+                    os.remove(file_path)
+                except Exception as e:
+                    print("删除失败，原因：", str(e))
             else:
                 try:
                     os.remove(file_path)
