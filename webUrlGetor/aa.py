@@ -1,5 +1,5 @@
 import pyperclip
-tag = "ogami ren"
+tag = "renka (cloudsaikou)"
 tag = tag.strip()
 tags = tag.replace(" ", "_")
 print(tags)
