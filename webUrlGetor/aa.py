@@ -1,5 +1,5 @@
 import pyperclip
-tag = "natori youkai"
+tag = "ogami ren"
 tag = tag.strip()
 tags = tag.replace(" ", "_")
 print(tags)
