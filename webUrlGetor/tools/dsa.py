@@ -9,7 +9,7 @@ import time
 SQLTools = SQLTools()
 
 
-def search(cover_path):
+def search(cover_path, count):
     UserAgent = random.choice(USER_AGENT_LIST)
     done_list = []
     headers = {
@@ -29,6 +29,8 @@ def search(cover_path):
     print("httpCode:" + str(res.status_code))
     if res.status_code != 200:
         return "error"
+    count = count + 1
+    print("count--->" + str(count))
     # print(res.text)
     pattern = re.compile(r'Creator: </strong>(?:[a-zA-Z]|[0-9]|\s*|[$-_@.&+]|(?:%[0-9a-fA-F][0-9a-fA-F]))+<br')
     results = pattern.findall(res.text)
@@ -53,7 +55,7 @@ def search(cover_path):
 
 
 def append_to_file(tag_name):
-    res_path = os.path.join("/Users/dingtone/Documents", "res.txt")
+    res_path = "./res.txt"
     need = False
     with open(res_path, "r") as file:  # 只需要将之前的”w"改为“a"即可，代表追加内容
         text = file.read()
@@ -77,24 +79,28 @@ if __name__ == '__main__':
     cover_path = "/Users/dingtone/Desktop/待检索2"
     listdirs = os.listdir(cover_path)
     hhhh = []
+    count = 0
     for listdir in listdirs:
         time.sleep(random.randint(5, 15))
         if not listdir.endswith(".jpg"):
             pass
         else:
             file_path = os.path.join(cover_path, listdir)
-            res = search(file_path)
+            res = search(file_path, count)
             if res == "error":
                 sys.exit("Error in Search!")
             elif res == "resultisNone":
                 rename_file(file_path)
+                print("Rename Success-->" + str(file_path))
             elif res == "HasGot":
                 try:
                     os.remove(file_path)
+                    print("Delete Success-->" + str(file_path))
                 except Exception as e:
                     print("删除失败，原因：", str(e))
             else:
                 try:
                     os.remove(file_path)
+                    print("Delete Success-->" + str(file_path))
                 except Exception as e:
                     print("删除失败，原因：", str(e))
