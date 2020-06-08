@@ -102,7 +102,7 @@ class ScrapyOschinaSpider(scrapy.Spider):
                     #     pass
                     else:
                         try:
-                            time.sleep(random.randint(1,5))
+                            time.sleep(random.randint(1, 5))
                             res = requests.get(link, timeout=1809, verify=False, headers=headers)
                             img = res.content
                             print(tags)

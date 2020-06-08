@@ -55,34 +55,28 @@ def search(cover_path, count):
 
 
 def append_to_file(tag_name):
-    res_path = "./res.txt"
-    need = False
-    with open(res_path, "r") as file:  # 只需要将之前的”w"改为“a"即可，代表追加内容
-        text = file.read()
-        if tag_name not in text:
-            need = True
+    res_path = os.path.join(RESULT_PATH, "res.txt")
     with open(res_path, "a") as file:  # 只需要将之前的”w"改为“a"即可，代表追加内容
-        if need:
-            file.write(str(tag_name) + "\n")
-        else:
-            print("刚刚已经检索到这个画师了！")
+        file.write(str(tag_name) + ",\n")
 
 
 def rename_file(file_path):
+    new_path = os.path.join("/Users/dingtone/Desktop/检索无结果2", "Noresult" + str(time.time()) + ".jpg")
     try:
-        os.rename(file_path, os.path.join("/Users/dingtone/Desktop/检索无结果", "Noresult" + str(time.time()) + ".jpg"))
+        os.rename(file_path, new_path)
     except Exception as e:
         print(e)
+    return new_path
 
 
 if __name__ == '__main__':
-    cover_path = "/Users/dingtone/Desktop/待检索2"
+    cover_path = "/Users/dingtone/Desktop/待检索"
     listdirs = os.listdir(cover_path)
     hhhh = []
     count = 0
     for listdir in listdirs:
-        time.sleep(random.randint(5, 15))
-        if not listdir.endswith(".jpg"):
+
+        if not (listdir.endswith(".jpg") or listdir.endswith(".jpeg") or listdir.endswith(".png")):
             pass
         else:
             file_path = os.path.join(cover_path, listdir)
@@ -90,8 +84,8 @@ if __name__ == '__main__':
             if res == "error":
                 sys.exit("Error in Search!")
             elif res == "resultisNone":
-                rename_file(file_path)
-                print("Rename Success-->" + str(file_path))
+                new_path = rename_file(file_path)
+                print("Rename Success new_path-->" + str(new_path))
             elif res == "HasGot":
                 try:
                     os.remove(file_path)
@@ -104,3 +98,5 @@ if __name__ == '__main__':
                     print("Delete Success-->" + str(file_path))
                 except Exception as e:
                     print("删除失败，原因：", str(e))
+
+        time.sleep(random.randint(5, 15))

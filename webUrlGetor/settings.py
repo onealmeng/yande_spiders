@@ -8,22 +8,150 @@ the_cold sakura_oriko yeoohdam cuboon prophet_chu konagi_(konachi_e) saitou_(lyn
 ukiwakisen  meow_nyang ponyaru myuton goomrrat isegawa_yasutaka  yukinoshita_yukino takeya_y0615 feng_mouren
 ayakura_maki hk416_(girls_frontline)  toho_(kihon_ha_yappa) yotsuya_(gs) pemu joker_(tomakin524)  nomier
 mukatsukulsp wine_(2148_wine)  wasami_(a27678193a) sa-ya2 aliceblue runa_(user_guwn7382) satogo  miyo_(user_zdsp7735)
-kenmotsu_chiyo mochiyuki hoshi_no_yurara enj! nanahane_fl kona_(mmmkona) mashiro_(rikuya) somalisu  natori_youkai
+kenmotsu_chiyo mochiyuki hoshi_no_yurara enj! nanahane_fl kona_(mmmkona) mashiro_(rikuya) somalisu  natori_youkai renka_(cloudsaikou)
 daitai_sotogawa_(futomomo) ogami_ren yuusa guguta horiizumi_inko sho_(runatic_moon) taw_(993004677) yuano yimiao
-saki_(saki_paint) choya daidou_(demitasse) uu_o3o_8 missile228 suzume_miku onsem maiko_(macaroni) tomose_shunsaku
+saki_(saki_paint) choya daidou_(demitasse) uu_o3o_8 missile228 suzume_miku onsem maiko_(macaroni) tomose_shunsaku 5240mosu
 umyo_(uu_o3o_8) tokkyu_(user_mwwe3558) hiro_(hirohiro31) oli ikari_(aor3507) shiratamaco renka_(cloudsaikou) nanakaku
 """
-tags = "5240mosu"
+tags = "lielac"
 
 """
+kushida_you
+moegi0926
+
+
+mogskg
 
 
 
-
-
-
-
-
+banned_artist,_ikomochi
+nya_rl
+milkpanda
+oonaka_ito
+hizuki_higure
+gmyo25
+hinata_kokage
+linz_(linzimmm)
+pixiv_id_7554367
+yuuri_nayuta
+nakyo
+na_kyo
+ana_(rznuscrf)
+sakai_yoshikuni
+pierorabu
+ashima
+gin_(oyoyo)
+izuminanase
+izumi_nanase
+wntame
+ohisashiburi
+duji_amo,_usagihime
+ao_no_neko
+nekoume
+akasa_ai
+yukichi_(sukiyaki39)
+cancell
+rinmo
+rinmmo
+akita_hika
+pn_pixi
+caidychen
+yukiyama_momo
+taitai
+juna
+sabaaa_m
+akino_shuu
+sotto
+sumisaki_yuzuna
+kitsune_neko
+ryuno
+riririnn-s
+yuyu_(piko01)
+angelbreed
+neme1228
+miko_fly
+ukami
+terada_ochiko
+maddo_(gasser_0518)
+ym_(distance819)
+fly
+munape
+nibiiro_shizuka
+chamaji
+kureha_(ironika)
+rei_(kinokotype)
+kyarotto_(zenkixd)
+calm_mashiro
+neroma_shin
+hoshimiya_mashiro
+note_(aoiro_clip),_takehana_note
+takehana_note,_note_(aoiro_clip)
+ichiyan
+4min
+kka_na
+pupperdog-190
+banned_artist,_mana_kakkowarai
+monini
+sheita
+miyama-zero
+eternity_(pixiv8012826)
+yinpa_(wanone500511)
+deras
+omone_hokoma_agm
+natsume_megumi
+hammer_(sunset_beach)
+tatekawa_mako
+alabaster
+enomoto_hidehira
+sukemyon
+hiten_(hitenkei)
+hige_(693273545)
+inari_(inariya)
+gurasion_(gurasion)
+hirokazu_(analysis-depth)
+49_(yonkyuu)
+moneti,_moneti_(daifuku)
+moneti_(daifuku)
+fukuro_ko_(greentea)
+yadapot,_yada,_yada_potato
+mossi
+sakakidani
+capcom,_akinbo_(hyouka_fuyou)
+catsizuru
+yuuri_(sinjitu-no-yukue)
+shinatsukou
+myuton,_pixiv_id_3806145
+tofu1601
+nakamura_regura
+koruri
+ikura_nagisa
+fay
+jehyun
+sparky_the_chu
+ling_(sroin)
+ying_yanyu
+yoruny
+nauribon
+yoshikita_popuri
+me_meel
+abe_suke
+5_nenme_no_houkago,_kantoku
+chintora0201
+raku_rakugaki
+satsuki_mayuri
+raemz
+seol
+nanaya_(daaijianglin)
+ryota-h
+kokoa
+cocoa_(cafe-hotcocoa)
+yashima_roi
+banned_artist,_yuuka_nonoko
+hj_(leeho830)
+seki_(l0410706268)
+tamano_mayo
+kongbai
+miaoguujuun_qvq
 
 nakyo
 seero
@@ -458,6 +586,7 @@ IMAGES_URLS_FIELD = "pic_url"
 project_dir = os.path.abspath(os.path.dirname(__file__))
 # 获取images存储路径
 IMAGES_STORE = os.path.join(project_dir, 'images')
+RESULT_PATH = os.path.join(project_dir, 'result')
 DB_path = os.path.join(project_dir, 'tools')
 # 设定处理图片的最小高度，宽度
 IMAGES_MIN_HEIGHT = 100

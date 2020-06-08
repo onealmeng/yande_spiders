@@ -74,7 +74,7 @@ class SavePic(object):
                 try:
                     os.remove(os.path.join(os.path.join(file_path, file_name)))
                 except Exception as e:
-                    print "删除失败，原因：", str(e)
+                    print("删除失败，原因：", str(e))
             else:
                 if not (os.path.split(file_name)[1].endswith(".jpg") or os.path.split(file_name)[1].endswith(".png")):
                     pass
@@ -94,7 +94,7 @@ class SavePic(object):
                 file_hash_list.append(hash_of_file)
                 self.view_bar(i, len(file_name_list))
         except Exception as e:
-            print "获取文件hash错误！", str(e)
+            print("获取文件hash错误！", str(e))
         return file_hash_list
 
     def getDocSize(self, path):
@@ -122,7 +122,7 @@ class SavePic(object):
         if len(file_name_list) != len(file_hash_list):
             sys.exit("hash list 与 file list下标不一致！")
         total = (len(file_name_list) * (len(file_name_list) - 1)) / 2
-        print "\n共需要对比", total
+        print("\n共需要对比", total)
         need_delete_list_file_name = []
         count = 0
         for i in range(0, len(file_hash_list)):
@@ -144,7 +144,7 @@ class SavePic(object):
         for need_delete_file_path in need_delete_list_file_name:
             if need_delete_file_path not in news_ids:
                 news_ids.append(need_delete_file_path)
-        print "\n去重后的需要删除的长度", len(news_ids)
+        print("\n去重后的需要删除的长度", len(news_ids))
 
         return news_ids
 
@@ -157,7 +157,7 @@ class SavePic(object):
             try:
                 os.remove(os.path.join(file_path, need_delete_file_name))
             except Exception as e:
-                print "删除失败，原因：", str(e)
+                print("删除失败，原因：", str(e))
 
     def main(self, file_path):
         """
@@ -172,7 +172,7 @@ class SavePic(object):
         # 单线程删除文件
         file_path = self.rename_path_start(file_path)
         file_name_list = self.get_file_name_list_from_path(file_path)
-        print "文件夹下共包含文件", len(file_name_list), "个"
+        print("文件夹下共包含文件", len(file_name_list), "个")
         file_hash_list = self.get_file_hash_list_from_file_name_list(file_path, file_name_list)
         need_delete_list_file_name = self.compare_pic_hash_list(file_hash_list, file_path, file_name_list)
         need_delete_list_file_name_new = []
@@ -191,10 +191,10 @@ class SavePic(object):
         try:
             os.rename(file_path, file_path + "_ndDone")
         except Exception as e:
-            print e
-            print file_path, 'rename dir fail\r\n'
+            print(e)
+            print(file_path, 'rename dir fail\r\n')
         else:
-            print file_path, 'rename dir success\r\n'
+            print(file_path, 'rename dir success\r\n')
 
     def rename_path_start(self, file_path):
         try:
@@ -202,10 +202,10 @@ class SavePic(object):
             os.rename(file_path, new_path)
 
         except Exception as e:
-            print e
-            print file_path, 'rename dir fail\r\n'
+            print(e)
+            print(file_path, 'rename dir fail\r\n')
         else:
-            print file_path, 'rename dir success\r\n'
+            print(file_path, 'rename dir success\r\n')
             return new_path
 
 
@@ -218,9 +218,7 @@ if __name__ == '__main__':
     parser.add_argument('-a', '--adb', action='store', dest='adb_push', default='0',
                         help='need zpied')
     args = parser.parse_args()
-    print args.floderName
-    print args.zip_file
-    print args.adb_push
+
     # now_dir = os.path.dirname(os.path.abspath(__file__))
     # project_dir = os.path.split(now_dir)[0]
     # img_path = os.path.join(project_dir, "images")
@@ -240,8 +238,7 @@ if __name__ == '__main__':
     file_patha = os.path.join(img_path, floderName)
     need_delete_list_file_name = x.main(file_patha)
     floderName_new = floderName + "_ndStart_ndDone"
-    print floderName_new
-    if args.zip_file =='1':
+    if args.zip_file == '1':
         cd_cmd = 'cd ' + str(img_path)
         zipcmd = 'zip -rj %s.zip %s/' % (floderName_new, floderName_new)
         mv_cmd = 'mv ./%s.zip /Users/dingtone/Downloads/pic_need_to/%s.zip' % (floderName_new, floderName)
@@ -249,9 +246,7 @@ if __name__ == '__main__':
         all_cmd = cd_cmd + "&&" + zipcmd + "&&" + mv_cmd + "&&" + delete_cmd
         os.system(all_cmd)
 
-    if args.adb_push =='1':
-        cmd_adb='adb push '+ '/Users/dingtone/Downloads/pic_need_to/%s.zip'%floderName + " /sdcard/ACG图片"
-        print cmd_adb
+    if args.adb_push == '1':
+        cmd_adb = 'adb push ' + '/Users/dingtone/Downloads/pic_need_to/%s.zip' % floderName + " /sdcard/ACG图片"
         os.system(cmd_adb)
-
-    print "去重完成！"
+    print("Done!")
