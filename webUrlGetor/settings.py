@@ -13,15 +13,13 @@ daitai_sotogawa_(futomomo) ogami_ren yuusa guguta horiizumi_inko sho_(runatic_mo
 saki_(saki_paint) choya daidou_(demitasse) uu_o3o_8 missile228 suzume_miku onsem maiko_(macaroni) tomose_shunsaku 5240mosu
 umyo_(uu_o3o_8) tokkyu_(user_mwwe3558) hiro_(hirohiro31) oli ikari_(aor3507) shiratamaco renka_(cloudsaikou) nanakaku
 lielac seero yk_(pixiv43531291) myung muike sak mogmog  sakippo_(sakippo0) monyu_(monyupop) kushida_you
-moegi0926 mogskg kiyomasa_ren ildanbaggobwa ninniku_mashimashi takuan_(mo55ilst)
+moegi0926 mogskg kiyomasa_ren ildanbaggobwa ninniku_mashimashi takuan_(mo55ilst) yoye_(pastel_white)
+ninniku_mashimashi torokko denken doyachii_(artist)
 """
-tags = "yoye_(pastel_white)"
+tags = "ao_ao_konno"
 
 
 """
-,
-torokko,
-denken,
 gomennasai,
 damda,
 sakura_moyon,
@@ -49,7 +47,7 @@ ecu8080,
 pixiv_id_1795755,
 dtvisu,
 alexmaster,
-to_gemichi,
+,
 nii_manabu,
 utsumi_sae,
 arin_(wda4167),
@@ -294,7 +292,7 @@ iren_lovel  nabi_(uz02)  hinaki_(hinaki_0102) macaron_taitei
 topia  satoimo_chika  ranf  konomi kanipanda hokori_sakuni
 tsuchikure 银发淑女  maeha tougetsu tukise_33  5555_96 
 tomoo>>tomoo_(tomo) nekousagiatelier gaou_(matsulatte)
-reinama
+reinama  o_gemichi
 u35 ru_zhai rouka hakuya_(white_night) ichi_makoto  nayuta_hilo  sasachin
 kinokomushi  shiokazunoko kokusan_moyashi aro_1801 sasachin_%28k%2Bw%29 hatafuta
  ruda_(ruda_e)   ogata_tei  konishi_(565112307) nahaki cocoasabure

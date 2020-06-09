@@ -82,37 +82,38 @@ class ScrapyOschinaSpider(scrapy.Spider):
                         pass
                 time.sleep(1)
 
-        links_in_a_page = sel.xpath('//a[@href]')  # 页面内的所有链接
-        for link_sel in links_in_a_page:
-            print("page-->", str(result1[0]))
-            aa = link_sel.re('href="(.*?)"')
-            for i in range(0, len(aa)):
-                link = str(aa[i])  # 每一个url
-                if link.startswith("https://files.yande.re") and "Fichier:" not in link and "screen" not in link and (
-                        link.endswith(".png") or link.endswith(".jpg")):
-                    file_name = str(link.split("/")[-1:][0])
-                    path = os.path.join(self.dirs, file_name)
-
-                    if os.path.exists(path):
-                        pass
-                    elif len(self.SQLTools.query_from_UserNew_more_info(file_name)) > 0:
-                        pass
-                    # elif "uncensored" not in link:
-                    #     pass
-                    else:
-                        try:
-                            time.sleep(random.randint(1, 5))
-                            res = requests.get(link, timeout=1809, verify=False, headers=headers)
-                            img = res.content
-                            print(tags)
-                            print("link-->", link)
-                            with open(path, 'wb') as f:
-                                f.write(img)
-                            print("保存成功！文件名为%s" % file_name)
-                            self.SQLTools.insert_into_new_db(file_name, tags)
-                        except:
-                            pass
-                    yield item
+        # links_in_a_page = sel.xpath('//a[@href]')  # 页面内的所有链接
+        # links_in_a_page = sel.xpath('//a[contains(text(), "larger")]')
+        # print("links_in_a_page--->"+str(links_in_a_page))
+        # for link_sel in links_in_a_page:
+        #     aa = link_sel.re('href="(.*?)"')
+        #     for i in range(0, len(aa)):
+        #         link = str(aa[i])  # 每一个url
+        #         if link.startswith("https://files.yande.re") and "Fichier:" not in link and "screen" not in link and (
+        #                 link.endswith(".png") or link.endswith(".jpg")):
+        #             file_name = str(link.split("/")[-1:][0])
+        #             path = os.path.join(self.dirs, file_name)
+        #
+        #             if os.path.exists(path):
+        #                 print("file exit")
+        #             elif len(self.SQLTools.query_from_UserNew_more_info(file_name)) > 0:
+        #                 print("file exit in db")
+        #             # elif "uncensored" not in link:
+        #             #     pass
+        #             else:
+        #                 try:
+        #                     time.sleep(random.randint(1, 5))
+        #                     res = requests.get(link, timeout=1809, verify=False, headers=headers)
+        #                     img = res.content
+        #                     print(tags)
+        #                     print("link-->", link)
+        #                     with open(path, 'wb') as f:
+        #                         f.write(img)
+        #                     print("保存成功！文件名为%s" % file_name)
+        #                     self.SQLTools.insert_into_new_db(file_name, tags)
+        #                 except:
+        #                     pass
+        #             yield item
         next_page = scrapy.Selector(text=response.body)
         next_page = next_page.xpath("//a[@class='next_page' and @rel='next']").extract_first()
         if next_page:

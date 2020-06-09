@@ -9,3 +9,4 @@
 echo "y开始爬取！" &
 scrapy crawl "y" &
 wait
+
