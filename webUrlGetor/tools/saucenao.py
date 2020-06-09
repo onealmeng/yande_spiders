@@ -9,9 +9,8 @@ import time
 SQLTools = SQLTools()
 
 
-def search(cover_path, count):
+def search(cover_path):
     UserAgent = random.choice(USER_AGENT_LIST)
-    done_list = []
     headers = {
         "User-Agent": UserAgent,
         "Host": "saucenao.com",
@@ -29,27 +28,22 @@ def search(cover_path, count):
     print("httpCode:" + str(res.status_code))
     if res.status_code != 200:
         return "error"
-    count = count + 1
-    print("count--->" + str(count))
-    # print(res.text)
     pattern = re.compile(r'Creator: </strong>(?:[a-zA-Z]|[0-9]|\s*|[$-_@.&+]|(?:%[0-9a-fA-F][0-9a-fA-F]))+<br')
     results = pattern.findall(res.text)
-    res_lists = []
     if len(results) == 0:
         print("The result is None!")
         return "resultisNone"
     else:
         for result in results:
             creator = result[18:-3]
-
+            creator = tag_editor(creator)
             res = SQLTools.query_from_UserNew_more_info_by_tag(creator)
             if len(res) > 0:
                 print("The Creator:" + str(creator) + " HasGot")
                 return "HasGot"
             else:
+
                 print("new res!--->" + str(creator))
-                creator = creator.strip()
-                creator = creator.replace(" ", "_")
                 SQLTools.insert_into_new_db(str(time.time()), tags_name=creator)
                 append_to_file(creator)
 
@@ -69,18 +63,24 @@ def rename_file(file_path):
     return new_path
 
 
+def tag_editor(tag):
+    tag = tag.strip()
+    tags = tag.replace(" ", "_")
+    return tags
+
+
 if __name__ == '__main__':
     cover_path = "/Users/dingtone/Desktop/待检索"
     listdirs = os.listdir(cover_path)
     hhhh = []
-    count = 0
     for listdir in listdirs:
 
-        if not (listdir.endswith(".jpg") or listdir.endswith(".jpeg") or listdir.endswith(".png")):
+        if not (listdir.endswith(".jpg") or listdir.endswith(".jpeg") or listdir.endswith(".png") or listdir.endswith(
+                ".webp")):
             pass
         else:
             file_path = os.path.join(cover_path, listdir)
-            res = search(file_path, count)
+            res = search(file_path)
             if res == "error":
                 sys.exit("Error in Search!")
             elif res == "resultisNone":

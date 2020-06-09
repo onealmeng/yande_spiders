@@ -50,7 +50,6 @@ class ScrapyOschinaSpider(scrapy.Spider):
         sel = scrapy.Selector(text=response.body)
         pattern = re.compile(r'http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+')
         result1 = pattern.findall(response.text)
-        print(result1)
 
         for item in result1:
             if "preview" in item or "logo" in item or "pixiv" in item or "pximg" in item or "sample" in item \

@@ -72,15 +72,13 @@ class SQLTools(object):
         """
         # 初始化数据库连接:
         engine = create_engine('sqlite:///' + str(self.sqlite_file_path))
-        tag = tag.strip()
-        tags = tag.replace(" ", "_")
 
         # 创建DBSession类型:
         DBSession = sessionmaker(bind=engine)
         # 创建session对象:
         session = DBSession()
         try:
-            has_got = session.query(SP).filter(SP.tags == tags).all()
+            has_got = session.query(SP).filter(SP.tags == tag).all()
             return has_got
         except Exception as e:
             print("db error", e)
