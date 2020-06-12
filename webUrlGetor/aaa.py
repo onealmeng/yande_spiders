@@ -9,5 +9,5 @@ def tag_editor(tag):
 
 
 if __name__ == '__main__':
-    tag = ""
+    tag = "kaede (003591163)"
     tag_editor(tag)

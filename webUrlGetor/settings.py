@@ -10,39 +10,30 @@ milkpanda oonaka_ito hizuki_higure gmyo25 hinata_kokage linz_(linzimmm) yuuri_na
 pierorabu sakai_yoshikuni ashima gin_(oyoyo) izuminanase izumi_nanase wntame ohisashiburi duji_amo usagihime 
 ao_no_neko nekoume yukichi_(sukiyaki39) akita_hika ekuramani  hana09487817 akasa_ai pn_pixi caidychen yukiyama_momo
 taitai juna akino_shuu sotto sumisaki_yuzuna kitsune_neko rinmmo yuyu_(piko01)   nibiiro_shizuka apple-caramel minagiku 
-amafuyu hiiragi_ringo trisound
-lanyingchengzhi  neme1228 miko_fly togo_(korlsj1235) hajin
-5_nenme_no_houkago takehana_note nekoya_(liu)
-fukuro_ko_(greentea) niliu_chahui origamisayah uzuki_tsukuyo
-hasu_(hk_works) inanaki_shiki gabao. coffeedog hiiragi_ringo
-yukarite yukiunag1 yukie xretakex kinoruru_toiro chikuwabuta
+amafuyu hiiragi_ringo trisound daidou ameneshi banishment ishita_umi
+lanyingchengzhi  neme1228 miko_fly togo_(korlsj1235) hajin izumi_mahiru shizuku_(s1zu9)
+5_nenme_no_houkago takehana_note nekoya_(liu) ikkei_(bobusuman) cheli_(kso1564)
+fukuro_ko_(greentea) niliu_chahui origamisayah uzuki_tsukuyo chinchongcha kashiyarrm
+hasu_(hk_works) inanaki_shiki gabao. coffeedog hiiragi_ringo himono_hinata akasa_ai izumi_yuhina kaname_(you02421)
+yukarite yukiunag1 yukie xretakex kinoruru_toiro chikuwabuta sakiyamama kian kakage mosta_(lo1777789) orihi_chihiro
+aruma_(sawayaka_tokuko_miruku) suzuhira_hiro kazucha dnwls3010 dduck_kong  torokeru_none kabu_(e90vwggy) unasaka
 """
 
-tags = "daidou"
+tags = ""
 
 """Y站待爬取
-ikkei_(bobusuman)
-himono_hinata
-ameneshi
-chinchongcha
-sakiyamama
-banishment
-izumi_mahiru
-cheli_(kso1564)
-ishita_umi
-akasa_ai
-kashiyarrm
-izumi_yuhina aruma_(sawayaka_tokuko_miruku)
-suzuhira_hiro  shizuku_(s1zu9)
-dnwls3010  dduck_kong
-torokeru_none  mosta_(lo1777789)
-kabu_(e90vwggy)  orihi_chihiro
-kaname_(you02421) unasaka
+
+  
+  
+  
+
 """
 
 """
 DGK 待爬
-
+kazucha 碧蓝和茶
+momi 碧蓝铃谷
+merryj kakage
 ameneshi
 chinchongcha
 himono_hinata
@@ -51,7 +42,7 @@ pon_(ponidrop)
 ririko_(zhuoyandesailaer)
 yukichi_(eikichi)
 sakiyamama
-ukami
+ukami 
 ym_(distance819)
 kureha_(ironika)
 calm_mashiro
@@ -61,7 +52,7 @@ tatekawa_mako
 hirokazu_(analysis-depth)
 fukuro_ko_(greentea)
 yadapot
-mossi  myuton
+mossi  myuton gingami_(giluziru)
 catsizuru
 tofu1601
 jehyun
@@ -207,8 +198,9 @@ kinokomushi  shiokazunoko kokusan_moyashi aro_1801 sasachin_%28k%2Bw%29 hatafuta
  ruda_(ruda_e)   ogata_tei  konishi_(565112307) nahaki cocoasabure
 amashiro_natsuki 超级小萝莉  ibara_riato  niyu_n_iyun
 ohshit kazenoko  ominaeshi_(takenoko) mia_(fai1510)
-kawami_nami   yano_mitsuki unacchi miko_92  6u
+kawami_nami   yano_mitsuki  miko_92  6u
 fujii_tomoyuki swordsouls  unacchi
+allenes 碧蓝 梅 画师
 hecha_(swy1996228) 小天鹅 官方画师 oshishio
 qianjing baffu  pot-palm moemoe3345 zuima toba_hiyoko
 shiwasu_horio tsuuhan kaede suihi unasaka_ryou bada_(jksh5056) mika_pikazo
@@ -262,13 +254,15 @@ taku_michi pjrmhm_coa unacchi_(nyusankin)
 kedama_milk nanam_(nanam_sk) pei_er_xia  mellozzo
 fuyuki030  hokori_sakuni 凑阿库娅
 akashio  lava_(25486006)  kisaragi_yuri  deecha
- atdan bada_jksh5056     fujieda_uzuki碧蓝18r
+atdan 碧蓝-能代画师
+ bada_jksh5056     fujieda_uzuki碧蓝18r
 amashiro_natsuki--->mafuyu_(chibi21)--》Mafuyu karutamo
 anmi fuji_choko usagihime
 muririn 魔女的夜宴   hatafuta
  r_o_ha ramchi toridamono
  t6_ti minato_aqua loli_ta1582
  kanzaki_hiro 俺妹
+ kaede_(003591163) 碧蓝画师
  hayataku1234 jiiwara suzumori_uina
 komeshiro_kasu 超级美 twinbox_(circle)
  kouda_suzu 超级智乃
@@ -289,7 +283,7 @@ ke-ta
 matsui_hiroaki 凑阿库娅 超级
 sousouman--->twinbox_school 超级
 hiten_(hitenkei)  超级 chinomaron
-nephthys2356
+nephthys2356 超级
 hyuuga_azuri 超级
 fuumi_(radial_engine)
 tsuruse
@@ -385,7 +379,7 @@ youqiniang ken_ill miyakure tef matokechi fujieda_uzuki  swiftsure_(azur_lane) t
    himiya_ramune sasai_saji agnam_ore  ggatip matatabi_maru  tarachine
 suisen nonono naoto_(tulip) chao_wu_xing_xian squchan naoto_(tulip)  sino_(sionori) sakura_neko
 rei_(rei's_room) mayogii gochou_(atemonai_heya) cai_geng yuririn_poi sama akieda lerome akatsuki_ikki tsukudani_norio
-kouyafu  leria_v sahara386 pochi_(pochigoya) kouzuki_fukurou fuji_dorokai kaede_(003591163) hanbenp  torano
+kouyafu  leria_v sahara386 pochi_(pochigoya) kouzuki_fukurou fuji_dorokai  hanbenp  torano
 shanghmely   tagme_(artist)  fukahire_(ruinon) saru mishima_kurone
 tming  gei_daipf nagu   analog_kenshi_(moto) roslyria  urata_asao
  fast-runner-2024 kamishiro_(rsg10679) tamano_kedama criin  kinokorec dreamcatcher
@@ -433,12 +427,12 @@ h2o_(dfo)  luse_maonang moyoron  dolce_(dolsuke)  rama_(yu-light8) shiina_aoi  j
  yukisame  tamakaga jh aldehyde yukishiro_arute aruka_(alka_p1) mizuka_nayuki mairo asa0504 ss851251 nagisa_(cxcx5235) ragho_no_erika
  lunacle gilse yushima melings_(aot2846) mafuyu kazenokaze fakegeo tiguruvurumudo_vuorun takunomi ookuma_(qq) nanotsuki tantan_men_(dragon)
 rednian  fal_maro zoff_(daria) kizibato123go kamioka_shun'ya ashima fuzichoko amano_kouki paya_(aejx234) minami_saki boku_koyuki_mx
-ramunezake  223_(pixiv332210012)  kurigura_(sketch_san)  sanshoku_amido monoto naryoung nishizawa kian sunameri_(pixiv3564245)
+ramunezake  223_(pixiv332210012)  kurigura_(sketch_san)  sanshoku_amido monoto naryoung nishizawa  sunameri_(pixiv3564245)
 cuna_(qunya) yaman konata_(knt_banri) shiro_kuma_shake dosu_(yodosu) evenicle mayo_(miyusa) paya_(aejx2345) neku_(neku_draw)
 chengcheng2b cut_(bu-kunn) kobayashi_chisato ezoshika nazuna_shizuku nekonorin asanagi_kurumi_(panda-doufu) taiyaking chon_(chon33v)
 ameyame mugi_(banban53) euryale tuchishiratama_akanenokoeffect araki495 hiromaster_sinta_jh greatmosu akizora_momiji gou_lianlian_dogface
 nankotsu niji_(rudduf232) hayashi_kewi  rafael-m saibe puracotte yinqi norukinoko_(reee52) seneto marushin_(denwa0214)
-akasaai nya_r kisaki_oni slyvia  haru_(re_ilust) marcellokito! nogi_takayoshi  allenes ginn_(hzh770121)
+akasaai nya_r kisaki_oni slyvia  haru_(re_ilust) marcellokito! nogi_takayoshi   ginn_(hzh770121)
 omelet_tomato yukidaifuku taro_(ultrataro) gg-e icebox46 nekopote misakamitoko0903 joey_koguma shigure_ui kodama_(mmt_uf)
 black_rabbit leaf98k kurun_(kurun777) sukocchi ekita_xuan uruha_rushia yukishiro_haku connie_(keean2019)  mustard_1014028852
 maett aeoso thank_star azuuru verjuice purinko irori rivier_(kuzuyu) t-bth shironora shibaebi_(yasaip_game) broche_(timpet)
