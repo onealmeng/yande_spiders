@@ -70,33 +70,35 @@ def tag_editor(tag):
 
 
 if __name__ == '__main__':
-    cover_path = "/Users/dingtone/Desktop/待检索"
-    listdirs = os.listdir(cover_path)
-    hhhh = []
-    for listdir in listdirs:
-
-        if not (listdir.endswith(".jpg") or listdir.endswith(".jpeg") or listdir.endswith(".png") or listdir.endswith(
-                ".webp")):
-            pass
-        else:
-            file_path = os.path.join(cover_path, listdir)
-            res = search(file_path)
-            if res == "error":
-                sys.exit("Error in Search!")
-            elif res == "resultisNone":
-                new_path = rename_file(file_path)
-                print("Rename Success new_path-->" + str(new_path))
-            elif res == "HasGot":
-                try:
-                    os.remove(file_path)
-                    print("Delete Success-->" + str(file_path))
-                except Exception as e:
-                    print("删除失败，原因：", str(e))
-            else:
-                try:
-                    os.remove(file_path)
-                    print("Delete Success-->" + str(file_path))
-                except Exception as e:
-                    print("删除失败，原因：", str(e))
-
-        time.sleep(random.randint(5, 15))
+    # cover_path = "/Users/dingtone/Desktop/待检索"
+    # listdirs = os.listdir(cover_path)
+    # hhhh = []
+    # for listdir in listdirs:
+    #
+    #     if not (listdir.endswith(".jpg") or listdir.endswith(".jpeg") or listdir.endswith(".png") or listdir.endswith(
+    #             ".webp")):
+    #         pass
+    #     else:
+    #         file_path = os.path.join(cover_path, listdir)
+    #         res = search(file_path)
+    #         if res == "error":
+    #             sys.exit("Error in Search!")
+    #         elif res == "resultisNone":
+    #             new_path = rename_file(file_path)
+    #             print("Rename Success new_path-->" + str(new_path))
+    #         elif res == "HasGot":
+    #             try:
+    #                 os.remove(file_path)
+    #                 print("Delete Success-->" + str(file_path))
+    #             except Exception as e:
+    #                 print("删除失败，原因：", str(e))
+    #         else:
+    #             try:
+    #                 os.remove(file_path)
+    #                 print("Delete Success-->" + str(file_path))
+    #             except Exception as e:
+    #                 print("删除失败，原因：", str(e))
+    #
+    #     time.sleep(random.randint(5, 15))
+    tas = "haru (re ilust)"
+    print(tag_editor(tas))

@@ -64,15 +64,17 @@ class ScrapyOschinaSpider(scrapy.Spider):
                 path = os.path.join(self.dirs, file_name)
 
                 if os.path.exists(path):
-                    pass
+                    print("tags-->" + str(tags))
+                    print("exit in path")
                 elif len(self.SQLTools.query_from_UserNew_more_info(file_name)) > 0:
-                    pass
+                    print("tags-->" + str(tags))
+                    print("exit in db")
                 else:
                     try:
                         time.sleep(random.randint(1, 5))
                         res = requests.get(item, timeout=1809, verify=False, headers=headers)
                         img = res.content
-                        print(tags)
+                        print("tags-->" + str(tags))
                         print("pic_link_png-->", item)
                         with open(path, 'wb') as f:
                             f.write(img)
