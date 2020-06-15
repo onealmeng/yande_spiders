@@ -17,20 +17,196 @@ fukuro_ko_(greentea) niliu_chahui origamisayah uzuki_tsukuyo chinchongcha kashiy
 hasu_(hk_works) inanaki_shiki gabao. coffeedog hiiragi_ringo himono_hinata akasa_ai izumi_yuhina kaname_(you02421)
 yukarite yukiunag1 yukie xretakex kinoruru_toiro chikuwabuta sakiyamama kian kakage mosta_(lo1777789) orihi_chihiro
 aruma_(sawayaka_tokuko_miruku) suzuhira_hiro kazucha dnwls3010 dduck_kong  torokeru_none kabu_(e90vwggy) unasaka
+tomosuke nijisanji  kaetzchen sak watagashi_yui yayoichi_(yoruyoru108) hoeru_tarou
+nyanbunya   minoshi to_gemichi ju_(a793391187) komeshiro_kasu+uncensored
+sirius_(azur_lane)+uncensored azur_lane+uncensored wedding_dress+uncensored
+twinbox+uncensored formidable_(azur_lane)+uncensored
+komeshiro_kasu+uncensored kokkoro+uncensored princess_connect+uncensored
+tony_taka+ kokkoro kyaru_(princess_connect)
+"""
+"""
+C站已完成
+kantoku+uncensored
+karutamo+uncensored
+fujieda_uzuki+uncensored
+rafael-m
+n.g.+uncensored mafuyu_(pixiv_id_5229572)
+niliu_chahui+uncensored
+azur_lane+official_art
+komeshiro_kasu+uncensored
+minato_aqua+uncensored
+azur_lane+official_art
+loli+uncensored
+kitin niliu_chahui
+otokuyou+uncensored
+muririn+uncensored  yuzu-soft+uncensored  柚子社
+koi_kakeru_shin-ai_kanojo+uncensored
+yuuki_hagure+uncensored
+berry%27s+uncensored
+nironiro+uncensored
+yukishiro_arute+uncensored
+hiten_(hitenkei)+uncensored  
+ke-ta+uncensored
+kino front_wing+uncensored
+uncensored+game_cg k.y_ko+uncensored
+Zen33n+uncensored done 
+rang_ji7 komeshiro_kasu+uncensored
+donedone+uncensored
+ayamy+nipples
+chuablesoft+uncensored
+ isshiki_iroha+uncensored 春物
+ hoshikawa_mafuyu+uncensored 调教咖啡厅
 """
 
-tags = ""
+tags = "hera_%28hara0742%29+amagi_brilliant_park"
 
-"""Y站待爬取
+"""
+liliruca_arde+dungeon_ni_deai_wo_motomeru_no_wa_machigatteiru_darou_ka%3F 在地下城寻找卸后
+sawamura_spencer_eriri+uncensored 路女主
+muse_%28amaburi%29
+muse_%28amaburi%29+amagi_brilliant_park 甘城光辉游乐园
+nibutani_shinka+uncensored 京阿尼画师
+misaki_kurehito+uncensored
+hera_%28hara0742%29+kawakami_mai
+ipuu_(el-ane_koubou)+uncensored
+tenzeru+nipples
+sayika+uncensored
+rin_yuu  hatsuki_kaname
+matsui_hiroaki+nipples
+gwegwe+uncensored
+miramu_(ramu450471)+uncensored
+yasuyuki+uncensored
+sasorigatame+uncensored
+ikegami_akane+uncensored
+yamagami_miori+uncensored
+sprite_(company)+uncensored
+sprite_(company)+nipples
+harukaze-soft+uncensored
+lose+uncensored
+yukie++uncensored
+erectlip+uncensored
+whirlpool_%28company%29+uncensored
+shino_(osaru)
+sugiyama_mio+uncensored
+focke_wulf+uncensored
+cube_%28company%29+uncensored
+mayachi
+marvelous_grace
+ammolite
+shiromochi_sakura+uncensored
+takano_yuki+uncensored
+eushully+uncensored
+mizunashi_kenichi+uncensored
+kase_daiki+uncensored
+haegiwa+uncensored
+wsman
+yamasan+uncensored
+ateoyh+uncensored
+tokinohimitsu+uncensored
+watashi_ni_tenshi_ga_maiorita%21+uncensored
+pan_%28mimi%29+uncensored
+ama_koi_syrups+uncensored
+missile228+uncensored
+
+solru+uncensored
+gmkj+uncensored
+haneru+uncensored
+lambda_%28kusowarota%29+uncensored
+hooksoft+uncensored
+hulotte+uncensored
+hibiki_works+uncensored
+ryohka+uncensored
+juukishi_cutie_bullet+uncensored
+rubi-sama uncensored
+kimishima_ao+uncensored
++uncensored
+nedia_r+uncensored
+kodomo-h
+maya_g
+boqboq
+nekomugiharu
+macaron_taitei
+araragikoyomis+uncensored
+annindoufu_%28oicon%29+uncensored
+sendrawz+uncensored
+chitu_hefeng_zhong
+seventeen_(st17215)
+yoruneko
+
+
+
+kedama_milk+uncensored
+
+katou_megumi+uncensored
+rafael-m+uncensored
+n.g.
+ane_taiken_shuukan+uncensored
+allenes
+
+kouda_suzu+nipples
+
+  
+seiren_(series)
+
+"""
+
+"""
+Y站待爬取
+anapom
+shiromochi_sakura
+mizuki_yuuma
+mitsuki_(mangaka)
+ikeda_kazumi 中二病也要谈恋爱
+loli+uncensored
+neps-l  
+takarada_rikka 
+shinjou_akane+uncensored
+minato_aqua 阿夸本尊
+uruha_rushia 润羽露西娅
+shirakami_fubuki
+uncensored+muririn
+meito_harmren
+sinobi_illust  yeorem
+irokari  moyoron  bushinofuji
+sakura_hiyori
+wakum  qp:flapper
+hammann_(azur_lane)+uncensored
+myao_(o3o333)
+uleuleuleu
+kotomaru_(sirouko9511)
+oz_(user_zakk5472)
+yukikiri yuwari_ume
+pottsness  chintora0201
+showyou
+kodama_(koda_mat)
+suzuharu_toufu
+take_(trude1945oneetyan)
+tony_taka
+parfait_fate
+sanoba_witch 魔女的夜宴
+kaede_(003591163) 标枪画师1
+hori_(hori_no_su) 标枪画师
+ootsuki_momiji 凌波画师
 tkb
 ankkoyom
-paaru
+paaru https://chan.sankakucomplex.com/?tags=kaede_%28003591163%29
   
 
 """
 
+"""C站
+
 """
-DGK 待爬
+
+"""
+blue_gk
+DGK 待爬  hukairi_botan
+sune 只要长得可爱就算是变态
+btraphen  nanoless
+meion  zen_o  karin_(fineyanny)
+minato_aqua 阿夸本尊
+uruha_rushia  the_hermit
+shirakami_fubuki
 nenobi_(nenorium)
 paaru
 ankkoyom
@@ -145,7 +321,423 @@ USER_AGENT_LIST = ["Mozilla/5.0 (Android; Linux armv7l; rv:10.0.1) Gecko/2010010
                    'Mozilla/5.0 (BlackBerry; U; BlackBerry 9800; en) AppleWebKit/534.1+ (KHTML, like Gecko) Version/6.0.0.337 Mobile Safari/534.1+',
                    'Mozilla/5.0 (hp-tablet; Linux; hpwOS/3.0.0; U; en-US) AppleWebKit/534.6 (KHTML, like Gecko) wOSBrowser/233.70 Safari/534.6 TouchPad/1.0',
                    'Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 NokiaN97-1/20.0.019; Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebKit/525 (KHTML, like Gecko) BrowserNG/7.1.18124',
+                   'Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; HTC; Titan)',
+                   'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.122 UBrowser/4.0.3214.0 Safari/537.36',
+                   'Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_3 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5',
+                   'Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3_3 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5',
+                   'Mozilla/5.0 (iPad; U; CPU OS 4_2_1 like Mac OS X; zh-cn) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5',
+                   'Mozilla/5.0 (iPad; U; CPU OS 4_3_3 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5',
+                   'Mozilla/5.0 (Linux; U; Android 2.2.1; zh-cn; HTC_Wildfire_A3333 Build/FRG83D) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1',
+                   'Mozilla/5.0 (Linux; U; Android 2.3.7; en-us; Nexus One Build/FRF91) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1',
+                   'MQQBrowser/26 Mozilla/5.0 (Linux; U; Android 2.3.7; zh-cn; MB200 Build/GRJ22; CyanogenMod-7) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1',
+                   'Opera/9.80 (Android 2.3.4; Linux; Opera Mobi/build-1107180945; U; en-GB) Presto/2.8.149 Version/11.10',
+                   'Mozilla/5.0 (Linux; U; Android 3.0; en-us; Xoom Build/HRI39) AppleWebKit/534.13 (KHTML, like Gecko) Version/4.0 Safari/534.13',
+                   'Mozilla/5.0 (BlackBerry; U; BlackBerry 9800; en) AppleWebKit/534.1+ (KHTML, like Gecko) Version/6.0.0.337 Mobile Safari/534.1+',
+                   'Mozilla/5.0 (hp-tablet; Linux; hpwOS/3.0.0; U; en-US) AppleWebKit/534.6 (KHTML, like Gecko) wOSBrowser/233.70 Safari/534.6 TouchPad/1.0',
+                   'Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 NokiaN97-1/20.0.019; Profile/MIDP-2.1 Configuration/CLDC-1.1) AppleWebKit/525 (KHTML, like Gecko) BrowserNG/7.1.18124',
                    'Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; HTC; Titan)'
+                   'UCWEB7.0.2.37/28/999',
+                   'NOKIA5700/ UCWEB7.0.2.37/28/999',
+                   'Openwave/ UCWEB7.0.2.37/28/999',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; ) Opera/UCWEB7.0.2.37/28/999',
+                   'Mozilla/5.0 (iPhone; U; CPU like Mac OS X; en) AppleWebKit/420+ (KHTML, like Gecko) Version/3.0 Mobile/1C28 Safari/419.3',
+                   'Mozilla/5.0 (iPhone; U; CPU iPhone OS 2_0 like Mac OS X; ja-jp) AppleWebKit/525.18.1 (KHTML, like Gecko) Version/3.1.1 Mobile/5A347 Safari/52',
+                   'Mozilla/5.0 (iPhone; U; CPU iPhone OS 2_0 like Mac OS X; ja-jp) AppleWebKit/525.18.1 (KHTML, like Gecko) Version/3.1.1 Mobile/5A345 Safari/525.20',
+                   'Mozilla/5.0 (iPhone; U; CPU iPhone OS 2_0_1 like Mac OS X; ja-jp) AppleWebKit/525.18.1 (KHTML, like Gecko) Version/3.1.1 Mobile/5B108 Safari/525.20',
+                   'Mozilla/5.0 (iPhone; U; CPU iPhone OS 2_1 like Mac OS X; ja-jp) AppleWebKit/525.18.1 (KHTML, like Gecko) Version/3.1.1 Mobile/5F136 Safari/525.20',
+                   'Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_0 like Mac OS X; en-us) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7A341 Safari/528.16',
+                   'Mozilla/5.0 (iPhone; U; CPU iPhone OS 3_1_3 like Mac OS X; ja-jp) AppleWebKit/528.18 (KHTML, like Gecko) Version/4.0 Mobile/7E18 Safari/528.16',
+                   'Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_0_1 like Mac OS X; ja-jp) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8A306 Safari/6531.22.7',
+                   'Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_0_2 like Mac OS X; ja-jp) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8A400 Safari/6531.22.7',
+                   'Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_1 like Mac OS X; ja-jp) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8B117 Safari/6531.22.7',
+                   'Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; ja-jp) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5',
+                   'Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3 like Mac OS X; ja-jp) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8F190 Safari/6533.18.5',
+                   'Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_1 like Mac OS X; ja-jp) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8G4 Safari/6533.18.5',
+                   'Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_2 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5',
+                   'Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_3 like Mac OS X; ja-jp) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5',
+                   'Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_4 like Mac OS X; ja-jp) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8K2 Safari/6533.18.5',
+                   'Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_3_5 like Mac OS X; ja-jp) AppleWebKit/533.17.9 (KHTML, like Gecko) Mobile/8L1',
+                   'Mozilla/5.0 (iPhone; U; CPU iPhone OS 5_0 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Mobile/9A334 Safari/7534.48.3',
+                   'Mozilla/5.0 (iPhone; CPU iPhone OS 5_0_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Mobile/9A405 Safari/7534.48.3',
+                   'Mozilla/5.0 (iPod; U; CPU like Mac OS X; en) AppleWebKit/420.1 (KHTML, like Gecko) Version/3.0 Mobile/3A100a Safari/419.3',
+                   'Mozilla/5.0 (iPod; U; CPU iPhone OS 2_1 like Mac OS X; ja-jp) AppleWebKit/525.18.1 (KHTML, like Gecko) Version/3.1.1 Mobile/5F137 Safari/525.20',
+                   'Mozilla/5.0 (iPod; U; CPU iPhone OS 4_1 like Mac OS X; ja-jp) AppleWebKit/532.9 (KHTML, like Gecko) Version/4.0.5 Mobile/8B118 Safari/6531.22.7',
+                   'Mozilla/5.0 (iPod; U; CPU iPhone OS 4_2_1 like Mac OS X; ja-jp) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5',
+                   'Mozilla/5.0 (iPod; U; CPU iPhone OS 4_3_5 like Mac OS X; ja-jp) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8L1 Safari/6533.18.5',
+                   'Mozilla/5.0 (iPod; CPU iPhone OS 5_0_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9A405 Safari/7534.48.3',
+                   'Mozilla/5.0 (iPad; U; CPU OS 3_2 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Version/4.0.4 Mobile/7B367 Safari/531.21.10',
+                   'Mozilla/5.0 (iPad; U; CPU OS 3_2_1 like Mac OS X; en-us) AppleWebKit/531.21.10 (KHTML, like Gecko) Mobile/7B405',
+                   'Mozilla/5.0 (iPad; U; CPU OS 4_2 like Mac OS X; zh-cn) AppleWebKit/533.17.9 (KHTML, like Gecko) Mobile/8C134',
+                   'Mozilla/5.0 (iPad; U; CPU OS 4_3 like Mac OS X; ja-jp) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8F190 Safari/6533.18.5',
+                   'Mozilla/5.0 (iPad; U; CPU OS 4_3_1 like Mac OS X; ja-jp) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8G4 Safari/6533.18.5',
+                   'Mozilla/5.0 (iPad; U; CPU OS 4_3_2 like Mac OS X; ja-jp) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8H7 Safari/6533.18.5',
+                   'Mozilla/5.0 (iPad; U; CPU OS 4_3_3 like Mac OS X; ja-jp) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8J2 Safari/6533.18.5',
+                   'Mozilla/5.0 (iPad; U; CPU OS 4_3_4 like Mac OS X; ja-jp) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8K2 Safari/6533.18.5',
+                   'Mozilla/5.0 (iPad; U; CPU OS 4_3_5 like Mac OS X; ja-jp) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8L1 Safari/6533.18.5',
+                   'Mozilla/5.0 (iPad; CPU OS 5_0_1 like Mac OS X) AppleWebKit/534.46 (KHTML, like Gecko) Version/5.1 Mobile/9A405 Safari/7534.48.3',
+                   'Mozilla/5.0 (Linux; U; Android 1.5; ja-jp; GDDJ-09 Build/CDB56) AppleWebKit/528.5+ (KHTML, like Gecko) Version/3.1.2 Mobile Safari/525.20.1',
+                   'Mozilla/5.0 (Linux; U; Android 1.6; ja-jp; IS01 Build/S3082) AppleWebKit/528.5+ (KHTML, like Gecko) Version/3.1.2 Mobile Safari/525.20.1',
+                   'Mozilla/5.0 (Linux; U; Android 1.6; ja-jp; IS01 Build/SA180) AppleWebKit/528.5+ (KHTML, like Gecko) Version/3.1.2 Mobile Safari/525.20.1',
+                   'Mozilla/5.0 (Linux; U; Android 1.6; ja-jp; Docomo HT-03A Build/DRD08) AppleWebKit/528.5+ (KHTML, like Gecko) Version/3.1.2 Mobile Safari/525.20.1',
+                   'Mozilla/5.0 (Linux; U; Android 1.6; ja-jp; SonyEricssonSO-01B Build/R1EA029) AppleWebKit/528.5+ (KHTML, like Gecko) Version/3.1.2 Mobile Safari/525.20.1',
+                   'Mozilla/5.0 (Linux; U; Android 1.6; ja-jp; generic Build/Donut) AppleWebKit/528.5+ (KHTML, like Gecko) Version/3.1.2 Mobile Safari/525.20.1',
+                   'Mozilla/5.0 (Linux; U; Android 2.1-update1; ja-jp; SonyEricssonSO-01B Build/2.0.2.B.0.29) AppleWebKit/530.17 (KHTML, like Gecko) Version/4.0 Mobile Safari/530.17',
+                   'Mozilla/5.0 (Linux; U; Android 2.2.1; ja-jp; Full Android Build/MASTER) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1',
+                   'Mozilla/5.0 (Linux; U; Android 2.2.1; ja-jp; IS03 Build/S9090) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1',
+                   'Mozilla/5.0 (Linux; U; Android 2.3.3; ja-jp; SC-02C Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1',
+                   'Mozilla/5.0 (Linux; U; Android 2.3.3; ja-jp; INFOBAR A01 Build/S9081) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1',
+                   'Mozilla/5.0 (Linux; U; Android 2.3.3; ja-jp; 001HT Build/GRI40) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1',
+                   'Mozilla/5.0 (Linux; U; Android 2.3.3; ja-jp; SonyEricssonX10i Build/3.0.1.G.0.75) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1',
+                   'Mozilla/5.0 (Linux; U; Android 2.3.4; ja-jp; SonyEricssonIS11S Build/4.0.1.B.0.112) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1',
+                   'Mozilla/5.0 (Linux; U; Android 2.3.4; ja-jp; IS05 Build/S9290) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1',
+                   'Mozilla/5.0 (Linux; U; Android 2.3.5; ja-jp; F-05D Build/F0001) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1',
+                   'Mozilla/5.0 (Linux; U; Android 2.3.5; ja-jp; T-01D Build/F0001) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1',
+                   'Mozilla/5.0 (Linux; U; Android 3.0.1; ja-jp; MZ604 Build/H.6.2-20) AppleWebKit/534.13 (KHTML, like Gecko) Version/4.0 Safari/534.13',
+                   'Mozilla/5.0 (Linux; U; Android 3.1; en-us; K1 Build/HMJ37) AppleWebKit/534.13(KHTML, like Gecko) Version/4.0 Safari/534.13',
+                   'Mozilla/5.0 (Linux; U; Android 3.1; ja-jp; AT100 Build/HMJ37) AppleWebKit/534.13 (KHTML, like Gecko) Version/4.0 Safari/534.13',
+                   'Mozilla/5.0 (Linux; U; Android 3.1; ja-jp; Sony Tablet S Build/THMAS10000) AppleWebKit/534.13 (KHTML, like Gecko) Version/4.0 Safari/534.13',
+                   'Mozilla/5.0 (Linux; U; Android 3.2; ja-jp; SC-01D Build/MASTER) AppleWebKit/534.13 (KHTML, like Gecko) Version/4.0 Safari/534.13',
+                   'Mozilla/5.0 (Linux; U; Android 3.2; ja-jp; AT1S0 Build/HTJ85B) AppleWebKit/534.13 (KHTML, like Gecko) Version/4.0 Safari/534.13',
+                   'Mozilla/5.0 (Linux; U; Android 3.2; ja-jp; F-01D Build/F0001) AppleWebKit/534.13 (KHTML, like Gecko) Version/4.0 Safari/534.13',
+                   'Mozilla/5.0 (Linux; U; Android 3.2; ja-jp; Sony Tablet S Build/THMAS11000) AppleWebKit/534.13 (KHTML, like Gecko) Version/4.0 Safari/534.13',
+                   'Mozilla/5.0 (Linux; U; Android 3.2; ja-jp; A01SH Build/HTJ85B) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Safari/533.1',
+                   'Mozilla/5.0 (Linux; U; Android 3.2.1; ja-jp; Transformer TF101 Build/HTK75) AppleWebKit/534.13 (KHTML, like Gecko) Version/4.0 Safari/534.13',
+                   'Mozilla/5.0 (Linux; U; Android 4.0.1; ja-jp; Galaxy Nexus Build/ITL41D) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
+                   'Mozilla/5.0 (Linux; U; Android 4.1.1; ja-jp; Galaxy Nexus Build/JRO03H) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30',
+                   'Opera/9.80 (Android 2.3.3; Linux; Opera Mobi/ADR-1111101157; U; ja) Presto/2.9.201 Version/11.50',
+                   'Opera/9.80 (Android 3.2.1; Linux; Opera Tablet/ADR-1109081720; U; ja) Presto/2.8.149 Version/11.10',
+                   'Mozilla/5.0 (Android; Linux armv7l; rv:9.0) Gecko/20111216 Firefox/9.0 Fennec/9.0',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; KDDI-TS01; Windows Phone 6.5.3.5)',
+                   'Mozilla/5.0 (compatible; MSIE 9.0; Windows Phone OS 7.5; Trident/5.0; IEMobile/9.0; FujitsuToshibaMobileCommun; IS12T; KDDI)',
+                   'BlackBerry9000/4.6.0.294 Profile/MIDP-2.0 Configuration/CLDC-1.1 VendorID/220',
+                   'BlackBerry9300/5.0.0.1007 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/220',
+                   'BlackBerry9700/5.0.0.1014 Profile/MIDP-2.1 Configuration/CLDC-1.1 VendorID/220',
+                   'Mozilla/5.0 (BlackBerry; U; BlackBerry 9700; ja) AppleWebKit/534.8+ (KHTML, like Gecko) Version/6.0.0.570 Mobile Safari/534.8+',
+                   'Mozilla/5.0 (BlackBerry; U; BlackBerry 9780; ja) AppleWebKit/534.8+ (KHTML, like Gecko) Version/6.0.0.587 Mobile Safari/534.8+',
+                   'Mozilla/5.0 (BlackBerry; U; BlackBerry 9900; ja) AppleWebKit/534.11+ (KHTML, like Gecko) Version/7.1.0.74 Mobile Safari/534.11+',
+                   'Opera/9.80 (BlackBerry; Opera Mini/6.1.25376/26.958; U; en) Presto/2.8.119 Version/10.54',
+                   'Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaN8-00/013.016; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/525 (KHTML, like Gecko) Version/3.0 BrowserNG/7.2.8.10 3gpp-gba',
+                   'Mozilla/5.0 (Symbian/3; Series60/5.2 NokiaN8-00/012.002; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.0 Mobile Safari/533.4 3gpp-gba',
+                   'Mozilla/5.0 (Symbian/3; Series60/5.3 Nokia701/111.020.0307; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.4.1.14 Mobile Safari/533.4 3gpp-gba',
+                   'Nokia6600/1.0 (4.03.24) SymbianOS/6.1 Series60/2.0 Profile/MIDP-2.0 Configuration/CLDC-1.0',
+                   'Mozilla/5.0 (SymbianOS/9.1; U; [en]; SymbianOS/91 Series60/3.0) AppleWebkit/413 (KHTML, like Gecko) Safari/413',
+                   'Mozilla/5.0 (SymbianOS/9.1; U; [en]; Series60/3.0 NokiaE60/4.06.0) AppleWebKit/413 (KHTML, like Gecko) Safari/413',
+                   'Mozilla/5.0 (SymbianOS/9.2; U; Series60/3.1 NokiaN95/10.0.018; Profile/MIDP-2.0 Configuration/CLDC-1.1) AppleWebKit/413 (KHTML, like Gecko) Safari/413',
+                   'Mozilla/5.0 (SymbianOS/9.3; Series60/3.2 NokiaE5-00.2/071.003; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/533.4 (KHTML, like Gecko) NokiaBrowser/7.3.1.26 Mobile Safari/533.4 3gpp-gba',
+                   'Mozilla/5.0 (SymbianOS/9.3; U; Series60/3.2 NokiaE75-1/110.48.125 Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413',
+                   'Mozilla/5.0 (SymbianOS/9.4; U; Series60/5.0 Nokia5800d-1/21.0.025; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/413 (KHTML, like Gecko) Safari/413',
+                   'Mozilla/5.0 (SymbianOS/9.4; Series60/5.0 NokiaN97-1/12.0.024; Profile/MIDP-2.1 Configuration/CLDC-1.1; en-us) AppleWebKit/525 (KHTML, like Gecko) BrowserNG/7.1.12344',
+                   'Mozilla/4.0 (compatible; MSIE 4.0; MSN 2.5; Windows 95)',
+                   'Mozilla/4.0 (compatible; MSIE 4.0; Windows 95; DigExt);',
+                   'Mozilla/4.0 (compatible; MSIE 4.0; Windows 95)',
+                   'Mozilla/4.0 (compatible; MSIE 4.01; MSN 2.5; MSN 2.5; Windows 98)',
+                   'Mozilla/4.0 (compatible; MSIE 4.01; MSN 2.5; Windows 95)',
+                   'Mozilla/4.0 (compatible; MSIE 4.01; MSN 2.5; Windows 98)',
+                   'Mozilla/4.0 (compatible; MSIE 4.01; Windows 95)',
+                   'Mozilla/4.0 (compatible; MSIE 4.01; Windows 95; Yahoo! JAPAN Version Windows 95/NT CD-ROM Edition 1.0.)',
+                   'Mozilla/4.0 (compatible; MSIE 4.01; Windows 98)',
+                   'Mozilla/4.0 (compatible; MSIE 4.01; Windows 98; BIGLOBE)',
+                   'Mozilla/4.0 (compatible; MSIE 4.01; Windows 98; canoncopyer)',
+                   'Mozilla/4.0 (compatible; MSIE 4.01; Windows 98; Compaq)',
+                   'Mozilla/4.0 (compatible; MSIE 4.0; Windows 98; DigExt);',
+                   'Mozilla/4.0 (compatible; MSIE 4.01; Windows NT)',
+                   'Mozilla/4.0 (compatible; MSIE 4.01; Mac_PowerPC)',
+                   'Mozilla/4.0 (compatible; MSIE 4.5; Mac_PowerPC)',
+                   'Mozilla/4.0 (compatible; MSIE 5.0; AOL 5.0; Windows 98; DigExt)2.26.2000 19:46:43',
+                   'Mozilla/4.0 (compatible; MSIE 5.0; MSN 2.5; MSN 2.5; Windows 98; DigExt)',
+                   'Mozilla/4.0 (compatible; MSIE 5.0; MSN 2.5; Windows 95; DigExt)3.2.2000 16:2:20 asdf',
+                   'Mozilla/4.0 (compatible; MSIE 5.0; MSN 2.5; Windows 98)',
+                   'Mozilla/4.0 (compatible; MSIE 5.0; MSN 2.5; Windows 98; DigExt)',
+                   'Mozilla/4.0 (compatible; MSIE 5.0; Windows 95)',
+                   'Mozilla/4.0 (compatible; MSIE 5.0; Windows 95; DigExt)',
+                   'Mozilla/4.0 (compatible; MSIE 5.0; Windows 95; DigExt; i-CABLE)',
+                   'Mozilla/4.0 (compatible; MSIE 5.0; Windows 95; DigExt; ocnie5-1)',
+                   'Mozilla/4.0 (compatible; MSIE 5.0; Windows 95; Yahoo! JAPAN Version Windows 95/NT CD-ROM Edition 1.0.)',
+                   'Mozilla/4.0 (compatible; MSIE 5.0; Windows 95; DigExt);',
+                   'Mozilla/4.0 (compatible; MSIE 5.0; Windows 98)',
+                   'Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; CNETHomeBuild051099)',
+                   'Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; DigExt)',
+                   'Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; DigExt; ocnie5-1)',
+                   'Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; wn_ie5_ja_v1)',
+                   'Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; Yahoo! JAPAN Version Windows 95/NT CD-ROM Edition 1.0.; DigExt)',
+                   'Mozilla/4.0 (compatible; MSIE 5.0; Windows NT)',
+                   'Mozilla/4.0 (compatible; MSIE 5.0; Windows NT; DigExt)',
+                   'Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; DigExt)',
+                   'Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; DigExt);',
+                   'Mozilla/4.0 (compatible; MSIE 5.0; Windows 98; DigExt); ',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1);',
+                   'Mozilla/4.0 (compatible; MSIE 5.00; Windows 98',
+                   'Mozilla/4.0 (compatible; MSIE 5.01; MSN 2.5; Windows 98)',
+                   'Mozilla/4.0 (compatible; MSIE 5.01; Windows 95)',
+                   'Mozilla/4.0 (compatible; MSIE 5.01; Windows 98)',
+                   'Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0)',
+                   'Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; DigExt)',
+                   'Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; TUCOWS)',
+                   'Mozilla/4.0 (compatible; MSIE 5.01; Windows NT)',
+                   'Mozilla/4.0 (compatible; MSIE 5.01; Windows NT 5.0; .NET CLR 1.1.4322)',
+                   'Mozilla/4.0 (compatible; MSIE 5.0; Mac_PowerPC)',
+                   'Mozilla/4.0 (compatible; MSIE 5.16; Mac_PowerPC)',
+                   'Mozilla/4.0 (compatible; MSIE 5.17; Mac_PowerPC)',
+                   'Mozilla/4.0 (compatible; MSIE 5.22; Mac_PowerPC)',
+                   'Mozilla/4.0 (compatible; MSIE 5.23; Mac_PowerPC)',
+                   'Mozilla/4.0 (compatible; MSIE 5.5; Windows 95)',
+                   'Mozilla/4.0 (compatible; MSIE 5.5; Windows 98)',
+                   'Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0)',
+                   'Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0; .NET CLR 1.0.3705)',
+                   'Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0; .NET CLR 1.1.4322)',
+                   'Mozilla/4.0 (compatible; MSIE 5.5; Windows NT 5.0; by TSG)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.0.3705; .NET CLR 1.1.4322)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 1.0.3705)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.40607)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.40607; .NET CLR 1.0.3705)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; NOKTURNAL KICKS ASS)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; FDM;',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; Maxthon; .NET CLR 1.1.4322; .NET CLR 2.0.41115)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows 98)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; AOL 9.0; Windows NT 5.1; iebar; .NET CLR 1.0.3705)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Win32);',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Win32); .NET CLR 1.0.3705)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Hotbar 4.4.6.0)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; Win 9x 4.90)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 4.0)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 4.0; BVG',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.0.3705; .NET CLR 1.1.4322)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1.4322)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; .NET CLR 1.1.4322; FDM)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; {FF0C8E09-3C86-44CB-834A-B8CEEC80A1D7}; iOpus-I-M)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; i-Nav 3.0.1.0F; .NET CLR 1.0.3705; .NET CLR 1.1.4322)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; MathPlayer 2.0; .NET CLR 1.1.4322)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; Maxthon; .NET CLR 1.1.4322)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0; T312461)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.0;)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1);',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.0.3705)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.0.3705; .NET CLR 1.1.4322)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 1.0.3705)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; .NET CLR 2.0.40607)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Alexa Toolbar)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; BrowserBob)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; DFO-MPO Internet Explorer 6.0)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ENGINE; ',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT))',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; ESB{F40811EE-DF17-4BC9-8785-B362ABF34098}; .NET CLR 1.1.4322)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; FDM)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; FTDv3 Browser; .NET CLR 1.0.3705; .NET CLR 1.1.4322)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; FunWebProducts; .NET CLR 1.1.4322; .NET CLR 2.0.40607)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; FunWebProducts; AtHome033)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; HCI0449; .NET CLR 1.0.3705)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; i-NavFourF; .NET CLR 1.1.4322)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Maxthon;',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Maxthon; .NET CLR 1.1.4322)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; MyIE2; .NET CLR 1.1.4322)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; MyIE2; Maxthon; .NET CLR 1.1.4322)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Q312461; FunWebProducts; .NET CLR 1.1.4322)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; Woningstichting Den Helder; .NET CLR 1.0.3705)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; .NET CLR 1.1.4322)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; .NET CLR 1.1.4322; .NET CLR 2.0.41115)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; MyIE2; .NET CLR 1.1.4322)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; MyIE2; Maxthon; .NET CLR 1.1.4322)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows XP)',
+                   'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1)',
+                   'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; SV1; .NET CLR 1.0.3705; .NET CLR 2.0.50727; .NET CLR 1.1.4322)',
+                   'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; SV1; .NET CLR 1.1.4322)',
+                   'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; SV1)',
+                   'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)',
+                   'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30)',
+                   'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506)',
+                   'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506; InfoPath.1)',
+                   'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727)',
+                   'Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; .NET CLR 3.0.04506.30; .NET CLR 3.0.04506.648)',
+                   'Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; .NET CLR 2.0.50727; InfoPath.1',
+                   'Mozilla/4.0 (compatible; GoogleToolbar 5.0.2124.2070; Windows 6.0; MSIE 8.0.6001.18241)',
+                   'Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 5.1; Trident/4.0; EasyBits GO v1.0; InfoPath.1; .NET CLR 2.0.50727; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729)',
+                   'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0)',
+                   'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; Sleipnir/2.9.8)',
+                   'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.0; Trident/5.0)',
+                   'Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0)',
+                   'Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Win64; x64; Trident/6.0)',
+                   'Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)',
+                   'Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; WOW64; Trident/6.0)',
+                   'Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Win64; x64; Trident/6.0)',
+                   'Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; ARM; Trident/6.0)',
+                   'Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/525.13 (KHTML, like Gecko) Chrome/0.2.149.27 Safari/525.13',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/525.19 (KHTML, like Gecko) Chrome/1.0.154.48 Safari/525.19',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/530.5 (KHTML, like Gecko) Chrome/2.0.172.33 Safari/530.5',
+                   'Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/532.0 (KHTML, like Gecko) Chrome/3.0.195.38 Safari/532.0',
+                   'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_3; en-US) AppleWebKit/533.4 (KHTML, like Gecko) Chrome/5.0.375.55 Safari/533.4',
+                   'Mozilla/5.0 (X11; U; Linux i686; en-US) AppleWebKit/534.3 (KHTML, like Gecko) Chrome/6.0.472.63 Safari/534.3',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.3 (KHTML, like Gecko) Chrome/6.0.472.55 Safari/534.3',
+                   'Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.7 (KHTML, like Gecko) Chrome/7.0.517.43 Safari/534.7',
+                   'Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.224 Safari/534.10 ChromePlus/1.5.2.0',
+                   'Mozilla/5.0 (en-us) AppleWebKit/534.14 (KHTML, like Gecko; Google Wireless Transcoder) Chrome/9.0.597 Safari/534.14',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.151 Safari/534.16',
+                   'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.71 Safari/534.24',
+                   'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.24 (KHTML, like Gecko) Iron/11.0.700.2 Chrome/11.0.700.2 Safari/534.24',
+                   'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/534.24 (KHTML, like Gecko) Chrome/11.0.696.65 Safari/534.24',
+                   'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.122 Safari/534.30 ChromePlus/1.6.3.1',
+                   'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/534.30 (KHTML, like Gecko) Chrome/12.0.742.112 Safari/534.30',
+                   'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.107 Safari/535.1',
+                   'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.1 (KHTML, like Gecko) RockMelt/0.9.64.361 Chrome/13.0.782.218 Safari/535.1',
+                   'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1',
+                   'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.220 Safari/535.1',
+                   'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.835.202 Safari/535.1',
+                   'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.835.202 Safari/535.1',
+                   'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.120 Safari/535.2',
+                   'Mozilla/5.0 (X11; Linux i686) AppleWebKit/535.2 (KHTML, like Gecko) Ubuntu/10.04 Chromium/15.0.874.106 Chrome/15.0.874.106 Safari/535.2',
+                   'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_7_2) AppleWebKit/535.2 (KHTML, like Gecko) Chrome/15.0.874.106 Safari/535.2',
+                   'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.75 Safari/535.7',
+                   'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_8) AppleWebKit/535.7 (KHTML, like Gecko) Chrome/16.0.912.75 Safari/535.7',
+                   'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; SLCC1; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30618; Lunascape 4.7.3)',
+                   'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; .NET CLR 1.1.4322; .NET CLR 2.0.50727; Lunascape 5.0 alpha2)',
+                   'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727; InfoPath.1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; Lunascape 5.0 alpha2)',
+                   'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 6.0; ',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1) ; SLCC1; .NET CLR 2.0.50727; Media Center PC 5.0; .NET CLR 3.0.04506; Tablet PC 2.0; Lunascape 5.0 alpha2)',
+                   'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; MAGW; .NET4.0C; Lunascape 6.5.8.24780)',
+                   'Mozilla/2.02 (Macintosh; I; PPC)',
+                   'Mozilla/3.01 (Macintosh; I; PPC)',
+                   'Mozilla/4.01 (Macintosh; I; PPC)',
+                   'Mozilla/4.03 [en]C-IMS (Win95; I)',
+                   'Mozilla/4.04 [ja] (Win95; I ;Nav)',
+                   'Mozilla/4.04 [ja] (Win95; I)',
+                   'Mozilla/4.04 [ja] (WinNT; I ;Nav)',
+                   'Mozilla/4.04 [ja] (WinNT; I)',
+                   'Mozilla/4.04 [ja] (Macintosh; I; PPC Nav)',
+                   'Mozilla/4.04 [en] (X11; I; SunOS 5.5 sun4u)',
+                   'Mozilla/4.05 [ja] (Win95; I)',
+                   'Mozilla/4.05 (Macintosh; I; PPC)',
+                   'Mozilla/4.06 [ja] (Win98; I)',
+                   'Mozilla/4.06 [ja] (Macintosh; I; PPC)',
+                   'Mozilla/4.07 [ja_JP.EUC] (X11; I; MarkAgent FreeBSD 2.2.8-RELEASE i386; Nav)',
+                   'Mozilla/4.07 [ja_JP.EUC] (X11; I; FreeBSD 2.2.8-RELEASE i386; Nav)',
+                   'Mozilla/4.08 (Macintosh; I; PPC)',
+                   'Mozilla/4.5 [ja] (Win95; I)',
+                   'Mozilla/4.5 [ja] (Win98; I)',
+                   'Mozilla/4.5 [ja] (WinNT; I)',
+                   'Mozilla/4.5 (Macintosh; I; PPC)',
+                   'Mozilla/4.51 [ja] (Win95; I)',
+                   'Mozilla/4.51 [ja] (Win98; I)',
+                   'Mozilla/4.51 [ja] (WinNT; I)',
+                   'Mozilla/4.51 [ja] (X11; I; SunOS 5.8 sun4u)',
+                   'Mozilla/4.6 [ja] (Win95; I)',
+                   'Mozilla/4.6 [ja] (Win98; I)',
+                   'Mozilla/4.6 [ja] (WinNT; I)',
+                   'Mozilla/4.6 [ja] (WinNT; I)',
+                   'Mozilla/4.7 [en] (WinNT; I)',
+                   'Mozilla/4.7 [ja] (Win95; I)',
+                   'Mozilla/4.7 [ja] (Win98; I)',
+                   'Mozilla/4.7 [ja] (WinNT; I)',
+                   'Mozilla/4.7 [ja] (WinNT; I)',
+                   'Mozilla/4.7 [ja] (WinNT; U)',
+                   'Mozilla/4.7 [ja] (Macintosh; I; PPC)',
+                   'Mozilla/4.76 [en_jp] (X11; U; SunOS 5.8 sun4u)',
+                   'Mozilla/4.76 [ja] (X11; U; SunOS 5.8 sun4u)',
+                   'Mozilla/4.78 [ja] (X11; U; SunOS 5.9 sun4u)',
+                   'Mozilla/4.8 [ja] (X11; U; SunOS 5.7 sun4u)',
+                   'Mozilla/5.0 (Windows; U; Win98; ja-JP; m18) Gecko/20001108 Netscape6/6.0',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.0; ja-JP; m18) Gecko/20010131 Netscape6/6.01',
+                   'Mozilla/5.0 (Windows; U; Win 9x 4.90; ja-JP; rv:0.9.4) Gecko/20011128 Netscape6/6.2.1',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.1; ja-JP; rv:0.9.4.1) Gecko/20020508 Netscape6/6.2.3',
+                   'Mozilla/5.0 (Macintosh; N; PPC; ja-JP; macja-pub12) Gecko/20001108 Netscape6/6.0',
+                   'Mozilla/5.0 (Macintosh; U; PPC; ja-JP; rv:0.9.2) Gecko/20010726 Netscape6/6.1',
+                   'Mozilla/5.0 (Macintosh; U; PPC; ja-JP; rv:0.9.4) Gecko/20011022 Netscape6/6.2',
+                   'Mozilla/5.0 (Macintosh; U; PPC Mac OS X; en-US; rv:0.9.4.1) Gecko/20020315 Netscape6/6.2.2',
+                   'Mozilla/5.0 (Windows; U; Win98; en-US; rv:1.0.2) Gecko/20030208 Netscape/7.02',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.1; ja-JP; rv:1.4) Gecko/20030624 Netscape/7.1 (ax)',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.4) Gecko/20030624 Netscape/7.1 (ax)',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.2) Gecko/20040804 Netscape/7.2 (ax)',
+                   'Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7.2) Gecko/20040805 Netscape/7.2',
+                   'Mozilla/5.0 (Macintosh; U; PPC Mac OS X; ja-JP; rv:1.0.2) Gecko/20021120 Netscape/7.01',
+                   'Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; ja-JP; rv:1.4) Gecko/20030624 Netscape/7.1',
+                   'Mozilla/5.0 (X11; U; SunOS sun4u; ja-JP; rv:1.0.1) Gecko/20020921 Netscape/7.0',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.0; ja-JP; rv:1.5) Gecko/20031007',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.6) Gecko/20040113',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.7) Gecko/20040616',
+                   'Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.6) Gecko/20040113',
+                   'Mozilla/5.0 (X11; U; Linux i686; ja-JP; rv:1.2.1) Gecko/20030225',
+                   'Mozilla/5.0 (X11; U; Linux i686; ja-JP; rv:1.4.1) Gecko/20031030',
+                   'Mozilla/5.0 (X11; U; FreeBSD i386; en-US; rv:1.7.1) Gecko/20040805',
+                   'Mozilla/5.0 (X11; U; SunOS sun4u; ja-JP; rv:1.4) Gecko/20040414',
+                   'Mozilla/5.0 (X11; U; Linux i686; rv:1.7.3) Gecko/20040913 Firefox/0.10',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.0; rv:1.7.3) Gecko/20040913 Firefox/0.10',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3) Gecko/20040913 Firefox/0.10',
+                   'Mozilla/5.0 (X11; U; Linux i686; rv:1.7.3) Gecko/20041001 Firefox/0.10.1',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.1; rv:1.7.3) Gecko/20041001 Firefox/0.10.1',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.0; rv:1.7.3) Gecko/20041001 Firefox/0.10.1',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.2; rv:1.7.3) Gecko/20041001 Firefox/0.10.1',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.1; ja-JP; rv:1.6) Gecko/20040206 Firefox/0.8',
+                   'Mozilla/5.0 (Windows; U; Win98; en-US; rv:1.6) Gecko/20040206 Firefox/0.8',
+                   'Mozilla/5.0 (X11; U; Linux i686; ja-JP; rv:1.6) Gecko/20040207 Firefox/0.8',
+                   'Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.6) Gecko/20040206 Firefox/0.8',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.1; ja-JP; rv:1.7) Gecko/20040614 Firefox/0.9',
+                   'Mozilla/5.0 (X11; U; Linux i686; es-ES; rv:1.7) Gecko/20040708 Firefox/0.9',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.1; ja-JP; rv:1.7) Gecko/20040707 Firefox/0.9.2',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.5) Gecko/20041107 Firefox/0.9.2 StumbleUpon/1.994',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.1; ja-JP; rv:1.7) Gecko/20040803 Firefox/0.9.3',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.7) Gecko/20040803 Firefox/0.9.3',
+                   'Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7) Gecko/20040803 Firefox/0.9.3',
+                   'Mozilla/5.0 (Windows; U; Win98; en-US; rv:1.7) Gecko/20040803 Firefox/0.9.3',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.7) Gecko/20040803 Firefox/0.9.3',
+                   'Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.4) Gecko/20040803 Firefox/0.9.3',
+                   'Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.7) Gecko/20041013 Firefox/0.9.3 (Ubuntu)',
+                   'Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.7) Gecko/20041013 Firefox/0.9.3 (Ubuntu)',
+                   'Mozilla/5.0 (Macintosh; U; PPC Mac OS X Mach-O; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0',
+                   'Mozilla/5.0 (Windows; U; Win 9x 4.90; nl-NL; rv:1.7.5) Gecko/20041202 Firefox/1.0',
+                   'Mozilla/5.0 (Windows; U; Win 9x 4.90; nl-NL; rv:1.7.5) Gecko/20041202 Firefox/1.0',
+                   'Mozilla/5.0 (Windows; U; Win98; nl-NL; rv:1.7.5) Gecko/20041202 Firefox/1.0',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.0; de-DE; rv:1.7.5) Gecko/20041108 Firefox/1.0',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.0; de-DE; rv:1.7.5) Gecko/20041122 Firefox/1.0',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.0; en-GB; rv:1.7.5) Gecko/20041107 Firefox/1.0',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.0; en-GB; rv:1.7.5) Gecko/20041110 Firefox/1.0',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.0; fr-FR; rv:1.7.5) Gecko/20041108 Firefox/1.0',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.0; it-IT; rv:1.7.5) Gecko/20041110 Firefox/1.0',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.1; de-DE; rv:1.7.5) Gecko/20041107 Firefox/1.0',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.1; de-DE; rv:1.7.5) Gecko/20041108 Firefox/1.0',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.1; de-DE; rv:1.7.5) Gecko/20041122 Firefox/1.0',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.7.5) Gecko/20041110 Firefox/1.0',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0 StumbleUpon/1.999',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.1; es-ES; rv:1.7.5) Gecko/20041210 Firefox/1.0',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.1; fr-FR; rv:1.7.5) Gecko/20041108 Firefox/1.0',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.1; nl-NL; rv:1.7.5) Gecko/20041202 Firefox/1.0',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.1; sv-SE; rv:1.7.5) Gecko/20041108 Firefox/1.0',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US; rv:1.8b) Gecko/20050212 Firefox/1.0+ (MOOX M3)',
+                   'Mozilla/5.0 (Windows; U; WinNT4.0; en-US; rv:1.7.5) Gecko/20041107 Firefox/1.0',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.8b) Gecko/20050118 Firefox/1.0+',
+                   'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.8b) Gecko/20050118 Firefox/1.0+',
+                   'Mozilla/5.0 (X11; U; FreeBSD i386; en-US; rv:1.7.5) Gecko/20050103 Firefox/1.0',
+                   'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36 OPR/26.0.1656.60',
+                   'Opera/8.0 (Windows NT 5.1; U; en)',
+                   'Mozilla/5.0 (Windows NT 5.1; U; en; rv:1.8.1) Gecko/20061208 Firefox/2.0.0 Opera 9.50',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; en) Opera 9.50',
+                   'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:34.0) Gecko/20100101 Firefox/34.0',
+                   'Mozilla/5.0 (X11; U; Linux x86_64; zh-CN; rv:1.9.2.10) Gecko/20100922 Ubuntu/10.10 (maverick) Firefox/3.6.10',
+                   'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/534.57.2 (KHTML, like Gecko) Version/5.1.7 Safari/534.57.2',
+                   'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36',
+                   'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11',
+                   'Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.16 (KHTML, like Gecko) Chrome/10.0.648.133 Safari/534.16',
+                   'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/30.0.1599.101 Safari/537.36',
+                   'Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko',
+                   'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/536.11 (KHTML, like Gecko) Chrome/20.0.1132.11 TaoBrowser/2.0 Safari/536.11',
+                   'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.1 (KHTML, like Gecko) Chrome/21.0.1180.71 Safari/537.1 LBBROWSER',
+                   'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; LBBROWSER) ',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; QQDownload 732; .NET4.0C; .NET4.0E; LBBROWSER)',
+                   'Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; WOW64; Trident/5.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; .NET4.0C; .NET4.0E; QQBrowser/7.0.3698.400)',
+                   'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; QQDownload 732; .NET4.0C; .NET4.0E)',
+                   'Mozilla/5.0 (Windows NT 5.1) AppleWebKit/535.11 (KHTML, like Gecko) Chrome/17.0.963.84 Safari/535.11 SE 2.X MetaSr 1.0',
+                   'Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1; Trident/4.0; SV1; QQDownload 732; .NET4.0C; .NET4.0E; SE 2.X MetaSr 1.0)',
+                   'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Maxthon/4.4.3.4000 Chrome/30.0.1599.101 Safari/537.36'
                    ]
 
 ITEM_PIPELINES = {
@@ -187,10 +779,10 @@ DOWNLOADER_MIDDLEWARES = {
 }
 ROBOTSTXT_OBEY = False
 
-
 """
 特级画师
 ============================================
+reel37891 超级
 ayamy 超级蕾姆   torino_akua  kahlua kfr  aozora_nan aimh irohasu hajin
 iren_lovel  nabi_(uz02)  hinaki_(hinaki_0102) macaron_taitei
 topia  satoimo_chika  ranf  konomi kanipanda hokori_sakuni
@@ -203,8 +795,7 @@ kinokomushi  shiokazunoko kokusan_moyashi aro_1801 sasachin_%28k%2Bw%29 hatafuta
 amashiro_natsuki 超级小萝莉  ibara_riato  niyu_n_iyun
 ohshit kazenoko  ominaeshi_(takenoko) mia_(fai1510)
 kawami_nami   yano_mitsuki  miko_92  6u
-fujii_tomoyuki swordsouls  unacchi
-allenes 碧蓝 梅 画师
+fujii_tomoyuki swordsouls  unacchi 碧蓝 梅 画师
 hecha_(swy1996228) 小天鹅 官方画师 oshishio
 qianjing baffu  pot-palm moemoe3345 zuima toba_hiyoko
 shiwasu_horio tsuuhan kaede suihi unasaka_ryou bada_(jksh5056) mika_pikazo
@@ -231,12 +822,15 @@ fifty1202 izayoi_miku  motokonut  mannaku ero_waifu
 coffee-kizoku wasabi_(sekai)  haori_iori hidebuu
 haneru manda_(manda9n) clouble tamakake  cruel_gz
 mellozzo hitsukuya mokew  fueru_nattou shirousa
-sutorea misomiso_154 mkichi shiruko27anko
+sutorea  mkichi shiruko27anko
 tsliuyixin hiroichi kuaua  igakusei mizuki_ryuu
 nagayama_yuunon maruma_(maruma_gic)
 azuki_yui karutamo risemu_(c_liesem)
 yasuyuki calder  sasahara_wakaba kino_(kino_konomi)
-cccpo kishiyo lambda takei_ooki  tomohiro_kai
+cccpo  lambda takei_ooki  tomohiro_kai
+tatapopo
+kaede_(pixiv_id_1023957)碧蓝画师
+kishiyo 吾妻
 viola1587 hisasi agung_syaeful_anwar
 blade_(galaxist)  tidsean sanan
 rurudo 超级小恶魔  tiv  atha_(leejuiping)
@@ -244,9 +838,10 @@ eumi_114 kinona harimoji chikuwa.
 k.syo.e%2B 初音超级 jimmy
 sencha_(senta_10)  kagawa_yuusaku  nijihashi_sora
 misumi_(macaroni) 超级 fujima_takuya
-nanananana  masayo_(gin_no_ame)
+nanananana  
+masayo_(gin_no_ame)
 racchi. kokose kirisawa_saki
-kaetzchen kimishima_ao
+ kimishima_ao
 mamizu nari_(narikashi)
   soyubee   amagai_tarou ia_(ias1010)
 ttosom yuurei_yashiki  shiratama_(shiratamaco)
@@ -255,7 +850,8 @@ shiratama_akane 超级  purin_jiisan
  tsukiyo_(skymint)  zain_(jiha3905)
 byulzzimon 碧蓝画师   knoy3356
 taku_michi pjrmhm_coa unacchi_(nyusankin)
-kedama_milk nanam_(nanam_sk) pei_er_xia  mellozzo
+kedama_milk 超级小恶魔
+nanam_(nanam_sk) pei_er_xia  mellozzo
 fuyuki030  hokori_sakuni 凑阿库娅
 akashio  lava_(25486006)  kisaragi_yuri  deecha
 atdan 碧蓝-能代画师
@@ -264,7 +860,7 @@ amashiro_natsuki--->mafuyu_(chibi21)--》Mafuyu karutamo
 anmi fuji_choko usagihime
 muririn 魔女的夜宴   hatafuta
  r_o_ha ramchi toridamono
- t6_ti minato_aqua loli_ta1582
+ t6_ti  loli_ta1582
  kanzaki_hiro 俺妹
  kaede_(003591163) 碧蓝画师
  hayataku1234 jiiwara suzumori_uina
@@ -278,7 +874,8 @@ efe SM兽耳娘 wsman   ntk_(7t5) hiten
  filings_(ailuo_c) 山城 fuji_noyume tokkyu mitsuba_choco
 manda_manda9n小天鹅 miyase_mahiro宫濑  mochizuki_shiina望月
  ikomochi山城  irohasu karutamo  sunhyun
-ririko_(zhuoyandesailaer) 黑丝大长腿 kaetzchen
+ririko_(zhuoyandesailaer) 黑丝大长腿 
+kaetzchen 超级X18
 kimishima_ao 恋彼女画师  koyama_sao maccha morikura_en
 misomiso_154 mkichi  bison_cangshu
 shiino_sera  kanadetsuki_shion 超级
@@ -292,8 +889,6 @@ hyuuga_azuri 超级
 fuumi_(radial_engine)
 tsuruse
 """
-
-
 
 """
 
@@ -333,7 +928,7 @@ prinz_eugen_(azur_lane) yukikaze_(azur_lane) done  tokkzyu   wsman  takimoto_hif
 miyasaka_miyu nenosame  maruchan.  ponika arudehido masuishi_kinoto houkou_yuuka darjeeling_(reley)  sune_(mugendai)
 paint_musume kagematsuri miwano_ragu wagashi928 weeniedesu misaki_kurehito hato_haru denchu_(kazudentyu) kazuha_(saku_kn) ounijang
 shipii_(jigglypuff)  sutorora inushi mirai_(happy-floral) shimo_(shimo332215) obiwan bara0717 paburisiyasu nasuno_(nasuno42) ghostfin
-tksand higandgk okina_ika sango_30  beni_kurage    gukha toyosaki_shu  tanaka_takayuki
+tksand higandgk okina_ika sango_30  beni_kurage    gukha   tanaka_takayuki
  refile   wari_(nirodo26)   kohakope k_jie hebitsukai-san ichiki_1 hyonee  ansauce gatari
 ss851251 tobimura  fallen-leaves ryuki_(ryukisukune) peach_punch tr-6 gin00 cp00 dango_(dangowalolicon) marigold12
   tsunekichi chikuwa_savi nanahara_fuyuki nakyo matarou_(genkai_toppa) n2_(yf33) mashiro_aa gendo0032 haruka_natsuki wu_ganlan_cai
@@ -367,7 +962,7 @@ manda_(eyelashes)    yatomi tsunako peko u2_(5798239) rurikoma tsuedzu  pinb pir
    jigatei_(omijin) denfunsan mayag nuko_miruku sukireto mechuragi  efe pan_(mimi)   hazuki_(sutasuta)
 
 siu_(siu0207) seinen yappen niie nyatabe lisu kazu
-nanoless usagihime stoyo_606 yamamoto_tomoha araragikoyomis gou_d white_l mash_kyrielight chixiao
+ usagihime stoyo_606 yamamoto_tomoha araragikoyomis gou_d white_l mash_kyrielight chixiao
  sakipsakip maosame takeg05 tokinohimitsu yang_guifei_(fate/grand_order) user_gypr5774
  kurumi_moka shichimiyagin  tenzeru  yuuko_(030_yuko) terry_(pixiv3274443) solru
 kurikara  riv marmoset0 marmoset_(marmoset0)  tail sakura_(mtmr4354)  motohara_moka sirius_(azur_lane)
@@ -389,7 +984,7 @@ tming  gei_daipf nagu   analog_kenshi_(moto) roslyria  urata_asao
  fast-runner-2024 kamishiro_(rsg10679) tamano_kedama criin  kinokorec dreamcatcher
 hasune aimee_(emi) siino emily_(pure_dream)  ohara_tometa  yuxian_youka nanotaro  hoshi
  tokenbox jaga_yamatarawo k-doku  onineko  tomo_(user_hes4085) fallen_heaven
-amedamacon oryou sakuragi_ren yunamaro    ju_(a793391187)  yano_momoko user_yzzn3747
+amedamacon oryou sakuragi_ren yunamaro      yano_momoko user_yzzn3747
 hidaka0503 seon_(seonon_) anparu  shuugetsu_karasu umibouzu_(niito)  hiraga_matsuri
 yashiro_seika wowoguni   kyouya_(mukuro238)  takeashiro fukunoki_tokuwa kinugasa_yuuichi ochiai_miyabi
   to_naive miruto_netsuki  osa_(osaosa)   hakuishi_aoi nedia_(nedia_region)
@@ -409,7 +1004,7 @@ kuroi_asahi cow-ring maruki_nobuaki mofu_namako  izumo_(user_cmcy2878)
 qigas  hachita_(odangoya) vashaps2 kurot izumo_neru kanon_(kanon_kanon0770) kiyosato0928
 katsushika_hokusai_(fate/grand_order) nekomicha
  kashiwabara_en toki_(1243309499)
- reel37891 zen kase_daiki hjhhzb yohaku saya_(mychristian2) fufumi yuzuki_kihiro kon_(k0n16) nanase_nao
+  zen kase_daiki hjhhzb yohaku saya_(mychristian2) fufumi yuzuki_kihiro kon_(k0n16) nanase_nao
 tapioka_(oekakitapioka) kunoki_toki akabane_(zebrasmise) fukurou_(hvgd5584) y3010607 olive_(laai) shimamura_uzuki
 teffish hyurasan numpopo damao_yu rika_(mikunopantsu) suimya pentagon_(railgun_ky1206) kijibato_123-gou
 cenangam masuyama_ryou kikurage_tom. narynn ale_nqki karla_(kimidori3) mono_lith abandon_ranka namamo_nanase
@@ -427,7 +1022,7 @@ shigure_(kancolle) yuanchuang akanagi_youto ogs_(orgasm888) kikistark darnell mo
 bokutachi_wa_benkyou_ga_dekinai duji_amo koko_sokodoko rukako arata_(xin) akitaka_akita mizuabi_kamome  yatsu_seisakusho
 dana_(hapong07) chien_zero   mi_taro333 hum_(ten_ten) kesoshirou kinom_(sculpturesky) issindotai
 kieta  nezumidoshi seriya shigure_ui ichikawa_feesu  mizukoshi_(marumi) ds_a  rong_yi_tan  narunaru1320 azumi_akitake
-h2o_(dfo)  luse_maonang moyoron  dolce_(dolsuke)  rama_(yu-light8) shiina_aoi  jam_(nandade) fou_zi  yuri_shoutu ogino_atsuki
+h2o_(dfo)  luse_maonang   dolce_(dolsuke)  rama_(yu-light8) shiina_aoi  jam_(nandade) fou_zi  yuri_shoutu ogino_atsuki
  yukisame  tamakaga jh aldehyde yukishiro_arute aruka_(alka_p1) mizuka_nayuki mairo asa0504 ss851251 nagisa_(cxcx5235) ragho_no_erika
  lunacle gilse yushima melings_(aot2846) mafuyu kazenokaze fakegeo tiguruvurumudo_vuorun takunomi ookuma_(qq) nanotsuki tantan_men_(dragon)
 rednian  fal_maro zoff_(daria) kizibato123go kamioka_shun'ya ashima fuzichoko amano_kouki paya_(aejx234) minami_saki boku_koyuki_mx
@@ -438,12 +1033,12 @@ ameyame mugi_(banban53) euryale tuchishiratama_akanenokoeffect araki495 hiromast
 nankotsu niji_(rudduf232) hayashi_kewi  rafael-m saibe puracotte yinqi norukinoko_(reee52) seneto marushin_(denwa0214)
 akasaai nya_r kisaki_oni slyvia  haru_(re_ilust) marcellokito! nogi_takayoshi   ginn_(hzh770121)
 omelet_tomato yukidaifuku taro_(ultrataro) gg-e icebox46 nekopote misakamitoko0903 joey_koguma shigure_ui kodama_(mmt_uf)
-black_rabbit leaf98k kurun_(kurun777) sukocchi ekita_xuan uruha_rushia yukishiro_haku connie_(keean2019)  mustard_1014028852
+black_rabbit leaf98k kurun_(kurun777) sukocchi ekita_xuan  yukishiro_haku connie_(keean2019)  mustard_1014028852
 maett aeoso thank_star azuuru verjuice purinko irori rivier_(kuzuyu) t-bth shironora shibaebi_(yasaip_game) broche_(timpet)
-hiroimu apple228 buriki tsukiman katou_megumi uni gukukimu sazaki_ichiri
+hiroimu apple228 buriki tsukiman  uni gukukimu sazaki_ichiri
 tr_(hareru) bou_shaku minamoto_mamechichi shinjou_akane dyolf piyodera_mucha fukai_ryousuke
 dsmile  saenai_heroine_no_sodatekata  takitou kudou_maimu kamu_(geeenius)
-prut3  resonancq take_(trude1945oneetyan) sunoril muteki_souda hirotan_insitao
+prut3  resonancq  sunoril muteki_souda hirotan_insitao
 touhourh shinsoyori 2drr hiragi_ringo mirufuaa shirosaba ha9na daima_hmw  nian
  hasegawa_(rarairairai) hoshino_koucha manatsuki_manata poppypilf dahl-lange takenoko_27074918 daki-makura
  hakuto_momiji tasora kagachi_saku pokachu masa_masa jjeono kuroi_(liar-player) 21doolybj love_makira
@@ -452,7 +1047,7 @@ saki8827 saraki hitotsuki_no_yagi neko_(yanshoujie) tomozero mujinbi niliu_chahu
 blue-senpai  gwegwe  dleung yuuka_nonoko kanda_done apple_caramel ayamori_mimi miura_ryuu amaroku_neko  qian_wu_atai
 rococo orn u4284g hsuliherng raemz sg_(satoumogumogu) yan_(nicknikg) 029 sawa_(sawasaku) okuda_yoshiko keis_(locrian1357) be_garam
 yyo kaisen_chuui yuzuzukushi yoshida_iyo huwali_(dnwls3010) mahousho monoku  tsukamori_shuuji katoroku mctom shamakho
-yuuuuu  bico_(bicoris) hitokuchii tutinako keiran_(ryo170) asou_(asabu202) katou_megumi nemuri_nemu kohinata_hoshimi
+yuuuuu  bico_(bicoris) hitokuchii tutinako keiran_(ryo170) asou_(asabu202)  nemuri_nemu kohinata_hoshimi
 
 the_cold sakura_oriko yeoohdam cuboon prophet_chu konagi_(konachi_e) saitou_(lynx-shrike) silver15
 ukiwakisen  meow_nyang ponyaru myuton goomrrat isegawa_yasutaka  yukinoshita_yukino takeya_y0615 feng_mouren
