@@ -3,7 +3,6 @@ import scrapy
 import re
 import time
 from webUrlGetor.settings import *
-from webUrlGetor.items import WeburlgetorItem
 import requests
 import urllib3
 import sys
@@ -32,7 +31,7 @@ class CchinaSpider(scrapy.Spider):
     print("图片存储位置-->", dirs)
 
     def parse(self, response):
-        time.sleep(random.randint(5, 10))
+        self.time_sleep(random.randint(2, 5))
         sel = scrapy.Selector(text=response.body)
 
         deep_links = sel.xpath("//span[contains(@class,'thumb')]").extract()
@@ -62,7 +61,7 @@ class CchinaSpider(scrapy.Spider):
                 yield scrapy.Request(next_page_url, callback=self.parse, dont_filter=False)
 
     def parse2(self, response):
-        time.sleep(random.randint(5, 10))
+        self.time_sleep(random.randint(2, 5))
         sel = scrapy.Selector(text=response.body)
         deep_links = sel.xpath("//*[@id=\"image-link\"]/@href").extract()
         if len(deep_links) > 0:
@@ -74,21 +73,21 @@ class CchinaSpider(scrapy.Spider):
 
                 if os.path.exists(path):
                     print("file exit in path")
-                elif len(self.SQLTools.query_from_UserNew_more_info(file_name)) > 0:
+                elif len(self.SQLTools.query_from_UserNew_more_info("c+" + file_name)) > 0:
                     print("file exit in db")
                 else:
                     try:
-                        time.sleep(1)
+                        self.time_sleep(random.randint(1, 3))
                         if not url.startswith("http"):
                             url = "https:" + url
-                        res = requests.get(url, timeout=18000, verify=False, headers=headers)
+                        res = requests.get(url, timeout=360, verify=False, headers=headers)
                         print("tags--->" + str(tags))
                         print("pic_url-->", url)
                         with open(path, 'wb') as f:
                             f.write(res.content)
                         print("保存成功！文件名为%s" % file_name)
-                        self.SQLTools.insert_into_new_db(file_name, tags)
-                        time.sleep(random.randint(3, 7))
+                        self.SQLTools.insert_into_new_db("c+" + file_name, tags)
+                        self.time_sleep(random.randint(5, 7))
                     except:
                         pass
 
@@ -109,20 +108,26 @@ class CchinaSpider(scrapy.Spider):
                 url = "https:" + str(sample_link)
                 if os.path.exists(path):
                     print("file exit in path")
-                elif len(self.SQLTools.query_from_UserNew_more_info(file_name)) > 0:
+                elif len(self.SQLTools.query_from_UserNew_more_info("c+" + file_name)) > 0:
                     print("file exit in db")
                 else:
                     try:
-                        time.sleep(1)
+                        self.time_sleep(random.randint(1, 3))
                         if not url.startswith("http"):
                             url = "https:" + url
-                        res = requests.get(url, timeout=18000, verify=False, headers=headers)
+                        res = requests.get(url, timeout=360, verify=False, headers=headers)
                         print("tags--->" + str(tags))
                         print("pic_url-->", url)
                         with open(path, 'wb') as f:
                             f.write(res.content)
                         print("保存成功！文件名为%s" % file_name)
-                        self.SQLTools.insert_into_new_db(file_name, tags)
-                        time.sleep(random.randint(3, 5))
+                        self.SQLTools.insert_into_new_db("c+" + file_name, tags)
+                        self.time_sleep(random.randint(5, 7))
                     except:
                         pass
+
+    def time_sleep(self, times):
+        print("will sleep" + str(times) + "S")
+        for i in range(0, times):
+            print("sleeping ...............")
+            time.sleep(1)

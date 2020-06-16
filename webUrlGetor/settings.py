@@ -52,31 +52,35 @@ uncensored+game_cg k.y_ko+uncensored
 Zen33n+uncensored done 
 rang_ji7 komeshiro_kasu+uncensored
 donedone+uncensored
-ayamy+nipples
+ayamy+nipples muse_%28amaburi%29+amagi_brilliant_park
 chuablesoft+uncensored
 isshiki_iroha+uncensored 春物
 hoshikawa_mafuyu+uncensored 调教咖啡厅
 hera_%28hara0742%29+amagi_brilliant_park 甘城光辉游乐园
-
-"""
-
-tags = "liliruca_arde+dungeon_ni_deai_wo_motomeru_no_wa_machigatteiru_darou_ka%3F"
-
-"""
 liliruca_arde+dungeon_ni_deai_wo_motomeru_no_wa_machigatteiru_darou_ka%3F 在地下城寻找卸后
 sawamura_spencer_eriri+uncensored 路女主
-muse_%28amaburi%29
 muse_%28amaburi%29+amagi_brilliant_park 甘城光辉游乐园
 nibutani_shinka+uncensored 京阿尼画师
 misaki_kurehito+uncensored
 hera_%28hara0742%29+kawakami_mai
 ipuu_(el-ane_koubou)+uncensored
-tenzeru+nipples
-sayika+uncensored
-rin_yuu  hatsuki_kaname
-matsui_hiroaki+nipples
+tenzeru+nipples sayika+uncensored
 gwegwe+uncensored
 miramu_(ramu450471)+uncensored
+lose+uncensored  rin_yuu
+"""
+
+tags = "lose+uncensored"
+
+"""
+
+
+
+
+rin_yuu  hatsuki_kaname
+matsui_hiroaki+nipples
+
+
 yasuyuki+uncensored
 sasorigatame+uncensored
 ikegami_akane+uncensored
@@ -84,7 +88,7 @@ yamagami_miori+uncensored
 sprite_(company)+uncensored
 sprite_(company)+nipples
 harukaze-soft+uncensored
-lose+uncensored
+
 yukie++uncensored
 erectlip+uncensored
 whirlpool_%28company%29+uncensored
@@ -109,7 +113,6 @@ watashi_ni_tenshi_ga_maiorita%21+uncensored
 pan_%28mimi%29+uncensored
 ama_koi_syrups+uncensored
 missile228+uncensored
-
 solru+uncensored
 gmkj+uncensored
 haneru+uncensored
@@ -134,22 +137,14 @@ sendrawz+uncensored
 chitu_hefeng_zhong
 seventeen_(st17215)
 yoruneko
-
-
-
 kedama_milk+uncensored
-
 katou_megumi+uncensored
 rafael-m+uncensored
 n.g.
 ane_taiken_shuukan+uncensored
 allenes
-
 kouda_suzu+nipples
-
-  
 seiren_(series)
-
 """
 
 """
@@ -196,10 +191,6 @@ paaru https://chan.sankakucomplex.com/?tags=kaede_%28003591163%29
 
 """
 
-"""C站
-
-"""
-
 """
 blue_gk
 DGK 待爬  hukairi_botan
@@ -211,7 +202,7 @@ uruha_rushia  the_hermit
 shirakami_fubuki
 nenobi_(nenorium)
 paaru
-ankkoyom
+ankkoyom 
 wata0933
 kazucha 碧蓝和茶
 momi 碧蓝铃谷
@@ -263,7 +254,8 @@ nagisa3710  nahaki aruma_(sawayaka_tokuko_miruku)
 torokeru_none yukarite
 ciid  gabao.  mosta_(lo1777789) orihi_chihiro
 """
-
+DOWNLOAD_DELAY = 3
+CONCURRENT_REQUESTS = 1
 BOT_NAME = 'webUrlGetor'
 SPIDER_MODULES = ['webUrlGetor.spiders']
 NEWSPIDER_MODULE = 'webUrlGetor.spiders'

@@ -88,8 +88,5 @@ class SQLTools(object):
 
 if __name__ == '__main__':
     x = SQLTools()
-    a = x.query_from_UserNew_more_info(
-        "yande.re%20580199%20bigrbear%20fate_grand_order%20mash_kyrielight%20naked%20nipples%20penis%20pussy%20uncensored.jpg")
-
-    b = x.insert_into_new_db("sss", "aa")
+    a=x.stringtomd5("68682a2817c805c1ed50b13484c8ff38.png")
     print(a)
